@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Alexander Garbiak</title>
+    <link>https://agarbiak.github.io/authors/</link>
+      <atom:link href="https://agarbiak.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://agarbiak.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://agarbiak.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://agarbiak.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a senior actuarial analyst at Hiscox. My current role is reserving focused, primarily within US liability classes of business. Outside of this role, I am interested in software development with a work-related focus on the capabilities of R.&lt;/p&gt;
+&lt;p&gt;This website is not associated with Hiscox and as such all views and opinions expressed are my own and do not reflect those of my employer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
