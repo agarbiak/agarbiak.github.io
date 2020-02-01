@@ -4,7 +4,47 @@
   
   <url>
     <loc>https://agarbiak.github.io/</loc>
-    <lastmod>2020-01-28T00:00:00+01:00</lastmod>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/categories/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/tags/git/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/post/building-this-site/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/tags/hugo/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/categories/personal/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/post/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/tags/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/tags/web-development/</loc>
+    <lastmod>2020-01-31T23:12:01+00:00</lastmod>
   </url>
   
   <url>
@@ -26,14 +66,6 @@
   </url>
   
   <url>
-    <loc>https://agarbiak.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agarbiak.github.io/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://agarbiak.github.io/publication_types/</loc>
   </url>
   
@@ -43,10 +75,6 @@
   
   <url>
     <loc>https://agarbiak.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agarbiak.github.io/tags/</loc>
   </url>
   
 </urlset>

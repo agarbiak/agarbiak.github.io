@@ -5,12 +5,20 @@
     <link>https://agarbiak.github.io/categories/</link>
       <atom:link href="https://agarbiak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Fri, 31 Jan 2020 23:12:01 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
       <link>https://agarbiak.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://agarbiak.github.io/categories/personal/</link>
+      <pubDate>Fri, 31 Jan 2020 23:12:01 +0000</pubDate>
+      <guid>https://agarbiak.github.io/categories/personal/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
