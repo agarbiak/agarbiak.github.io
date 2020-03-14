@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Alexander Garbiak</title>
+    <link>https://agarbiak.github.io/project/</link>
+      <atom:link href="https://agarbiak.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sat, 14 Mar 2020 16:18:53 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://agarbiak.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Renders from Blender</title>
+      <link>https://agarbiak.github.io/project/blender/</link>
+      <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
+      <guid>https://agarbiak.github.io/project/blender/</guid>
+      <description>&lt;h2 id=&#34;portfolio-of-renders-ive-created-from-blender&#34;&gt;Portfolio of renders I&amp;rsquo;ve created from Blender&lt;/h2&gt;
+&lt;p&gt;This page is a showcase of the Blender renders I&amp;rsquo;ve completed. The background to this is 
+&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Creepy creature using cloth physics:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;creepy-creature.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Introduction to Mocap using 
+&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Mixamo&lt;/a&gt;
+, Adobe&amp;rsquo;s free rigging tool:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;particle-dancer2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Messing with a vortex and the particle simulation feature:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;particle-vortex.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;First introduction to key framing:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;pendulum.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;First ever .mp4 render, using the particle simulation feature:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;second-render.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Some rigid body physics:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;wreaking-ball.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,58 @@
     <link>https://agarbiak.github.io/post/</link>
       <atom:link href="https://agarbiak.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Fri, 31 Jan 2020 23:12:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 01 Mar 2020 12:46:19 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://agarbiak.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Blender - Open Source Computer Graphics</title>
+      <link>https://agarbiak.github.io/post/blender/</link>
+      <pubDate>Sun, 01 Mar 2020 12:46:19 +0000</pubDate>
+      <guid>https://agarbiak.github.io/post/blender/</guid>
+      <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I had a desire to do work on some animation.
+I&amp;rsquo;ve never worked on computer graphics before but having now spent a week or so messing around in Blender, I have found it a lot of fun. I have learnt a few things along the way already:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Blender is not something to do after work when trying to relax (I&amp;rsquo;ve found it stimulates the brain and is also quite addictive - let&amp;rsquo;s try &lt;em&gt;one more thing&lt;/em&gt; is quite a common thought),&lt;/li&gt;
+&lt;li&gt;Blender has an amazing community for beginners, YouTube tutorials are very easy to follow and the best place to start (learn the UI and pick up some shortcut keys),&lt;/li&gt;
+&lt;li&gt;CG artists are incredibly talented and I am certainly just a hobbyist beginner, having some fun,&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;re dumb (like me) you&amp;rsquo;ll soon realise that Blender will try to perform any operation you ask of it - even if it totally destroys your hardware, thankfully the software is smart enough to just immediately crash.&lt;/li&gt;
+&lt;li&gt;Lighting and camera placement (and movement for animations) make or break a scene. Two areas (amongst many) I need to work on.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So far I&amp;rsquo;ve explored Blender&amp;rsquo;s:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Particle simulation,&lt;/li&gt;
+&lt;li&gt;Rigid body physics,&lt;/li&gt;
+&lt;li&gt;Cloth physics and&lt;/li&gt;
+&lt;li&gt;Fluid physics for liquids (water) and gas (smoke).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am intrigued by the soft body physics and may have a play with that next.&lt;/p&gt;
+&lt;p&gt;In terms of Blender channels I recommend the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/user/mrdodobird&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ian Hubert&lt;/a&gt;
+ - his lazy tutorials are amusing and inspiring,&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ducky 3D&lt;/a&gt;
+ - I have found his tutorials easy to follow with satisfying rendered output,&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCrXMyWVRmiXdMTpxxCsPuCQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blenderBinge&lt;/a&gt;
+ - Shorter tutorials which comes at the cost of being harder to follow,&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Default Cube&lt;/a&gt;
+ - explores some interesting add ons and features.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; and many others - any Blender output I create generated substantially from other&amp;rsquo;s documentation I will link to.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally I have to mention 
+&lt;a href=&#34;https://www.beeple-crap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beeple.&lt;/a&gt;
+
+The artwork by this CG artist is awesome, and the style is something I&amp;rsquo;d like to emulate within Blender (he seems to use Cinema 4D most of the time).&lt;/p&gt;
+&lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Hope you enjoy and feel free to make any suggestions on what I could tackle next.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How I built this website</title>
@@ -27,7 +73,7 @@
 &lt;/ul&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is.
+    This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last modified date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;the-inspiration-for-this-site&#34;&gt;The inspiration for this site&lt;/h2&gt;
