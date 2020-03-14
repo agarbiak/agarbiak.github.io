@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Alexander Garbiak</title>
+    <link>https://agarbiak.github.io/categories/</link>
+      <atom:link href="https://agarbiak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sat, 14 Mar 2020 16:18:53 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Categories</title>
+      <link>https://agarbiak.github.io/categories/</link>
+    </image>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://agarbiak.github.io/categories/personal/</link>
+      <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
+      <guid>https://agarbiak.github.io/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
