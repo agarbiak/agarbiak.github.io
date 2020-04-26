@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blender | Alexander Garbiak</title>
+    <link>https://agarbiak.github.io/tags/blender/</link>
+      <atom:link href="https://agarbiak.github.io/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blender</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sat, 14 Mar 2020 16:18:53 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Blender</title>
+      <link>https://agarbiak.github.io/tags/blender/</link>
+    </image>
+    
+    <item>
+      <title>Blender Renders</title>
+      <link>https://agarbiak.github.io/project/blender/</link>
+      <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
+      <guid>https://agarbiak.github.io/project/blender/</guid>
+      <description>&lt;h2 id=&#34;portfolio-of-renders-ive-created-from-blender&#34;&gt;Portfolio of renders I&amp;rsquo;ve created from Blender&lt;/h2&gt;
+&lt;p&gt;This page is a showcase of the Blender renders I&amp;rsquo;ve completed. The background to this is 
+&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Creepy creature using cloth physics:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;creepy-creature.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Introduction to Mocap using 
+&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Mixamo&lt;/a&gt;
+, Adobe&amp;rsquo;s free rigging tool:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;particle-dancer2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Messing with a vortex and the particle simulation feature:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;particle-vortex.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;First introduction to key framing:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;pendulum.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;First ever .mp4 render, using the particle simulation feature:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;second-render.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Some rigid body physics:
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;wreaking-ball.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blender - Open Source Computer Graphics</title>
+      <link>https://agarbiak.github.io/post/blender/</link>
+      <pubDate>Sun, 01 Mar 2020 12:46:19 +0000</pubDate>
+      <guid>https://agarbiak.github.io/post/blender/</guid>
+      <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I wanted to do some animation.
+I&amp;rsquo;ve never worked on computer graphics before but having now spent a week or so messing around in Blender, I have found it a lot of fun. I have learnt a few things along the way already:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Blender is not something to do after work when trying to relax (I&amp;rsquo;ve found it stimulates the brain and is also quite addictive - let&amp;rsquo;s try &lt;em&gt;one more thing&lt;/em&gt; is quite a common thought),&lt;/li&gt;
+&lt;li&gt;Blender has an amazing community for beginners, YouTube tutorials are very easy to follow and the best place to start (learn the UI and pick up some shortcut keys),&lt;/li&gt;
+&lt;li&gt;CG artists are incredibly talented and I am certainly just a hobbyist beginner, having some fun,&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;re dumb (like me) you&amp;rsquo;ll soon realise that Blender will try to perform any operation you ask of it - even if it totally destroys your hardware, thankfully the software is smart enough to just immediately crash.&lt;/li&gt;
+&lt;li&gt;Lighting and camera placement (and movement for animations) make or break a scene. Two areas (amongst many) I need to work on.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So far I&amp;rsquo;ve explored Blender&amp;rsquo;s:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Particle simulation,&lt;/li&gt;
+&lt;li&gt;Rigid body physics,&lt;/li&gt;
+&lt;li&gt;Cloth physics and&lt;/li&gt;
+&lt;li&gt;Fluid physics for liquids (water) and gas (smoke).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am intrigued by the soft body physics and may have a play with that next.&lt;/p&gt;
+&lt;p&gt;In terms of Blender channels I recommend the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/user/mrdodobird&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ian Hubert&lt;/a&gt;
+ - his lazy tutorials are amusing and inspiring,&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ducky 3D&lt;/a&gt;
+ - I have found his tutorials easy to follow with satisfying rendered output,&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt;
+ and 
+&lt;a href=&#34;https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Default Cube&lt;/a&gt;
+ - &lt;em&gt;CGMatter&lt;/em&gt; presents short and entertaining tutorial videos, often experimenting with his presentation style (not a fan of his short stint of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASMR&lt;/a&gt;
+ tutorials). His alternative channel &lt;em&gt;Default Cube&lt;/em&gt; has a more educational focus with longer, more detailed (better explained) tutorials.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; and many others &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally I have to mention 
+&lt;a href=&#34;https://www.beeple-crap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beeple.&lt;/a&gt;
+
+The artwork by this CG artist is awesome, and the style is something I&amp;rsquo;d like to emulate within Blender (he seems to use Cinema 4D most of the time).&lt;/p&gt;
+&lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Time pending, I plan to expand this out to longer animations which I think will be hosted on YouTube so that I can continue to host this website for free on GitHub (storing massive mpeg4 files may hit a storage cap on GitHub, I&amp;rsquo;m not sure, I haven&amp;rsquo;t looked into it yet).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
