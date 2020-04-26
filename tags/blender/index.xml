@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Renders from Blender</title>
+      <title>Blender Renders</title>
       <link>https://agarbiak.github.io/project/blender/</link>
       <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
       <guid>https://agarbiak.github.io/project/blender/</guid>
@@ -145,7 +145,7 @@
       <link>https://agarbiak.github.io/post/blender/</link>
       <pubDate>Sun, 01 Mar 2020 12:46:19 +0000</pubDate>
       <guid>https://agarbiak.github.io/post/blender/</guid>
-      <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I had a desire to do work on some animation.
+      <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I wanted to do some animation.
 I&amp;rsquo;ve never worked on computer graphics before but having now spent a week or so messing around in Blender, I have found it a lot of fun. I have learnt a few things along the way already:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Blender is not something to do after work when trying to relax (I&amp;rsquo;ve found it stimulates the brain and is also quite addictive - let&amp;rsquo;s try &lt;em&gt;one more thing&lt;/em&gt; is quite a common thought),&lt;/li&gt;
@@ -171,18 +171,19 @@ I&amp;rsquo;ve never worked on computer graphics before but having now spent a w
 &lt;a href=&#34;https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ducky 3D&lt;/a&gt;
  - I have found his tutorials easy to follow with satisfying rendered output,&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/channel/UCrXMyWVRmiXdMTpxxCsPuCQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blenderBinge&lt;/a&gt;
- - Shorter tutorials which comes at the cost of being harder to follow,&lt;/li&gt;
-&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt;
+ and 
 &lt;a href=&#34;https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Default Cube&lt;/a&gt;
- - explores some interesting add ons and features.&lt;/li&gt;
-&lt;li&gt;&amp;hellip; and many others - any Blender output I create generated substantially from other&amp;rsquo;s documentation I will link to.&lt;/li&gt;
+ - &lt;em&gt;CGMatter&lt;/em&gt; presents short and entertaining tutorial videos, often experimenting with his presentation style (not a fan of his short stint of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASMR&lt;/a&gt;
+ tutorials). His alternative channel &lt;em&gt;Default Cube&lt;/em&gt; has a more educational focus with longer, more detailed (better explained) tutorials.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; and many others &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And finally I have to mention 
 &lt;a href=&#34;https://www.beeple-crap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beeple.&lt;/a&gt;
 
 The artwork by this CG artist is awesome, and the style is something I&amp;rsquo;d like to emulate within Blender (he seems to use Cinema 4D most of the time).&lt;/p&gt;
-&lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Hope you enjoy and feel free to make any suggestions on what I could tackle next.&lt;/p&gt;
+&lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Time pending, I plan to expand this out to longer animations which I think will be hosted on YouTube so that I can continue to host this website for free on GitHub (storing massive mpeg4 files may hit a storage cap on GitHub, I&amp;rsquo;m not sure, I haven&amp;rsquo;t looked into it yet).&lt;/p&gt;
 </description>
     </item>
     

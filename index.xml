@@ -5,7 +5,7 @@
     <link>https://agarbiak.github.io/</link>
       <atom:link href="https://agarbiak.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Garbiak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sat, 14 Mar 2020 16:18:53 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 13:54:43 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alexander Garbiak</title>
@@ -13,7 +13,101 @@
     </image>
     
     <item>
-      <title>Renders from Blender</title>
+      <title>Pub Quiz</title>
+      <link>https://agarbiak.github.io/project/pub-quiz/</link>
+      <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
+      <guid>https://agarbiak.github.io/project/pub-quiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Garbiak Pub Quiz</title>
+      <link>https://agarbiak.github.io/post/pub-quiz-idea/</link>
+      <pubDate>Sun, 26 Apr 2020 11:40:14 +0100</pubDate>
+      <guid>https://agarbiak.github.io/post/pub-quiz-idea/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;A random idea popped into my head that it would be fun to try to create a pub quiz app. Pre-made quizzes are fun (
+&lt;a href=&#34;https://www.sporcle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sporcle&lt;/a&gt;
+ being a good example) but I wanted to try to create my own. Quizzes are easy to create but hard to be fun. So here goes my attempt at building a pub quiz application using Javascript so I can host it on my own website.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Why a &lt;em&gt;pub&lt;/em&gt; quiz? I am not sure. It just sounded better than &amp;ldquo;&lt;em&gt;quiz&lt;/em&gt;&amp;quot;. Marketing, I suppose.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;the-plan&#34;&gt;The Plan&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fail to plan =&amp;gt; Plan to fail&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With this in mind, here is my plan:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Learn some Javascript - this seems to be the most efficient way to run the application on my website but I have yet to write any Javascript (a post for the future),&lt;/li&gt;
+&lt;li&gt;Develop the pub quiz design - what is the theme, the aesthetic, format, etc. of the quiz going to be?&lt;/li&gt;
+&lt;li&gt;Create pub quiz assets - I envisage this will be the most time consuming step depending on the design. I will use Audacity to capture sound clips for instance. I&amp;rsquo;m undecided on other asset types - images, video clips, maps, quotes or even just multi-choice questions are all possible.&lt;/li&gt;
+&lt;li&gt;Enhance the pub quiz application - metadata could be captured to create custom made quizes. An example would involve tagging actor names such that you could have an entire round on, say, Arnie films.&lt;/li&gt;
+&lt;li&gt;Explore added features - a database backend to collect statistics and allow registration of users who could compete on high scores. Yes, probably too ambitious, hence an added (nice-to-have) feature to be developed at a much later stage (if ever).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A couple of concerns:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Copyright - the sound assets are from copyrighted materials. I tried to read some Copyright law but quickly noted I was falling trap to 
+&lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;premature optimisation&lt;/a&gt;
+, my usual mistake (as originally pointed 
+&lt;a href=&#34;https://agarbiak.github.io/post/building-this-site/&#34;&gt;here&lt;/a&gt;
+). For now my argument is fair use which YouTube helpfully summarises 
+&lt;a href=&#34;https://www.youtube.com/about/copyright/fair-use/#yt-copyright-four-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ albeit from a US legal standpoint. The sound assets are short clips (vast majority less than 15 seconds long) and my website is free to use.&lt;/li&gt;
+&lt;li&gt;GitHub capacity - this website is hosted on GitHub as I&amp;rsquo;m too cheap to pay for my own hosting (although it would be nice to have my own URL). I wonder what the bandwidth that GitHub offers before they quietly ask me for some money to upgrade to a paid plan? Again, I will ignore this for now to avoid 
+&lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;premature optimisation&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;Public nature - this website is open to anyone to visit. Some of the sound clips I have created contain strong language only suitable for adults (you know, a lot of good films are 18+ rated). I certainly do not want to kids listening to this. I have no mechanism to control this and do not have time to investigate how to solve this problem. My initial thought is to include a consent pop-up window to confirm you are over 18. Another thought is to ensure all content is kid friendly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And 
+&lt;a href=&#34;https://www.youtube.com/watch?v=xJ27fEm_ZCA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;one more thing&lt;/a&gt;
+, I haven&amp;rsquo;t figured out yet how Markdown renders URL links (like the &amp;ldquo;&lt;em&gt;one more thing&lt;/em&gt;&amp;rdquo; Colombo clip) but I have noticed the annoying rendered whitespace that trail after my links. It is annoying and something I want to fix in the future.&lt;/p&gt;
+&lt;h2 id=&#34;current-status&#34;&gt;Current Status&lt;/h2&gt;
+&lt;p&gt;The current (envisaged) status of the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Learn some Javascript&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Develop pub quiz design&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Create some pub quiz assets&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Capture metadata on pub quiz assets&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Launch alpha application&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Debug the horrible mess of an alpha application&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Deploy beta application for external testing to select users&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Crush the ridiculous bugs in the beta application to refine&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Launch the first release product&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Elicit feedback from end users&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Develop new requested features &lt;strong&gt;or&lt;/strong&gt; give up and move onto something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-log&#34;&gt;Project Log&lt;/h2&gt;
+&lt;p&gt;You must be either really bored or have a curious mind if you&amp;rsquo;ve read this far into this post. To be honest given .md files are just plain text files, with Git the concept of a project log is a bit pointless. I have not investigated this but I suspect others have created project logs using a history of Git commits with any software development project. I just looked, this already exists, see this 
+&lt;a href=&#34;https://github.com/conventional-changelog/conventional-changelog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repo&lt;/a&gt;
+ as an example. For now I&amp;rsquo;m too lazy and have too much going on to research further. I&amp;rsquo;ll just write down the development manually here on this page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Day 1 - 26 April, 2020&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Not really day one so to speak as I&amp;rsquo;ve created some pub quiz assets already.&lt;/p&gt;
+&lt;p&gt;I downloaded 
+&lt;a href=&#34;https://www.audacityteam.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Audacity&lt;/a&gt;
+ to create the sound clips. A few notes on my use of Audacity:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am currently on a Windows 10 machine. In Audacity I changed the settings to &lt;em&gt;Windows WASAPI&lt;/em&gt;. This allows you to re-route the sound output as a microphone to record sounds.&lt;/li&gt;
+&lt;li&gt;I experimented with a couple of settings:
+&lt;ul&gt;
+&lt;li&gt;Generate -&amp;gt; Tone: Can add a &amp;ldquo;bleep&amp;rdquo; type sound effect using a sine wave,&lt;/li&gt;
+&lt;li&gt;Effect -&amp;gt; Amplify: Can either amplify or quieten a sound clip using this effect,&lt;/li&gt;
+&lt;li&gt;Effect -&amp;gt; Vocal Reduction and Isolation: Occassionally I wanted to isolate the vocals from a music background heavy scene although I&amp;rsquo;ve found that the settings in this effect require finesse (which I do not possess) to make the clip sound passable afterwards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I did not have the patience to work on anything else in Audacity. To save the clips I just exported as &lt;em&gt;MP3&lt;/em&gt; files
+There are a lot more features to Audacity but as a simple tool for this workflow it&amp;rsquo;s worked great and even a dummy like me had a semi-efficient process up and running quickly. Amazing software considering it is open source and free.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also created this blog post to explain the idea and the plan to build it out into reality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blender Renders</title>
       <link>https://agarbiak.github.io/project/blender/</link>
       <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
       <guid>https://agarbiak.github.io/project/blender/</guid>
@@ -145,7 +239,7 @@
       <link>https://agarbiak.github.io/post/blender/</link>
       <pubDate>Sun, 01 Mar 2020 12:46:19 +0000</pubDate>
       <guid>https://agarbiak.github.io/post/blender/</guid>
-      <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I had a desire to do work on some animation.
+      <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I wanted to do some animation.
 I&amp;rsquo;ve never worked on computer graphics before but having now spent a week or so messing around in Blender, I have found it a lot of fun. I have learnt a few things along the way already:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Blender is not something to do after work when trying to relax (I&amp;rsquo;ve found it stimulates the brain and is also quite addictive - let&amp;rsquo;s try &lt;em&gt;one more thing&lt;/em&gt; is quite a common thought),&lt;/li&gt;
@@ -171,18 +265,19 @@ I&amp;rsquo;ve never worked on computer graphics before but having now spent a w
 &lt;a href=&#34;https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ducky 3D&lt;/a&gt;
  - I have found his tutorials easy to follow with satisfying rendered output,&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/channel/UCrXMyWVRmiXdMTpxxCsPuCQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blenderBinge&lt;/a&gt;
- - Shorter tutorials which comes at the cost of being harder to follow,&lt;/li&gt;
-&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt;
+ and 
 &lt;a href=&#34;https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Default Cube&lt;/a&gt;
- - explores some interesting add ons and features.&lt;/li&gt;
-&lt;li&gt;&amp;hellip; and many others - any Blender output I create generated substantially from other&amp;rsquo;s documentation I will link to.&lt;/li&gt;
+ - &lt;em&gt;CGMatter&lt;/em&gt; presents short and entertaining tutorial videos, often experimenting with his presentation style (not a fan of his short stint of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASMR&lt;/a&gt;
+ tutorials). His alternative channel &lt;em&gt;Default Cube&lt;/em&gt; has a more educational focus with longer, more detailed (better explained) tutorials.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; and many others &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And finally I have to mention 
 &lt;a href=&#34;https://www.beeple-crap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beeple.&lt;/a&gt;
 
 The artwork by this CG artist is awesome, and the style is something I&amp;rsquo;d like to emulate within Blender (he seems to use Cinema 4D most of the time).&lt;/p&gt;
-&lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Hope you enjoy and feel free to make any suggestions on what I could tackle next.&lt;/p&gt;
+&lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Time pending, I plan to expand this out to longer animations which I think will be hosted on YouTube so that I can continue to host this website for free on GitHub (storing massive mpeg4 files may hit a storage cap on GitHub, I&amp;rsquo;m not sure, I haven&amp;rsquo;t looked into it yet).&lt;/p&gt;
 </description>
     </item>
     
@@ -199,7 +294,7 @@ The artwork by this CG artist is awesome, and the style is something I&amp;rsquo
 &lt;li&gt;A fair amount of trial and error, and,&lt;/li&gt;
 &lt;li&gt;Plenty of frustration (aka debugging).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last modified date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
   &lt;/div&gt;

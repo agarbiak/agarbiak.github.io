@@ -25,7 +25,7 @@
 &lt;li&gt;A fair amount of trial and error, and,&lt;/li&gt;
 &lt;li&gt;Plenty of frustration (aka debugging).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last modified date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
   &lt;/div&gt;
