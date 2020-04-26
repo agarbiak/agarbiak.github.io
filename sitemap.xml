@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://agarbiak.github.io/</loc>
-    <lastmod>2020-04-26T13:54:43+01:00</lastmod>
+    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/project/</loc>
-    <lastmod>2020-04-26T13:54:43+01:00</lastmod>
+    <lastmod>2020-04-26T14:02:13+01:00</lastmod>
   </url>
   
   <url>
@@ -19,80 +19,81 @@
   
   <url>
     <loc>https://agarbiak.github.io/categories/</loc>
-    <lastmod>2020-04-26T11:40:14+01:00</lastmod>
+    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/categories/personal/</loc>
-    <lastmod>2020-04-26T11:40:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agarbiak.github.io/post/</loc>
-    <lastmod>2020-04-26T11:40:14+01:00</lastmod>
+    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/</loc>
-    <lastmod>2020-04-26T11:40:14+01:00</lastmod>
+    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/post/pub-quiz-idea/</loc>
-    <lastmod>2020-04-26T11:40:14+01:00</lastmod>
+    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/web-development/</loc>
-    <lastmod>2020-04-26T11:40:14+01:00</lastmod>
+    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/blender/</loc>
-    <lastmod>2020-03-14T16:18:53+00:00</lastmod>
+    <lastmod>2020-04-26T14:02:13+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/project/blender/</loc>
-    <lastmod>2020-03-14T16:18:53+00:00</lastmod>
+    <lastmod>2020-04-26T14:02:13+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/post/blender/</loc>
-    <lastmod>2020-03-14T12:46:19+00:00</lastmod>
+    <lastmod>2020-04-26T14:00:28+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/git/</loc>
-    <lastmod>2020-03-14T23:12:01+00:00</lastmod>
+    <lastmod>2020-04-26T14:01:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/post/building-this-site/</loc>
-    <lastmod>2020-03-14T23:12:01+00:00</lastmod>
+    <lastmod>2020-04-26T14:01:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/hugo/</loc>
-    <lastmod>2020-03-14T23:12:01+00:00</lastmod>
+    <lastmod>2020-04-26T14:01:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/privacy/</loc>
-    <lastmod>2020-01-28T00:00:00+01:00</lastmod>
+    <lastmod>2020-01-31T18:52:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <lastmod>2020-01-30T22:21:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/authors/admin/</loc>
+    <lastmod>2020-01-30T22:46:59+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
@@ -101,10 +102,12 @@
   
   <url>
     <loc>https://agarbiak.github.io/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
 </urlset>
