@@ -4,12 +4,22 @@
   
   <url>
     <loc>https://agarbiak.github.io/</loc>
-    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
+    <lastmod>2020-04-30T21:03:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/categories/</loc>
+    <lastmod>2020-04-30T21:03:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/categories/personal/</loc>
+    <lastmod>2020-04-30T21:03:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/project/</loc>
-    <lastmod>2020-04-26T14:02:13+01:00</lastmod>
+    <lastmod>2020-04-27T19:02:26+01:00</lastmod>
   </url>
   
   <url>
@@ -18,38 +28,28 @@
   </url>
   
   <url>
-    <loc>https://agarbiak.github.io/categories/</loc>
-    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agarbiak.github.io/categories/personal/</loc>
-    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://agarbiak.github.io/tags/</loc>
-    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://agarbiak.github.io/post/pub-quiz-idea/</loc>
-    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
+    <lastmod>2020-04-30T21:03:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/web-development/</loc>
-    <lastmod>2020-04-26T14:03:50+01:00</lastmod>
+    <lastmod>2020-04-30T21:03:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/post/pub-quiz-idea/</loc>
+    <lastmod>2020-04-30T21:03:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/tags/blender/</loc>
-    <lastmod>2020-04-26T14:02:13+01:00</lastmod>
+    <lastmod>2020-04-27T19:02:26+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://agarbiak.github.io/project/blender/</loc>
-    <lastmod>2020-04-26T14:02:13+01:00</lastmod>
+    <lastmod>2020-04-27T19:02:26+01:00</lastmod>
   </url>
   
   <url>
@@ -85,6 +85,11 @@
   <url>
     <loc>https://agarbiak.github.io/authors/admin/</loc>
     <lastmod>2020-01-30T22:46:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://agarbiak.github.io/post/audio-in-r/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

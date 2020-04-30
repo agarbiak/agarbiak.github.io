@@ -5,12 +5,23 @@
     <link>https://agarbiak.github.io/tags/web-development/</link>
       <atom:link href="https://agarbiak.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Web development</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 11:40:14 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 13:54:43 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Web development</title>
       <link>https://agarbiak.github.io/tags/web-development/</link>
     </image>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>https://agarbiak.github.io/project/pub-quiz/</link>
+      <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
+      <guid>https://agarbiak.github.io/project/pub-quiz/</guid>
+      <description>
+&lt;canvas id=&#34;myCanvas&#34; width=&#34;200&#34; height=&#34;100&#34;&gt;&lt;/canvas&gt;
+&lt;script src=&#34;https://agarbiak.github.io/js/pubquiz.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>The Garbiak Pub Quiz</title>
@@ -95,6 +106,37 @@
 There are a lot more features to Audacity but as a simple tool for this workflow it&amp;rsquo;s worked great and even a dummy like me had a semi-efficient process up and running quickly. Amazing software considering it is open source and free.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I also created this blog post to explain the idea and the plan to build it out into reality.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Day 2 - 30 April, 2020&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I have now learnt how to embed HTML into my markdown files by using the in-built Hugo 
+&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode&lt;/a&gt;
+ functionality. Within the HTML file I can reference this to an external javascript file (hosted in the static folder at the root directory).&lt;/p&gt;
+&lt;p&gt;HTML code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;&amp;lt;!-- demo canvas shortcode --&amp;gt;
+&amp;lt;canvas id=&amp;quot;demoCanvas&amp;quot; width=&amp;quot;170&amp;quot; height=&amp;quot;120&amp;quot; style=&amp;quot;border:1px solid #000000;&amp;quot;&amp;gt;
+    A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external javascript file.
+&amp;lt;/canvas&amp;gt;
+&amp;lt;script src=&amp;quot;/js/democanvas.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Note that anything written between the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag is not rendered if the user&amp;rsquo;s browser does &lt;strong&gt;not&lt;/strong&gt; support the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag. This is explained 
+&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+ in more detail.&lt;/p&gt;
+&lt;p&gt;Javascript code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;const canvas = document.getElementById(&#39;demoCanvas&#39;);
+const ctx = canvas.getContext(&#39;2d&#39;);
+
+ctx.fillStyle = &#39;blue&#39;;
+// (x postion, y postion, width, height)
+ctx.fillRect(10, 10, 150, 100);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This generates the following output:&lt;/p&gt;
+
+&lt;canvas id=&#34;demoCanvas&#34; width=&#34;170&#34; height=&#34;120&#34; style=&#34;border:1px solid #000000;&#34;&gt;
+    A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external javascript file.
+&lt;/canvas&gt;
+&lt;script src=&#34;https://agarbiak.github.io/js/democanvas.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Basic but you have to start &lt;strong&gt;somewhere&lt;/strong&gt; 😄.&lt;/p&gt;
 </description>
     </item>
     
