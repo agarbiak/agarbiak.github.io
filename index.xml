@@ -119,7 +119,7 @@ There are a lot more features to Audacity but as a simple tool for this workflow
 &amp;lt;/canvas&amp;gt;
 &amp;lt;script src=&amp;quot;/js/democanvas.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Note that anything written between the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag is not rendered if the user&amp;rsquo;s browser does &lt;strong&gt;not&lt;/strong&gt; support the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag. This is explained 
+&lt;p&gt;Note that anything written between the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag is not rendered if the user&amp;rsquo;s browser supports the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag. This is explained 
 &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
  in more detail.&lt;/p&gt;
 &lt;p&gt;Javascript code:&lt;/p&gt;
@@ -511,14 +511,6 @@ The retention period for data that is sent to Google Analytics associated with c
 &lt;a href=&#34;https://getterms.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GetTerms.io&lt;/a&gt;
 &lt;/small&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://agarbiak.github.io/post/audio-in-r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://agarbiak.github.io/post/audio-in-r/</guid>
-      <description></description>
     </item>
     
   </channel>

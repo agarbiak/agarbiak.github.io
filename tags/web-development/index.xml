@@ -119,7 +119,7 @@ There are a lot more features to Audacity but as a simple tool for this workflow
 &amp;lt;/canvas&amp;gt;
 &amp;lt;script src=&amp;quot;/js/democanvas.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Note that anything written between the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag is not rendered if the user&amp;rsquo;s browser does &lt;strong&gt;not&lt;/strong&gt; support the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag. This is explained 
+&lt;p&gt;Note that anything written between the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag is not rendered if the user&amp;rsquo;s browser supports the &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; tag. This is explained 
 &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
  in more detail.&lt;/p&gt;
 &lt;p&gt;Javascript code:&lt;/p&gt;
