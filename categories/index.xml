@@ -5,7 +5,7 @@
     <link>https://agarbiak.github.io/categories/</link>
       <atom:link href="https://agarbiak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 13:54:43 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 03 May 2020 22:23:25 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Personal</title>
       <link>https://agarbiak.github.io/categories/personal/</link>
-      <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
+      <pubDate>Sun, 03 May 2020 22:23:25 +0100</pubDate>
       <guid>https://agarbiak.github.io/categories/personal/</guid>
       <description></description>
     </item>

@@ -1,5 +1,6 @@
-const canvas = document.getElementById('myCanvas');
-const ctx = canvas.getContext('2d');
+var audioDir = "/audio/";
+var audioSelect = "test1.mp3";
+var audioSelect = audioDir.concat(audioSelect);
 
-ctx.fillStyle = 'green';
-ctx.fillRect(10, 10, 150, 100);
+var audioObject = document.getElementById("pubAudio");
+audioObject.setAttribute("src", audioSelect);

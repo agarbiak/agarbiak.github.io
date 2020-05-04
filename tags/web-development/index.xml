@@ -17,9 +17,21 @@
       <link>https://agarbiak.github.io/project/pub-quiz/</link>
       <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
       <guid>https://agarbiak.github.io/project/pub-quiz/</guid>
-      <description>
+      <description>&lt;p&gt;Currently under development - please read my blog 
+&lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt;
+ about this.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Guess the TV theme tune!&lt;/p&gt;
+
 &lt;canvas id=&#34;myCanvas&#34; width=&#34;200&#34; height=&#34;100&#34;&gt;&lt;/canvas&gt;
+
+&lt;audio id=&#34;pubAudio&#34; controls&gt;
+    &lt;source src=&#34;&#34; type=&#34;audio/mpeg&#34;&gt;
+    Your browser does not support mp3 audio files.
+&lt;/audio&gt;
+
 &lt;script src=&#34;https://agarbiak.github.io/js/pubquiz.js&#34;&gt;&lt;/script&gt;
+&lt;hr&gt;
 </description>
     </item>
     
@@ -155,7 +167,7 @@ ctx.fillRect(10, 10, 150, 100);
 &lt;/ul&gt;
 &lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
-    This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last modified date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
+    This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last updated date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;the-inspiration-for-this-site&#34;&gt;The inspiration for this site&lt;/h2&gt;
@@ -283,7 +295,7 @@ ctx.fillRect(10, 10, 150, 100);
  for a few months, have barely scratched the surface of its power, but already consider it the most important tool anyone should use for any development. Perhaps it deserves its own post in the future.&lt;/p&gt;
 &lt;p&gt;Even newer than this is my use of 
 &lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual Studio Code&lt;/a&gt;
- which I consider a fantastic text editor. It&amp;rsquo;s fast, free, includes Git integration, has syntax highlighting and the UI just &lt;em&gt;makes sense&lt;/em&gt; (e.g. the explorer side-panel for your directory tree).&lt;/p&gt;
+ which I consider a fantastic text editor. It&amp;rsquo;s fast, free, includes Git integration, has syntax highlighting and the UI just &lt;em&gt;makes sense&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
