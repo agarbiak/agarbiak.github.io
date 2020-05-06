@@ -19,8 +19,8 @@
       <guid>https://agarbiak.github.io/project/blender/</guid>
       <description>&lt;h2 id=&#34;portfolio-of-renders-ive-created-from-blender&#34;&gt;Portfolio of renders I&amp;rsquo;ve created from Blender&lt;/h2&gt;
 &lt;p&gt;This page is a showcase of the Blender renders I&amp;rsquo;ve completed. The background to this is 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt;
- Over time this project will evolve into something more substantial.&lt;/p&gt;
+
+&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
 &lt;p&gt;Creepy creature using cloth physics:
 
 
@@ -41,8 +41,8 @@
   &lt;source src=&#34;creepy-creature.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;Introduction to Mocap using 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Mixamo&lt;/a&gt;
-, Adobe&amp;rsquo;s free rigging tool:
+
+&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Mixamo&lt;/a&gt;, Adobe&amp;rsquo;s free rigging tool:
 
 
 
@@ -165,23 +165,23 @@ I&amp;rsquo;ve never worked on computer graphics before but having now spent a w
 &lt;p&gt;In terms of Blender channels I recommend the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/user/mrdodobird&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ian Hubert&lt;/a&gt;
- - his lazy tutorials are amusing and inspiring,&lt;/li&gt;
+
+&lt;a href=&#34;https://www.youtube.com/user/mrdodobird&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ian Hubert&lt;/a&gt; - his lazy tutorials are amusing and inspiring,&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ducky 3D&lt;/a&gt;
- - I have found his tutorials easy to follow with satisfying rendered output,&lt;/li&gt;
+
+&lt;a href=&#34;https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ducky 3D&lt;/a&gt; - I have found his tutorials easy to follow with satisfying rendered output,&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt;
- and 
-&lt;a href=&#34;https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Default Cube&lt;/a&gt;
- - &lt;em&gt;CGMatter&lt;/em&gt; presents short and entertaining tutorial videos, often experimenting with his presentation style (not a fan of his short stint of 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASMR&lt;/a&gt;
- tutorials). His alternative channel &lt;em&gt;Default Cube&lt;/em&gt; has a more educational focus with longer, more detailed (better explained) tutorials.&lt;/li&gt;
+
+&lt;a href=&#34;https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt; and 
+
+&lt;a href=&#34;https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Default Cube&lt;/a&gt; - &lt;em&gt;CGMatter&lt;/em&gt; presents short and entertaining tutorial videos, often experimenting with his presentation style (not a fan of his short stint of 
+
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASMR&lt;/a&gt; tutorials). His alternative channel &lt;em&gt;Default Cube&lt;/em&gt; has a more educational focus with longer, more detailed (better explained) tutorials.&lt;/li&gt;
 &lt;li&gt;&amp;hellip; and many others &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And finally I have to mention 
-&lt;a href=&#34;https://www.beeple-crap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beeple.&lt;/a&gt;
 
+&lt;a href=&#34;https://www.beeple-crap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beeple.&lt;/a&gt;
 The artwork by this CG artist is awesome, and the style is something I&amp;rsquo;d like to emulate within Blender (he seems to use Cinema 4D most of the time).&lt;/p&gt;
 &lt;p&gt;Just for fun I&amp;rsquo;ll post a few Blender rendered images and animations here. Time pending, I plan to expand this out to longer animations which I think will be hosted on YouTube so that I can continue to host this website for free on GitHub (storing massive mpeg4 files may hit a storage cap on GitHub, I&amp;rsquo;m not sure, I haven&amp;rsquo;t looked into it yet).&lt;/p&gt;
 </description>

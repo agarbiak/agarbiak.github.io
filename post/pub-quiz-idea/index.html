@@ -44,6 +44,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -172,9 +175,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -273,7 +276,7 @@
     
       <meta property="article:published_time" content="2020-04-26T11:40:14&#43;01:00">
     
-    <meta property="article:modified_time" content="2020-05-01T12:13:45&#43;01:00">
+    <meta property="article:modified_time" content="2020-05-07T00:15:27&#43;01:00">
   
 
   
@@ -304,7 +307,7 @@
   "headline": "The Garbiak Pub Quiz",
   
   "datePublished": "2020-04-26T11:40:14+01:00",
-  "dateModified": "2020-05-01T12:13:45+01:00",
+  "dateModified": "2020-05-07T00:15:27+01:00",
   
   "author": {
     "@type": "Person",
@@ -362,6 +365,10 @@
 
 
   
+
+
+
+
 
   <title>The Garbiak Pub Quiz | Alexander Garbiak</title>
 
@@ -648,7 +655,7 @@
           Last updated on
       
     
-    1 May, 2020
+    7 May, 2020
   </span>
   
 
@@ -737,21 +744,22 @@
 
     <div class="article-style">
       <h2 id="background">Background</h2>
-<p>A random idea popped into my head that it would be fun to try to create a pub quiz app. Pre-made quizzes are fun (
-<a href="https://www.sporcle.com/" target="_blank" rel="noopener">Sporcle</a>
- being a good example) but I wanted to try to create my own. Quizzes are easy to create but hard to be fun. So here goes my attempt at building a pub quiz application using Javascript so I can host it on my own website.</p>
+<p>A random idea popped into my head that it would be fun to try to create a pub quiz app. Pre-made quizzes are fun (with 
+
+<a href="https://www.sporcle.com/" target="_blank" rel="noopener">Sporcle</a> being a good example) but I wanted to try to create my own. Quizzes are easy to create but hard to be fun. So here goes my attempt at building a pub quiz application using <code>JavaScript</code> so I can host it on my own website.</p>
 <div class="alert alert-note">
   <div>
-    Why a <em>pub</em> quiz? I am not sure. It just sounded better than &ldquo;<em>quiz</em>&quot;. Marketing, I suppose.
+    Why a <em>pub</em> quiz? I am not sure. It just sounded better than &ldquo;<em>quiz</em>&quot;.<br>
+Marketing, I suppose.
   </div>
 </div>
 <h2 id="the-plan">The Plan</h2>
 <blockquote>
-<p>Fail to plan =&gt; Plan to fail</p>
+<p>&ldquo;<em>Fail to plan</em> $\implies$ <em>Plan to fail</em>&rdquo;</p>
 </blockquote>
 <p>With this in mind, here is my plan:</p>
 <ol>
-<li>Learn some Javascript - this seems to be the most efficient way to run the application on my website but I have yet to write any Javascript (a post for the future),</li>
+<li>Learn some Javascript - this seems to be the most efficient way to run the application on my website,</li>
 <li>Develop the pub quiz design - what is the theme, the aesthetic, format, etc. of the quiz going to be?</li>
 <li>Create pub quiz assets - I envisage this will be the most time consuming step depending on the design. I will use Audacity to capture sound clips for instance. I&rsquo;m undecided on other asset types - images, video clips, maps, quotes or even just multi-choice questions are all possible.</li>
 <li>Enhance the pub quiz application - metadata could be captured to create custom made quizes. An example would involve tagging actor names such that you could have an entire round on, say, Arnie films.</li>
@@ -760,24 +768,21 @@
 <p>A couple of concerns:</p>
 <ul>
 <li>Copyright - the sound assets are from copyrighted materials. I tried to read some Copyright law but quickly noted I was falling trap to 
-<a href="https://stackify.com/premature-optimization-evil/" target="_blank" rel="noopener">premature optimisation</a>
-, my usual mistake (as originally pointed 
-<a href="https://agarbiak.github.io/post/building-this-site/">here</a>
-). For now my argument is fair use which YouTube helpfully summarises 
-<a href="https://www.youtube.com/about/copyright/fair-use/#yt-copyright-four-factors" target="_blank" rel="noopener">here</a>
- albeit from a US legal standpoint. The sound assets are short clips (vast majority less than 15 seconds long) and my website is free to use.</li>
+
+<a href="https://stackify.com/premature-optimization-evil/" target="_blank" rel="noopener">premature optimisation</a>, my usual mistake (as originally pointed 
+
+<a href="https://agarbiak.github.io/post/building-this-site/">here</a>). For now my argument is fair use which YouTube summarises 
+
+<a href="https://www.youtube.com/about/copyright/fair-use/#yt-copyright-four-factors" target="_blank" rel="noopener">here</a> albeit from a US legal standpoint. The sound assets are short clips (vast majority less than 15 seconds long) and my website is free to use.</li>
 <li>GitHub capacity - this website is hosted on GitHub as I&rsquo;m too cheap to pay for my own hosting (although it would be nice to have my own URL). I wonder what the bandwidth that GitHub offers before they quietly ask me for some money to upgrade to a paid plan? Again, I will ignore this for now to avoid 
-<a href="https://stackify.com/premature-optimization-evil/" target="_blank" rel="noopener">premature optimisation</a>
-.</li>
-<li>Public nature - this website is open to anyone to visit. Some of the sound clips I have created contain strong language only suitable for adults (you know, a lot of good films are 18+ rated). I certainly do not want to kids listening to this. I have no mechanism to control this and do not have time to investigate how to solve this problem. My initial thought is to include a consent pop-up window to confirm you are over 18. Another thought is to ensure all content is kid friendly.</li>
+
+<a href="https://stackify.com/premature-optimization-evil/" target="_blank" rel="noopener">premature optimisation</a>.</li>
+<li>Public nature - this website is open to anyone to visit. Some of the sound clips I have created contain strong language only suitable for adults (you know, a lot of good films are 18+ rated). I certainly do not want to have kids listening to this. I have no mechanism to control this and do not have time to investigate how to solve this problem. My initial thought is to include a consent pop-up window to confirm you are over 18. Another thought is to ensure all content is kid friendly.</li>
 </ul>
-<p>And 
-<a href="https://www.youtube.com/watch?v=xJ27fEm_ZCA" target="_blank" rel="noopener">one more thing</a>
-, I haven&rsquo;t figured out yet how Markdown renders URL links (like the &ldquo;<em>one more thing</em>&rdquo; Colombo clip) but I have noticed the annoying rendered whitespace that trail after my links. It is annoying and something I want to fix in the future.</p>
 <h2 id="current-status">Current Status</h2>
 <p>The current (envisaged) status of the project:</p>
 <ul>
-<li><input disabled="" type="checkbox">Learn some Javascript</li>
+<li><input checked="" disabled="" type="checkbox">Learn some <code>JavaScript</code></li>
 <li><input disabled="" type="checkbox">Develop pub quiz design</li>
 <li><input checked="" disabled="" type="checkbox">Create some pub quiz assets</li>
 <li><input disabled="" type="checkbox">Capture metadata on pub quiz assets</li>
@@ -790,17 +795,15 @@
 <li><input disabled="" type="checkbox">Develop new requested features <strong>or</strong> give up and move onto something else</li>
 </ul>
 <h2 id="project-log">Project Log</h2>
-<p>You must be either really bored or have a curious mind if you&rsquo;ve read this far into this post. To be honest given .md files are just plain text files, with Git the concept of a project log is a bit pointless. I have not investigated this but I suspect others have created project logs using a history of Git commits with any software development project. I just looked, this already exists, see this 
-<a href="https://github.com/conventional-changelog/conventional-changelog" target="_blank" rel="noopener">repo</a>
- as an example. For now I&rsquo;m too lazy and have too much going on to research further. I&rsquo;ll just write down the development manually here on this page.</p>
+<p>Below I sketch out the development over time. I understand this concept of typing out a project log is a bit outdated - there are tools out there to automate changelog generation but I&rsquo;m too lazy to research this further.</p>
 <hr>
 <blockquote>
 <p>Day 1 - 26 April, 2020</p>
 </blockquote>
 <p>Not really day one so to speak as I&rsquo;ve created some pub quiz assets already.</p>
 <p>I downloaded 
-<a href="https://www.audacityteam.org/" target="_blank" rel="noopener">Audacity</a>
- to create the sound clips. A few notes on my use of Audacity:</p>
+
+<a href="https://www.audacityteam.org/" target="_blank" rel="noopener">Audacity</a> to create the sound clips. A few notes on my use of Audacity:</p>
 <ul>
 <li>I am currently on a Windows 10 machine. In Audacity I changed the settings to <em>Windows WASAPI</em>. This allows you to re-route the sound output as a microphone to record sounds.</li>
 <li>I experimented with a couple of settings:
@@ -817,20 +820,20 @@ There are a lot more features to Audacity but as a simple tool for this workflow
 <blockquote>
 <p>Day 2 - 30 April, 2020</p>
 </blockquote>
-<p>I have now learnt how to embed HTML into my markdown files by using the in-built Hugo 
-<a href="https://gohugo.io/content-management/shortcodes/" target="_blank" rel="noopener">shortcode</a>
- functionality. Within the HTML file I can reference this to an external javascript file (hosted in the static folder at the root directory).</p>
-<p>HTML code:</p>
+<p>I have now learnt how to embed <code>HTML</code> into my markdown files by using the in-built Hugo 
+
+<a href="https://gohugo.io/content-management/shortcodes/" target="_blank" rel="noopener">shortcode</a> functionality. Within the <code>HTML</code> file I can reference this to an external <code>JavaScript</code> file (hosted in the static folder at the root directory).</p>
+<p><code>HTML</code> code:</p>
 <pre><code class="language-html">&lt;!-- demo canvas shortcode --&gt;
 &lt;canvas id=&quot;demoCanvas&quot; width=&quot;170&quot; height=&quot;120&quot; style=&quot;border:1px solid #000000;&quot;&gt;
-    A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external javascript file.
+    A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external JavaScript file.
 &lt;/canvas&gt;
 &lt;script src=&quot;/js/democanvas.js&quot;&gt;&lt;/script&gt;
 </code></pre>
 <p>Note that anything written between the <code>&lt;canvas&gt;</code> tag is not rendered if the user&rsquo;s browser supports the <code>&lt;canvas&gt;</code> tag. This is explained 
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility" target="_blank" rel="noopener">here</a>
- in more detail.</p>
-<p>Javascript code:</p>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Hit_regions_and_accessibility" target="_blank" rel="noopener">here</a> in more detail.</p>
+<p><code>JavaScript</code> code:</p>
 <pre><code class="language-js">const canvas = document.getElementById('demoCanvas');
 const ctx = canvas.getContext('2d');
 
@@ -844,7 +847,45 @@ ctx.fillRect(10, 10, 150, 100);
     A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external javascript file.
 </canvas>
 <script src="/js/democanvas.js"></script>
-<p>Basic but you have to start <strong>somewhere</strong> 😄.</p>
+<p>Basic but you have to start <strong>somewhere</strong>. 😄</p>
+<blockquote>
+<p>Day 3 - 06 May, 2020</p>
+</blockquote>
+<p>Found a very helpful 
+
+<a href="https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript" target="_blank" rel="noopener">GitHub repo</a> and tutorial series to build a quiz app</p>
+<ul>
+<li>Learnt new shortcuts in VS Code for faster HTML prototyping (<code>$</code> and <code>.</code> commands for <strong>id</strong> and <strong>class</strong> attributes respectively)</li>
+<li>Learnt the key concept in <code>CSS</code> is the box model (and that margins are collapsible)</li>
+<li>Was overwhelmed by <code>JavaScript</code> with an array of new topics:
+<ul>
+<li>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank" rel="noopener">Arrow</a> functions</li>
+<li>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map" target="_blank" rel="noopener">map</a> function</li>
+<li>The 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise" target="_blank" rel="noopener">Promise</a> object</li>
+</ul>
+</li>
+<li>Started to get to grips with JSON as a data structure</li>
+<li>You can fetch the external <code>JavaScript</code> file within the <strong>&lt;head&gt;</strong> element without page loading performance issues by using the <strong>defer</strong> attribute in the <strong>&lt;script&gt;</strong> tag.</li>
+</ul>
+<p>Fixed the trailing whitespace &ldquo;bug&rdquo; when rendering markdown into HTML for URLs (see 
+
+<a href="https://discourse.gohugo.io/t/white-space-issue-in-markdown/25258/11" target="_blank" rel="noopener">this</a> discourse post for the fix and 
+
+<a href="https://bwaycer.github.io/hugo_tutorial.hugo/themes/customizing/" target="_blank" rel="noopener">this</a> blog post for how to overwrite theme template files (I use the 
+
+<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a>). However it looks like whitespace can still be rendered <em>prior to</em> the link if there is punctation immediately before - for example:</p>
+<ul>
+<li><em>([Sporcle](<a href="https://www.sporcle.com/">https://www.sporcle.com/</a>)</em> renders as</li>
+<li>(
+
+<a href="https://www.sporcle.com/" target="_blank" rel="noopener">Sporcle</a>)</li>
+</ul>
 
     </div>
 
@@ -1165,12 +1206,14 @@ ctx.fillRect(10, 10, 150, 100);
   
 
   <p class="powered-by">
-    © 2020 Alexander Garbiak &middot; 
+    © 2020 Alexander Garbiak
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
+    <br>
+    Developed by
+    <a href="https://www.linkedin.com/in/garbiak/" target="_blank" rel="noopener">Alexander Garbiak</a> using
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> and the 
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a>
+    
     
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
@@ -1182,7 +1225,6 @@ ctx.fillRect(10, 10, 150, 100);
     
   </p>
 </footer>
-
   </div>
   
 

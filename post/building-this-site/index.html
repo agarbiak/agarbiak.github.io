@@ -272,7 +272,7 @@
     
       <meta property="article:published_time" content="2020-01-31T23:12:01&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-05-04T22:08:01&#43;01:00">
+    <meta property="article:modified_time" content="2020-05-07T00:16:21&#43;01:00">
   
 
   
@@ -307,7 +307,7 @@
   ],
   
   "datePublished": "2020-01-31T23:12:01Z",
-  "dateModified": "2020-05-04T22:08:01+01:00",
+  "dateModified": "2020-05-07T00:16:21+01:00",
   
   "author": {
     "@type": "Person",
@@ -365,6 +365,10 @@
 
 
   
+
+
+
+
 
   <title>How I built this website | Alexander Garbiak</title>
 
@@ -640,6 +644,8 @@
   <h1>How I built this website</h1>
 
   
+  <p class="page-subtitle">It&rsquo;s still and always will be a work in progress.</p>
+  
 
   
 
@@ -657,7 +663,7 @@
           Last updated on
       
     
-    4 May, 2020
+    7 May, 2020
   </span>
   
 
@@ -713,145 +719,140 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>For those who have no time, I summarise as:</p>
-<ul>
-<li>Reading documentation from 
-<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown,</a>
-</li>
-<li>A fair amount of trial and error, and,</li>
-<li>Plenty of frustration (aka debugging).</li>
-</ul>
-<div class="alert alert-warning">
+      <div class="alert alert-warning">
   <div>
-    This post is not yet complete and perhaps never will be. I believe one of my key weaknesses (I have many) is <a href="https://stackify.com/premature-optimization-evil/">premature optimisation</a> and so I have posted this as-is. To prove this point - consider the last updated date and look at the <a href="https://github.com/agarbiak/agarbiak.github.io">Github repo</a> for a history of this page.
+    This post is not yet complete and perhaps never will be. I suffer from <a href="https://stackify.com/premature-optimization-evil/">premature optimisation</a> and so I have posted this as-is. To prove this point - consider the last updated date and look at the <a href="https://github.com/agarbiak/agarbiak.github.io">Github repo</a> for a history of this page.
   </div>
 </div>
-<h2 id="the-inspiration-for-this-site">The inspiration for this site</h2>
-<p>I don&rsquo;t recall the motivation to build this website other than following on from a quote (<em>potentially misquoted as from memory from over five years ago</em>) from the very first professional interview I had with 
-<a href="https://home.kpmg/uk/en/home/contacts/f/mike-froom.html" target="_blank" rel="noopener">Mike Froom</a>
- when I was applying for graduate employment at 
-<a href="https://home.kpmg/uk/en/home/about/offices/birmingham-1.html" target="_blank" rel="noopener">KPMG Birmingham:</a>
-</p>
-<blockquote>
-<p>&ldquo;You should always challenge yourself by trying something new every six months.&rdquo;</p>
-</blockquote>
-<p>I didn&rsquo;t think much of this at the time but having spent nearly ten years in employment I do think this is good advice. Whilst I no longer work for 
-<a href="https://home.kpmg/uk/en/home.html" target="_blank" rel="noopener">KPMG,</a>
- I do reflect fondly on the experience as an excellent well-rounded 
-<a href="https://www.kpmgcareers.co.uk/graduate" target="_blank" rel="noopener">UK graduate opportunity.</a>
-</p>
-<p>So how was this website built and how can you build your own website, for <strong>free</strong>, hosted on 
-<a href="https://github.com/" target="_blank" rel="noopener">GitHub?</a>
- What follows is an insight into how I came to build this website.</p>
+<h1 id="tldrhttpsenwikipediaorgwikiwikipediatoo_long_didn27t_read">
+
+<a href="https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read" target="_blank" rel="noopener">TL;DR</a></h1>
+<ul>
+<li>Caught inspiration to give this a try after reading some documentation from 
+
+<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a>,</li>
+<li>A fair amount of trial and error using 
+
+<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>, and,</li>
+<li>Plenty of frustration (aka debugging).</li>
+</ul>
 <hr>
-<h4 id="bookdownhttpsbookdownorg---an-rhttpswwwr-projectorg-package-that-facilitates-writing-books-and-long-form-articlesreports-with-r-markdown">
-<a href="https://bookdown.org/" target="_blank" rel="noopener">Bookdown</a>
- - an 
-<a href="https://www.r-project.org/" target="_blank" rel="noopener">R</a>
- package that facilitates writing books and long-form articles/reports with R Markdown.</h4>
-<p>
-<a href="https://bookdown.org/" target="_blank" rel="noopener">Bookdown</a>
- is an excellent resource for anyone interested in 
-<a href="https://www.r-project.org/" target="_blank" rel="noopener">R.</a>
- Most resources on here are fully published books that are available, for free, in digital format. Specifically, my interest was piqued by the 
-<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">book</a>
- hosted on here for the R package 
-<a href="https://cran.r-project.org/web/packages/blogdown/index.html" target="_blank" rel="noopener">blogdown.</a>
- Please consider supporting the authors 
-<a href="https://www.crcpress.com/blogdown-Creating-Websites-with-R-Markdown/Xie-Hill-Thomas/p/book/9780815363729" target="_blank" rel="noopener">here.</a>
- As an aside, I spent some time delving into one of the 
-<a href="https://yihui.org/" target="_blank" rel="noopener">author&rsquo;s</a>
- personal struggles he faced when transitioning from academia to industry which I found quite insightful. Here is the link to his blog post on the 
-<a href="https://yihui.org/en/2018/02/career-crisis/" target="_blank" rel="noopener">subject.</a>
-</p>
-<p>The 
-<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">book</a>
- advocates using 
-<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
- to build your statically generated website. I&rsquo;ve only tried to build a website twice before this:</p>
+<h2 id="the-inspiration-for-this-site">The inspiration for this site</h2>
+<p>The truth is the motivation of building this website was my personal justification as an alternative study method. The idea was that I would write <code>Rmarkdown</code> posts about actuarial science (within the general insurance domain) featuring modelling results on theoretical concepts required to be learnt as part of the 
+
+<a href="https://www.actuaries.org.uk/" target="_blank" rel="noopener">Institute&rsquo;s</a> exam syllabus.</p>
+<p>As part of this I had been reading about 
+
+<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a> which seemed promising and is very well documented. Unfortunately given the complex infrastructure behind the blogdown package (or perhaps that&rsquo;s my excuse for just being dumb), I couldn&rsquo;t get this to work in my preferred text editor, 
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code</a> and having the output consistent with the theme I&rsquo;m using (the 
+
+<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic</a> theme).<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Perhaps an additional motiviation was that I enjoy learning new things and this seemed like a good challenge. This website was created in 2020. Around the same time I started to mess around with Blender - see 
+
+<a href="https://agarbiak.github.io/post/blender/">this post</a> for more details.</p>
+<p>I had previously only tried to build a website a couple of times before:</p>
 <ol>
 <li>Dabbling with 
-<a href="https://en.wikipedia.org/wiki/Adobe_Dreamweaver" target="_blank" rel="noopener">Dreamweaver</a>
- as a kid and not getting very far,</li>
+
+<a href="https://en.wikipedia.org/wiki/Adobe_Dreamweaver" target="_blank" rel="noopener">Dreamweaver</a> as a kid and not getting very far,</li>
 <li>Building a lottery based website, 
-<a href="https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/ib/ib2a5/#content-and-teaching" target="_blank" rel="noopener">Warwick Accumulator Draw &ldquo;WAD&rdquo;</a>
- as a university module, which was a lot of fun but a lot of work too. This was built back in early 2011 on 
-<a href="https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.0" target="_blank" rel="noopener">Microsoft&rsquo;s .NET framework.</a>
-</li>
+
+<a href="https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/ib/ib2a5/#content-and-teaching" target="_blank" rel="noopener">Warwick Accumulator Draw &ldquo;WAD&rdquo;</a> as a university module, which was a lot of fun but a lot of work too. This was built back in early 2011 on 
+
+<a href="https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.0" target="_blank" rel="noopener">Microsoft&rsquo;s .NET framework.</a></li>
 </ol>
-<p>As part of my work at 
-<a href="https://www.hiscox.co.uk/" target="_blank" rel="noopener">Hiscox</a>
- I occasionally work in 
-<a href="https://www.r-project.org/" target="_blank" rel="noopener">R.</a>
- My preferred IDE for such work is 
-<a href="https://rstudio.com/" target="_blank" rel="noopener">R Studio.</a>
- R is fantastic for data - loading, transformation and analysis and R Studio is the best IDE for working in R in my opinion. However, I personally find R Studio a little cumbersome for web development despite the existence of the excellent 
-<a href="https://cran.r-project.org/web/packages/blogdown/index.html" target="_blank" rel="noopener">blogdown</a>
- package. Due to this I backtracked somewhat to read up on 
-<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
- documentation. Here I discovered the 
-<a href="https://sourcethemes.com/academic" target="_blank" rel="noopener">Academic</a>
- theme, which as of January 2020, largely powers the user experience on this website.</p>
+<p>I also want to take this opportunity to pass on some career advice. This advice actually comes from my first boss 
+
+<a href="https://home.kpmg/uk/en/home/contacts/f/mike-froom.html" target="_blank" rel="noopener">Mike Froom</a> who offered me a graduate trainee position at 
+
+<a href="https://home.kpmg/uk/en/home/about/offices/birmingham-1.html" target="_blank" rel="noopener">KPMG Birmingham</a> (which was a great graduate job and would highly recommend). I must quickly add a disclaimer that the quote is paraphrased:</p>
+<blockquote>
+<p>&ldquo;<em>You should always challenge yourself by trying something new every six months.</em>&rdquo;</p>
+</blockquote>
+<p>Given the above, it felt like a reasonable challenge to get up and running with a modern day website. So how was this website built and how can you build your own website, for <strong>free</strong>, hosted on 
+
+<a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>?</p>
 <hr>
 <h2 id="how-this-site-was-built">How this site was built</h2>
-<p>So how specifically was this website built? The truth is that it took a fair amount of trial and error and reading plenty of documentation. I am certainly no software developer so I hope this can give anyone the confidence that they can also build their own <strong>100% free</strong> website.</p>
+<p>So how specifically was this website built? The truth is that it took a fair amount of trial and error and reading plenty of documentation. I am certainly no software developer so I hope this can give anyone the confidence that they can also build their own <strong>100% free</strong><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> website.</p>
 <p>Here are the tools I&rsquo;ve used to build this website:</p>
 <ol>
 <li>
-<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">Git</a>
- - download and install Git for <strong>free</strong> (subject to the 
-<a href="https://opensource.org/licenses/GPL-2.0" target="_blank" rel="noopener">GNU General Public License</a>
- version 2.0),</li>
+
+<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">Git</a> - download and install Git<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> for <strong>free</strong>,</li>
 <li>
-<a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Hugo</a>
- - pick your own operating system&rsquo;s binary release for <strong>free</strong> (subject to the 
-<a href="http://www.apache.org/licenses/LICENSE-2.0.txt" target="_blank" rel="noopener">Apache</a>
- License version 2.0),</li>
+
+<a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Hugo</a> - pick your own operating system&rsquo;s binary release for <strong>free</strong>,</li>
 <li>
-<a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
- - set up your own GitHub account for <strong>free</strong>,</li>
+
+<a href="https://github.com/" target="_blank" rel="noopener">GitHub</a> - set up your own GitHub account for <strong>free</strong>,</li>
 <li>
-<a href="https://github.com/gcushen/hugo-academic/tree/master" target="_blank" rel="noopener">Academic Theme</a>
- - fork the Academic Theme for <strong>free</strong> (subject to the 
-<a href="https://choosealicense.com/licenses/mit/" target="_blank" rel="noopener">MIT</a>
- license),</li>
+
+<a href="https://github.com/gcushen/hugo-academic/tree/master" target="_blank" rel="noopener">Academic Theme</a> - fork the Academic Theme for <strong>free</strong>,</li>
 <li>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code</a>
- - download and install Microsoft Corporation&rsquo;s Visual Studio Code for <strong>free</strong> (subject to the 
-<a href="https://github.com/microsoft/vscode/blob/master/LICENSE.txt" target="_blank" rel="noopener">MIT</a>
- license),</li>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code</a> - download and install Microsoft&rsquo;s text editor for <strong>free</strong>,</li>
 </ol>
 <p>The specific deployment to host on 
-<a href="https://agarbiak.github.io/" target="_blank" rel="noopener">GitHub</a>
- was based on documentation from 
-<a href="https://sourcethemes.com/academic/docs/deployment/#github-pages" target="_blank" rel="noopener">Academic.</a>
-</p>
-<p>Here is my specific setup on my Windows OS:</p>
+
+<a href="https://github.com/agarbiak/agarbiak.github.io" target="_blank" rel="noopener">GitHub</a> was based on documentation from 
+
+<a href="https://sourcethemes.com/academic/docs/deployment/#github-pages" target="_blank" rel="noopener">Academic</a>.</p>
+<p>Over time my specific setup has changed:</p>
 <ul>
-<li>Use OneDrive for the Hugo binary in: /Hugo/bin,</li>
-<li>Use OneDrive to host my local repo across my PC and my laptop within /Hugo/Sites,</li>
-<li>This local repo mirrors my privately hosted GitHub (&ldquo;remote&rdquo;) repo that contains the source code to build the website,</li>
-<li>Add content in 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code,</a>
- using Git commands to add, commit and push to remote any changes,</li>
-<li>Using the Git bash command &ldquo;hugo&rdquo;, I re-build my website to populate the /public sub-directory,</li>
-<li>Clone my built website in a local repo within OneDrive/Hugo/Sites/&ldquo;website-name&rdquo; so that I can Git commit changes on each re-build,</li>
-<li>Copy-paste the contents of the /public sub-directory, add to Git, commit and push to 
-<a href="https://github.com/agarbiak/agarbiak.github.io" target="_blank" rel="noopener">remote,</a>
-</li>
-<li>Using the Git bash command &ldquo;rm -rf public&rdquo; within the local repo, I delete the /public sub-directory,</li>
-<li>Repeat the above steps for publishing new content.</li>
+<li>I use Windows OS but use a <code>bash</code> terminal within VS Code.</li>
+<li>Wrote a <code>shell</code> script to automate deployment which works by:
+<ul>
+<li>Calling Hugo with no arguments, simply <code>hugo</code>,</li>
+<li>Copies the Hugo generated <strong>public</strong> folder (representing the entire static website) into a separate repo,</li>
+<li>Change directory to the other repo and commit the git changes locally,</li>
+<li>Push these to the remote (GitHub repo),</li>
+<li>Change back to the Hugo repo and delete the <strong>public</strong> folder.</li>
 </ul>
-<p>This deployment workflow was based on documentation within 
-<a href="https://sourcethemes.com/academic/docs/deployment/#github-pages" target="_blank" rel="noopener">Academic.</a>
-</p>
+</li>
+<li>Changes to layout and theming is performed at the root directory, not within the theme folder</li>
+</ul>
+<section class="footnotes" role="doc-endnotes">
 <hr>
-<p>I&rsquo;ve only used 
-<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">Git</a>
- for a few months, have barely scratched the surface of its power, but already consider it the most important tool anyone should use for any development. Perhaps it deserves its own post in the future.</p>
-<p>Even newer than this is my use of 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code</a>
- which I consider a fantastic text editor. It&rsquo;s fast, free, includes Git integration, has syntax highlighting and the UI just <em>makes sense</em>.</p>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>The story doesn&rsquo;t end there. Here is some more commentary on the matter.<br>
+<br>
+
+<a href="https://bookdown.org/" target="_blank" rel="noopener">Bookdown</a> is an excellent resource for anyone interested in <code>R</code>. Most resources on here are fully published books that are available, for free, in digital format. Specifically, my interest was piqued by the 
+
+<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">book</a> hosted on here for the <code>R</code> package 
+
+<a href="https://cran.r-project.org/web/packages/blogdown/index.html" target="_blank" rel="noopener">blogdown.</a> The 
+
+<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">book</a> advocates using 
+
+<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> to build your statically generated website.<br>
+<br>As part of my work at 
+
+<a href="https://www.hiscox.co.uk/" target="_blank" rel="noopener">Hiscox</a> I occasionally work in <code>R</code>. My preferred IDE for such work is 
+
+<a href="https://rstudio.com/" target="_blank" rel="noopener">R Studio</a>. <code>R</code> is fantastic for data - loading, transformation, analysis and visualisation. R Studio is the best IDE for working in <code>R</code> in my opinion. However, I personally find R Studio a little cumbersome for web development despite the existence of the 
+
+<a href="https://cran.r-project.org/web/packages/blogdown/index.html" target="_blank" rel="noopener">blogdown</a> package. Due to this I backtracked somewhat to read up on 
+
+<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> documentation. Here I discovered the 
+
+<a href="https://sourcethemes.com/academic" target="_blank" rel="noopener">Academic</a> theme, which largely powers the user experience on this website. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Free as in no monetary purchase is required. However as with everything in life, there are some restrictions. All the tools listed come with a variant of an open-source license (GNU General Public License, Apache, MIT, et. al.) <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>It&rsquo;s pretty terrible I only came across 
+
+<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">Git</a> in late 2019. I am still yet to make use of its extensive functionality, but already consider it the most important tool within development. There are plenty of good tutorials you can Google for more help and the 
+
+<a href="https://git-scm.com/docs" target="_blank" rel="noopener">git-scm</a> website is <em>the</em> reference guide. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 
     </div>
 
@@ -1163,12 +1164,14 @@
   
 
   <p class="powered-by">
-    © 2020 Alexander Garbiak &middot; 
+    © 2020 Alexander Garbiak
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
+    <br>
+    Developed by
+    <a href="https://www.linkedin.com/in/garbiak/" target="_blank" rel="noopener">Alexander Garbiak</a> using
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> and the 
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a>
+    
     
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">
@@ -1180,7 +1183,6 @@
     
   </p>
 </footer>
-
   </div>
   
 
