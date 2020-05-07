@@ -15,7 +15,8 @@ let availableQuestions = [];
 let questions = [];
 
 fetch(
-    "https://opentdb.com/api.php?amount=10&category=14&difficulty=easy&type=multiple"
+    // "https://opentdb.com/api.php?amount=10&category=14&difficulty=easy&type=multiple"
+    "/pub-quiz/questions-today.json"
     )
     .then( res => {
         return res.json();
@@ -43,8 +44,8 @@ fetch(
     });
 
 //CONSTANTS
-const CORRECT_BONUS = 1;
-const MAX_QUESTIONS = 10;
+const CORRECT_BONUS = 10;
+const MAX_QUESTIONS = 15;
 
 startGame = () => {
     questionCounter = 0;
