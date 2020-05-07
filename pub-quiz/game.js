@@ -15,7 +15,7 @@ let availableQuestions = [];
 let questions = [];
 
 fetch(
-    "https://opentdb.com/api.php?amount=10&category=11&difficulty=easy&type=multiple"
+    "https://opentdb.com/api.php?amount=10&category=15&difficulty=medium&type=multiple"
     )
     .then( res => {
         return res.json();
@@ -72,7 +72,7 @@ getNewQuestion = () => {
 
     choices.forEach(choice => {
         const number = choice.dataset["number"];
-        choice.innerText = currentQuestion["choice" + number];
+        choice.innerHTML = currentQuestion["choice" + number];
     });
     availableQuestions.splice(questionIndex, 1);
     acceptingAnswers = true;
