@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Pub Quiz</title>
+      <title>The Garbiak Pub Quiz</title>
       <link>https://agarbiak.github.io/project/pub-quiz/</link>
       <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
       <guid>https://agarbiak.github.io/project/pub-quiz/</guid>
@@ -21,16 +21,11 @@
 
 &lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Guess the TV theme tune!&lt;/p&gt;
+&lt;p&gt;Early demo:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://agarbiak.github.io/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quiz questions are currently being generated via the 
 
-&lt;canvas id=&#34;myCanvas&#34; width=&#34;200&#34; height=&#34;100&#34;&gt;&lt;/canvas&gt;
-
-&lt;audio id=&#34;pubAudio&#34; controls&gt;
-    &lt;source src=&#34;&#34; type=&#34;audio/mpeg&#34;&gt;
-    Your browser does not support mp3 audio files.
-&lt;/audio&gt;
-
-&lt;script src=&#34;https://agarbiak.github.io/js/pubquiz.js&#34;&gt;&lt;/script&gt;
+&lt;a href=&#34;https://opentdb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Trivia Database API&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>

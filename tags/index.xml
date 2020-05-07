@@ -5,7 +5,7 @@
     <link>https://agarbiak.github.io/tags/</link>
       <atom:link href="https://agarbiak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 13:54:43 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 11:40:14 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Web development</title>
       <link>https://agarbiak.github.io/tags/web-development/</link>
-      <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
+      <pubDate>Sun, 26 Apr 2020 11:40:14 +0100</pubDate>
       <guid>https://agarbiak.github.io/tags/web-development/</guid>
       <description></description>
     </item>
