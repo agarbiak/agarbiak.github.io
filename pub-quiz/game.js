@@ -22,7 +22,7 @@ fetch(
         return res.json();
     })
     .then(loadedQuestions => {
-       questions = loadedQuestions.results.map( loadedQuestion => {
+        questions = loadedQuestions.results.map( loadedQuestion => {
            const formattedQuestion = {
                question: loadedQuestion.question
            };
@@ -45,7 +45,7 @@ fetch(
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 15;
+const MAX_QUESTIONS = 20;
 
 startGame = () => {
     questionCounter = 0;
@@ -99,7 +99,7 @@ choices.forEach(choice => {
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
             getNewQuestion();
-        }, 400);
+        }, 500);
     });
 })
 

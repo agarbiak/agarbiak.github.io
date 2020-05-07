@@ -2,963 +2,1239 @@
     "response_code": 0,
     "results": [
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who wrote &quot;Harry Potter&quot;?",
-            "correct_answer": "J.K. Rowling",
+            "question": "Carcassonne is based on which French town?",
+            "correct_answer": "Carcassonne",
             "incorrect_answers": [
-                "J.R.R. Tolkien",
-                "Terry Pratchett",
-                "Daniel Radcliffe"
+                "Paris",
+                "Marseille",
+                "Clermont-Ferrand"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
-            "correct_answer": "1984",
+            "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+            "correct_answer": "Brown",
             "incorrect_answers": [
-                "The Old Man and the Sea",
-                "Catcher and the Rye",
-                "To Kill a Mockingbird"
+                "Green",
+                "Yellow",
+                "Blue"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
-            "correct_answer": "Frankenstein",
+            "question": "How many spaces are there on a standard Monopoly board?",
+            "correct_answer": "40",
             "incorrect_answers": [
-                "Dracula",
-                "The Strange Case of Dr. Jekyll and Mr. Hyde ",
-                "The Legend of Sleepy Hollow"
+                "28",
+                "55",
+                "36"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
-            "correct_answer": "The Nautilus",
+            "question": "How many dice are used in the game of Yahtzee?",
+            "correct_answer": "Five",
             "incorrect_answers": [
-                "The Neptune",
-                "The Poseidon  ",
-                "The Atlantis"
+                "Four",
+                "Six",
+                "Eight"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following is the world&#039;s best-selling book?",
-            "correct_answer": "The Lord of the Rings",
+            "question": "How many pieces are there on the board at the start of a game of chess?",
+            "correct_answer": "32",
             "incorrect_answers": [
-                "The Little Prince",
-                "Harry Potter and the Philosopher&#039;s Stone",
-                "The Da Vinci Code"
+                "16",
+                "20",
+                "36"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
-            "correct_answer": "Hunter S. Thompson",
+            "question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
+            "correct_answer": "Free Parking",
             "incorrect_answers": [
-                "F. Scott Fitzgerald",
-                "Henry Miller",
-                "William S. Burroughs"
+                "Go to Jail",
+                "Jail",
+                "The Electric Company"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
-            "correct_answer": "Dr. Seuss",
+            "question": "How many dots are on a single die?",
+            "correct_answer": "21",
             "incorrect_answers": [
-                "Beatrix Potter",
-                "Roald Dahl",
-                "A.A. Milne"
+                "24",
+                "15",
+                "18"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
-            "correct_answer": "Ian Fleming",
+            "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+            "correct_answer": "Monopoly",
             "incorrect_answers": [
-                "Joseph Conrad",
-                "John Buchan",
-                "Graham Greene"
+                "Pay Day",
+                "Cluedo",
+                "Coppit"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How many Harry Potter books are there?",
-            "correct_answer": "7",
+            "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+            "correct_answer": "Extreme Dungeons &amp; Dragons",
             "incorrect_answers": [
-                "8",
-                "5",
-                "6"
+                "Advanced Dungeons &amp; Dragons",
+                "Dungeons &amp; Dragons 3.5th edition",
+                "Advanced Dungeons &amp; Dragons 2nd edition"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
-            "correct_answer": "Richard Bachman",
+            "question": "The board game Monopoly takes its street names from which real American city?",
+            "correct_answer": "Atlantic City, New Jersey",
             "incorrect_answers": [
-                "J. D. Robb",
-                "Mark Twain",
-                "Lewis Carroll"
+                "Las Vegas, Nevada",
+                "Duluth, Minnesota",
+                "Charleston, South Carolina"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
-            "correct_answer": "James Potter",
+            "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
+            "correct_answer": "1996",
             "incorrect_answers": [
-                "Joey Potter",
-                "Frank Potter",
-                "Hairy Potter Sr."
+                "2003",
+                "1999",
+                "1993"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
-            "correct_answer": "John Green",
+            "question": "When was the board game Twister, released to the public?",
+            "correct_answer": "April 1966",
             "incorrect_answers": [
-                "Stephenie Meyer",
-                "Suzanne Collins",
-                "Stephen Chbosky"
+                "September 1965",
+                "January 1969",
+                "February 1966"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
-            "correct_answer": "Fluffy",
+            "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
+            "correct_answer": "House",
             "incorrect_answers": [
-                "Spike",
-                "Poofy",
-                "Spot"
+                "Custom",
+                "Extra",
+                "Change"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
-            "correct_answer": "Holden Caulfield",
+            "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+            "correct_answer": "20",
             "incorrect_answers": [
-                "Fletcher Christian",
-                "Jay Gatsby",
-                "Randall Flagg"
+                "30",
+                "15",
+                "25"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
-            "correct_answer": "A Study in Scarlet",
+            "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+            "correct_answer": "Vanessa Kensington",
             "incorrect_answers": [
-                "The Sign of the Four",
-                "A Case of Identity",
-                "The Doings of Raffles Haw"
+                "Pam Bouvier",
+                "Mary Goodnight",
+                "Wai Lin"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the name of Sherlock Holmes&#039;s brother?",
-            "correct_answer": "Mycroft Holmes",
+            "question": "Which of the following movies was not based on a novel by Stephen King? ",
+            "correct_answer": "The Thing",
             "incorrect_answers": [
-                "Mederi Holmes",
-                "Martin Holmes",
-                "Herbie Hancock Holmes"
+                "Carrie",
+                "Misery",
+                "The Green Mile"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
-            "correct_answer": "A Clash of Kings",
+            "question": "Which movie released in 2016 features Superman and Batman fighting?",
+            "correct_answer": "Batman v Superman: Dawn of Justice",
             "incorrect_answers": [
-                "A Dance with Dragons",
-                "A Storm of Swords",
-                "A Feast for Crows"
+                "Batman v Superman: Superapocalypse",
+                "Batman v Superman: Black of Knight",
+                "Batman v Superman: Knightfall"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
-            "correct_answer": "SCP-173",
+            "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+            "correct_answer": "Harry Potter",
             "incorrect_answers": [
-                "SCP-001",
-                "SCP-999",
-                "SCP-1459"
+                "Ted",
+                "Spy Kids",
+                "Pirates of the Caribbean "
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which is NOT a book in the Harry Potter Series?",
-            "correct_answer": "The House Elf",
+            "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+            "correct_answer": "Michael Keaton",
             "incorrect_answers": [
-                "The Chamber of Secrets",
-                "The Prisoner of Azkaban",
-                "The Deathly Hallows"
+                "George Clooney",
+                "Val Kilmer",
+                "Adam West"
             ]
         },
         {
-            "category": "Entertainment: Books",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
-            "correct_answer": "INGSOC",
+            "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+            "correct_answer": "Wilson",
             "incorrect_answers": [
-                "Neo-Bolshevism",
-                "Obliteration of the Self",
-                "Earth Alliance"
+                "Friday",
+                "Jones",
+                "Billy"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which Apollo mission was the first one to land on the Moon?",
-            "correct_answer": "Apollo 11",
+            "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+            "correct_answer": "Steven Spielberg",
             "incorrect_answers": [
-                "Apollo 10",
-                "Apollo 9",
-                "Apollo 13"
+                "Stanley Kubrick",
+                "James Cameron",
+                "Tim Burton"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following bones is not in the leg?",
-            "correct_answer": "Radius",
+            "question": "What is the highest grossing film of all time (without adjusting for inflation)?",
+            "correct_answer": "Avengers: Endgame",
             "incorrect_answers": [
-                "Patella",
-                "Tibia",
-                "Fibula "
+                "Jurassic World",
+                "Avatar",
+                "Titanic"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the largest animal currently on Earth?",
-            "correct_answer": "Blue Whale",
+            "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
+            "correct_answer": "Tommy Lee Jones",
             "incorrect_answers": [
-                "Orca",
-                "Colossal Squid",
-                "Giraffe"
+                "Harrison Ford",
+                "Harvey Keitel",
+                "Martin Landau"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What name is given to all baby marsupials?",
-            "correct_answer": "Joey",
+            "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+            "correct_answer": "Uma Thurman",
             "incorrect_answers": [
-                "Calf",
-                "Pup",
-                "Cub"
+                "Kathy Griffin",
+                "Pam Grier",
+                "Bridget Fonda"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which type of rock is created by intense heat AND pressure?",
-            "correct_answer": "Metamorphic",
+            "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+            "correct_answer": "Quentin Tarantino",
             "incorrect_answers": [
-                "Sedimentary",
-                "Igneous",
-                "Diamond"
+                "Martin Scorcese",
+                "Steven Spielberg",
+                "James Cameron"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the hottest planet in the Solar System?",
-            "correct_answer": "Venus",
+            "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
+            "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
             "incorrect_answers": [
-                "Mars",
-                "Mercury",
-                "Jupiter"
+                "Christopher Nolan",
+                "David Fincher",
+                "Wes Anderson"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the powerhouse of the cell?",
-            "correct_answer": "Mitochondria",
+            "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+            "correct_answer": "Gale",
             "incorrect_answers": [
-                "Ribosome",
-                "Redbull",
-                "Nucleus"
+                "Perkins",
+                "Day",
+                "Parker"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following blood vessels carries deoxygenated blood?",
-            "correct_answer": "Pulmonary Artery",
+            "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+            "correct_answer": "Apollo 13",
             "incorrect_answers": [
-                "Pulmonary Vein",
-                "Aorta",
-                "Coronary Artery"
+                "The Right Stuff",
+                "Capricorn One",
+                "Marooned"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
-            "correct_answer": "Sputnik 1",
+            "question": "This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
+            "correct_answer": "Top Gun",
             "incorrect_answers": [
-                "Soyuz 7K-OK",
-                "Zenit-2",
-                "Voskhod 3KV"
+                "Days of Thunder",
+                "The Color of Money",
+                "Cocktail"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How many bones are in the human body?",
-            "correct_answer": "206",
+            "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+            "correct_answer": "BB-8",
             "incorrect_answers": [
-                "203",
-                "209",
-                "200"
+                "BB-3",
+                "AA-A",
+                "R2-D2"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What does DNA stand for?",
-            "correct_answer": "Deoxyribonucleic Acid",
+            "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+            "correct_answer": "Scarlett Johansson",
             "incorrect_answers": [
-                "Deoxyribogenetic Acid",
-                "Deoxyribogenetic Atoms",
-                "Detoxic Acid"
+                "Jared Leto",
+                "Will Smith",
+                "Margot Robbie"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who is the chemical element Curium named after?",
-            "correct_answer": "Marie &amp; Pierre Curie",
+            "question": "Which of these movies did Jeff Bridges not star in?",
+            "correct_answer": "The Hateful Eight",
             "incorrect_answers": [
-                "The Curiosity Rover",
-                "Curious George",
-                "Stephen Curry"
+                "Tron: Legacy",
+                "The Giver",
+                "True Grit"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The element involved in making human blood red is which of the following?",
-            "correct_answer": "Iron",
+            "question": "Who plays Alice in the Resident Evil movies?",
+            "correct_answer": "Milla Jovovich",
             "incorrect_answers": [
-                "Copper",
-                "Iridium",
-                "Cobalt"
+                "Madison Derpe",
+                "Milla Johnson",
+                "Kim Demp"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Human cells typically have how many copies of each gene?",
-            "correct_answer": "2",
+            "question": "What is the oldest Disney film?",
+            "correct_answer": "Snow White and the Seven Dwarfs",
             "incorrect_answers": [
-                "1",
-                "4",
-                "3"
+                "Pinocchio",
+                "Dumbo",
+                "Fantasia"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The medical term for the belly button is which of the following?",
-            "correct_answer": "Umbilicus",
+            "question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
+            "correct_answer": "Between Episode 3 and 4",
             "incorrect_answers": [
-                "Nevus",
-                "Nares",
-                "Paxillus"
+                "After Episode 6",
+                "Before Episode 1",
+                "Between Episode 4 and 5"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which element has the highest melting point?",
-            "correct_answer": "Carbon",
+            "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
+            "correct_answer": "Aloysius O&#039;Hare",
             "incorrect_answers": [
-                "Tungsten",
-                "Platinum",
-                "Osmium"
+                "Ted Wiggins",
+                "The Once-Ler",
+                "Grammy Norma"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the standard atomic weight of a Plutonium nucleus?",
-            "correct_answer": "244",
+            "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
+            "correct_answer": "Boomstick",
             "incorrect_answers": [
-                "94",
-                "481",
-                "128"
+                "Bloomstick",
+                "Blastbranch",
+                "2-Pump Chump"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What does LASER stand for?",
-            "correct_answer": "Light amplification by stimulated emission of radiation",
+            "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+            "correct_answer": "Jack Black",
             "incorrect_answers": [
-                "Lite analysing by stereo ecorazer",
-                "Light amplifier by standby energy of radio",
-                "Life antimatter by standing entry of range"
+                "Mirana Jonnes",
+                "McConahey Ramses",
+                "Jim Petersson"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
-            "correct_answer": "Cat",
+            "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+            "correct_answer": "Polynesian",
             "incorrect_answers": [
-                "Dog",
-                "Bat",
-                "Butterfly"
+                "Native American",
+                "Japanese",
+                "Nordic"
             ]
         },
         {
-            "category": "Science & Nature",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What lies at the center of our galaxy?",
-            "correct_answer": "A black hole",
+            "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+            "correct_answer": "Groovy.",
             "incorrect_answers": [
-                "A wormhole",
-                "A supernova",
-                "A quasar"
+                "Gnarly.",
+                "Perfect.",
+                "Nice."
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the most common surname Wales?",
-            "correct_answer": "Jones",
+            "question": "Where does the original Friday The 13th movie take place?",
+            "correct_answer": "Camp Crystal Lake",
             "incorrect_answers": [
-                "Williams",
-                "Davies",
-                "Evans"
+                "Packanack",
+                "Higgins Haven",
+                "Camp Forest Green"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the first book of the Old Testament?",
-            "correct_answer": "Genesis",
+            "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+            "correct_answer": "Casablanca",
             "incorrect_answers": [
-                "Exodus",
-                "Leviticus",
-                "Numbers"
+                "The Maltese Falcon",
+                "The Treasure of the Sierra Madre",
+                "Citizen Kane"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which sign of the zodiac is represented by the Crab?",
-            "correct_answer": "Cancer",
+            "question": "Which of these Movies was NOT released in 1996?",
+            "correct_answer": "Gladiator",
             "incorrect_answers": [
-                "Libra",
-                "Virgo",
-                "Sagittarius"
+                "Independence Day",
+                "The Rock",
+                "Mission: Impossible"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
-            "correct_answer": "Tango",
+            "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+            "correct_answer": "Gordon Shumway",
             "incorrect_answers": [
-                "Target",
-                "Taxi",
-                "Turkey"
+                "Gordon Milipp",
+                "Gordon Foster",
+                "Gordon von Gam"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What geometric shape is generally used for stop signs?",
-            "correct_answer": "Octagon",
+            "question": "Who played Agent Fox Mulder in the TV sci-fi drama &quot;The X-Files&quot;?",
+            "correct_answer": "David Duchovny",
             "incorrect_answers": [
-                "Hexagon",
-                "Circle",
-                "Triangle"
+                "Gillian Anderson",
+                "Robert Patrick",
+                "Mitch Pileggi"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
-            "correct_answer": "Cube",
+            "question": "In the original Star Trek TV series, what was Captain James T. Kirk&#039;s middle name?",
+            "correct_answer": "Tiberius",
             "incorrect_answers": [
-                "Sphere",
-                "Cylinder",
-                "Pyramid"
+                "Trevor",
+                "Travis",
+                "Tyrone"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How many colors are there in a rainbow?",
-            "correct_answer": "7",
+            "question": "Grant Gustin plays which superhero on the CW show of the same name?",
+            "correct_answer": "The Flash",
             "incorrect_answers": [
-                "8",
-                "9",
-                "10"
+                "The Arrow",
+                "Black Canary",
+                "Daredevil"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the French word for &quot;hat&quot;?",
-            "correct_answer": "Chapeau",
+            "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+            "correct_answer": "Eggo Waffles",
             "incorrect_answers": [
-                "Bonnet",
-                " &Eacute;charpe",
-                " Casque"
+                "Toast",
+                "Captain Crunch",
+                "Bacon and Eggs"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What do the letters in the GMT time zone stand for?",
-            "correct_answer": "Greenwich Mean Time",
+            "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+            "correct_answer": "RiDGiD STUDiOS",
             "incorrect_answers": [
-                "Global Meridian Time",
-                "General Median Time",
-                "Glasgow Man Time"
+                "Dan Bell",
+                "Billy Familia",
+                "VeganGainz"
             ]
         },
         {
-            "category": "General Knowledge",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which American-owned brewery led the country in sales by volume in 2015?",
-            "correct_answer": "D. G. Yuengling and Son, Inc",
+            "question": "How many seasons did &quot;Stargate SG-1&quot; have?",
+            "correct_answer": "10",
             "incorrect_answers": [
-                "Anheuser Busch",
-                "Boston Beer Company",
-                "Miller Coors"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What do the letters of the fast food chain KFC stand for?",
-            "correct_answer": "Kentucky Fried Chicken",
-            "incorrect_answers": [
-                "Kentucky Fresh Cheese",
-                "Kibbled Freaky Cow",
-                "Kiwi Food Cut"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was the first ever London Underground line to be built?",
-            "correct_answer": "Metropolitan Line",
-            "incorrect_answers": [
-                "Circle Line",
-                "Bakerloo Line",
-                "Victoria Line"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How tall is the Burj Khalifa?",
-            "correct_answer": "2,722 ft",
-            "incorrect_answers": [
-                "2,717 ft",
-                "2,546 ft",
-                "3,024 ft"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following card games revolves around numbers and basic math?",
-            "correct_answer": "Uno",
-            "incorrect_answers": [
-                "Go Fish",
-                "Twister",
-                "Munchkin"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What machine element is located in the center of fidget spinners?",
-            "correct_answer": "Bearings",
-            "incorrect_answers": [
-                "Axles",
-                "Gears",
-                "Belts"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
-            "correct_answer": "Libra",
-            "incorrect_answers": [
-                "Gemini",
-                "Taurus",
-                "Capricorn"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which candy is NOT made by Mars?",
-            "correct_answer": "Almond Joy",
-            "incorrect_answers": [
-                "M&amp;M&#039;s",
-                "Twix",
-                "Snickers"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What zodiac sign is represented by a pair of scales?",
-            "correct_answer": "Libra",
-            "incorrect_answers": [
-                "Aries",
-                "Capricorn",
-                "Sagittarius"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What nuts are used in the production of marzipan?",
-            "correct_answer": "Almonds",
-            "incorrect_answers": [
-                "Peanuts",
-                "Walnuts",
-                "Pistachios"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When one is &quot;envious&quot;, they are said to be what color?",
-            "correct_answer": "Green",
-            "incorrect_answers": [
-                "Red",
-                "Blue",
-                "Yellow"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which German field marshal was known as the `Desert Fox`?",
-            "correct_answer": "Erwin Rommel",
-            "incorrect_answers": [
-                "Ernst Busch",
-                "Wolfram Freiherr von Richthofen",
-                "Wilhelm List"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who discovered Penicillin?",
-            "correct_answer": "Alexander Flemming",
-            "incorrect_answers": [
-                "Marie Curie",
-                "Alfred Nobel",
-                "Louis Pasteur"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many manned moon landings have there been?",
-            "correct_answer": "6",
-            "incorrect_answers": [
-                "1",
                 "3",
+                "7",
+                "12"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What country is Cory in the House set in?",
+            "correct_answer": "The United States of America",
+            "incorrect_answers": [
+                "Canada",
+                "Venezuala",
+                "England"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
+            "correct_answer": "Petyr Baelish",
+            "incorrect_answers": [
+                "Podrick Payne",
+                "Lancel Lannister",
+                "Torrhen Karstark"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+            "correct_answer": "An Unearthly Child",
+            "incorrect_answers": [
+                "The Daleks",
+                "The Aztecs",
+                "The Edge of Destruction"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the real name of the famous spanish humorist, El Risitas?",
+            "correct_answer": "Juan Joya Borga",
+            "incorrect_answers": [
+                "Gabriel Garcia Marquez",
+                "Jesus Quintero",
+                "Ernesto Guevara"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the main character in &quot;The Flash&quot; TV series?",
+            "correct_answer": "Barry Allen",
+            "incorrect_answers": [
+                "Oliver Queen",
+                "Bart Allen",
+                "Bruce Wayne"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
+            "correct_answer": "LazyTown",
+            "incorrect_answers": [
+                "Sofia the First",
+                "DuckTales",
+                "Tom and Jerry"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+            "correct_answer": "House Majority Whip",
+            "incorrect_answers": [
+                "Attorney General",
+                "President",
+                "Chief of Staff"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+            "correct_answer": "The Governor",
+            "incorrect_answers": [
+                "Negan",
+                "Rick Grimes",
+                "Daryl Dixon"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
+            "correct_answer": "Eddie the Mean Old Yeti",
+            "incorrect_answers": [
+                "Kiddy Kong",
+                "Diddy Kong",
+                "King K. Rool"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "10",
+                "2",
                 "7"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The idea of Socialism was articulated and advanced by whom?",
-            "correct_answer": "Karl Marx",
+            "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+            "correct_answer": "Richard &quot;Dick&quot; Whitman",
             "incorrect_answers": [
-                "Vladimir Lenin",
-                "Joseph Stalin",
-                "Vladimir Putin"
+                "Donald Draper",
+                "John Ashbury",
+                "Michael &quot;Mikey&quot; Wilhelm"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In what year did the Wall Street Crash take place?",
-            "correct_answer": "1929",
+            "question": "Who was the first ever actor to play &quot;The Doctor&quot; on &quot;Doctor Who&quot;?",
+            "correct_answer": "William Hartnell",
             "incorrect_answers": [
-                "1932",
-                "1930",
-                "1925"
+                "David Tennant",
+                "Peter Capaldi",
+                "Tom Baker"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
-            "correct_answer": "Nagasaki",
+            "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+            "correct_answer": "Seinfeld",
             "incorrect_answers": [
-                "Kawasaki",
-                "Tokyo",
-                "Kagoshima"
+                "Frasier",
+                "Becker",
+                "Friends"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following African countries was most successful in resisting colonization?",
-            "correct_answer": "Ethiopia",
+            "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
+            "correct_answer": "Drew",
             "incorrect_answers": [
-                "C&ocirc;te d&rsquo;Ivoire",
-                "Congo",
-                "Namibia"
+                "Jerome",
+                "Greg",
+                "Joe"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following ancient peoples was NOT classified as Hellenic (Greek)?",
-            "correct_answer": "Illyrians",
+            "question": "What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
+            "correct_answer": "Sabrina",
             "incorrect_answers": [
-                "Dorians",
-                "Achaeans",
-                "Ionians"
+                "Hermione",
+                "Dorothy",
+                "Dahlia"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In which year did the Invasion of Kuwait by Iraq occur?",
-            "correct_answer": "1990",
+            "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+            "correct_answer": "Pennsylvania",
             "incorrect_answers": [
-                "1992",
-                "1988",
-                "1986"
+                "Florida",
+                "California",
+                "New Jersey"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "When did the Battle of the Somme begin?",
-            "correct_answer": "July 1st, 1916",
+            "question": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
+            "correct_answer": "Finders Keepers",
             "incorrect_answers": [
-                "August 1st, 1916",
-                "July 2nd, 1916",
-                "June 30th, 1916"
+                "Double Dare",
+                "Nickelodeon Guts",
+                "Nick Arcade"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
-            "correct_answer": "John Blunt",
+            "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
+            "correct_answer": "Rick &amp; Morty",
             "incorrect_answers": [
-                "Daniel Defoe",
-                "Robert Harley",
-                "John Churchill"
+                "Family Guy",
+                "South Park",
+                "American Dad"
             ]
         },
         {
-            "category": "History",
+            "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "When was Google founded?",
-            "correct_answer": "September 4, 1998",
+            "question": "In the cartoon &#039;SpongeBob SquarePants&#039;, what did the acronym E.V.I.L stand for?",
+            "correct_answer": "Every Villain Is Lemons",
             "incorrect_answers": [
-                "October 9, 1997",
-                "December 12, 1989",
-                "Feburary 7th, 2000"
+                "Every Villain Is Lemonade",
+                "Every Villain Is Limes",
+                "Each Villain Is Lemonade"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the first sport to have been played on the moon?",
-            "correct_answer": "Golf",
+            "question": "Who was the only god from Greece who did not get a name change in Rome?",
+            "correct_answer": "Apollo",
             "incorrect_answers": [
-                "Football",
-                "Tennis",
-                "Soccer"
+                "Demeter",
+                "Zeus",
+                "Athena"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How long did World War II last?",
-            "correct_answer": "6 years",
+            "question": "The ancient Roman god of war was commonly known as which of the following?",
+            "correct_answer": "Mars",
             "incorrect_answers": [
-                "4 years",
-                "5 years",
-                "7 years"
+                "Jupiter",
+                "Juno",
+                "Ares"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following countries was not an axis power during World War II?",
-            "correct_answer": " Soviet Union",
+            "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+            "correct_answer": "Jason",
             "incorrect_answers": [
-                "Italy",
-                "Germany",
-                "Japan"
+                "Castor",
+                "Daedalus",
+                "Odysseus"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
-            "correct_answer": "Andrew Jackson",
+            "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+            "correct_answer": "Eris",
             "incorrect_answers": [
-                "Harry S. Truman",
-                "Martin Van Buren",
-                "John Quincy Adams"
+                "Charon",
+                "Ceres",
+                "Dysnomia"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What year did World War I begin?",
-            "correct_answer": "1914",
+            "question": "Who was the King of Gods in Ancient Greek mythology?",
+            "correct_answer": "Zeus",
             "incorrect_answers": [
-                "1905",
-                "1919",
-                "1925"
+                "Apollo",
+                "Hermes",
+                "Poseidon"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How old was Adolf Hitler when he died?",
-            "correct_answer": "56",
+            "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+            "correct_answer": "Apollo",
             "incorrect_answers": [
-                "43",
-                "65",
-                "47"
+                "Aphrodite",
+                "Artemis",
+                "Athena"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the name commonly given to the ancient trade routes that connected the East and West of Eurasia?",
-            "correct_answer": "Silk Road",
+            "question": "The greek god Poseidon was the god of what?",
+            "correct_answer": "The Sea",
             "incorrect_answers": [
-                "Spice Road",
-                "Clay Road",
-                "Salt Road"
+                "War",
+                "Sun",
+                "Fire"
             ]
         },
         {
-            "category": "History",
+            "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In what year was the M1911 pistol designed?",
-            "correct_answer": "1911",
+            "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+            "correct_answer": "Orpheus",
             "incorrect_answers": [
-                "1907",
-                "1899",
-                "1917"
+                "Hercules",
+                "Perseus",
+                "Daedalus"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Greek mythology, who is the god of wine?",
+            "correct_answer": "Dionysus",
+            "incorrect_answers": [
+                "Hephaestus",
+                "Demeter",
+                "Apollo"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In most traditions, who was the wife of Zeus?",
+            "correct_answer": "Hera",
+            "incorrect_answers": [
+                "Aphrodite",
+                "Athena",
+                "Hestia"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+            "correct_answer": "Centaur",
+            "incorrect_answers": [
+                "Minotaur",
+                "Pegasus",
+                "Gorgon"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What mythology did the god &quot;Apollo&quot; come from?",
+            "correct_answer": "Greek and Roman",
+            "incorrect_answers": [
+                "Roman and Spanish",
+                "Greek and Chinese",
+                "Greek, Roman and Norse"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
+            "correct_answer": "Harpies",
+            "incorrect_answers": [
+                "Mermaids",
+                "Nymph",
+                "Lilith"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+            "correct_answer": "Victory",
+            "incorrect_answers": [
+                "Courage",
+                "Strength",
+                "Honor"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city is the capital of the United States of America?",
+            "correct_answer": "Washington D.C",
+            "incorrect_answers": [
+                "Seattle",
+                "Albany",
+                "Los Angeles"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The body of the Egyptian Sphinx was based on which animal?",
+            "correct_answer": "Lion",
+            "incorrect_answers": [
+                "Bull",
+                "Horse",
+                "Dog"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "If soccer is called football in England, what is American football called in England?",
+            "correct_answer": "American football",
+            "incorrect_answers": [
+                "Combball",
+                "Handball",
+                "Touchdown"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+            "correct_answer": "Samoyedic",
+            "incorrect_answers": [
+                "Hungarian",
+                "Finnish",
+                "Estonian"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+            "correct_answer": "Ohio",
+            "incorrect_answers": [
+                "Florida",
+                "Idaho",
+                "New Mexico"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following languages does NOT use the Latin alphabet?",
+            "correct_answer": "Georgian",
+            "incorrect_answers": [
+                "Turkish",
+                "Swahili",
+                "Vietnamese"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+            "correct_answer": "Constaninople",
+            "incorrect_answers": [
+                "H&uuml;davendigar",
+                "S&ouml;ğ&uuml;t",
+                "Adrianople"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many countries does the United States share a land border with?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the official language of Costa Rica?",
+            "correct_answer": "Spanish",
+            "incorrect_answers": [
+                "English",
+                "Portuguese",
+                "Creole"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Kuwait",
+                "United Arab Emirates",
+                "Jordan"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is the name of the largest city in the US state Tennessee?",
+            "correct_answer": "Memphis",
+            "incorrect_answers": [
+                "Thebes",
+                "Alexandria",
+                "Luxor"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the nickname for the US state Delaware?",
+            "correct_answer": "The First State",
+            "incorrect_answers": [
+                "The Fiftieth State",
+                "The Second State",
+                "The Sixteenth State"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the peninsula containing Spain and Portugal?",
+            "correct_answer": "Iberian Peninsula",
+            "incorrect_answers": [
+                "European Peninsula",
+                "Peloponnesian Peninsula",
+                "Scandinavian Peninsula"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the capital of the US State of New York?",
+            "correct_answer": "Albany",
+            "incorrect_answers": [
+                "Buffalo",
+                "New York",
+                "Rochester"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the Polish city known to Germans as Danzig?",
+            "correct_answer": "Gdańsk",
+            "incorrect_answers": [
+                "Warsaw",
+                "Zakopane",
+                "Poznań"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many stars are featured on New Zealand&#039;s flag?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many countries does Mexico border?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of New Zealand&#039;s indigenous people?",
+            "correct_answer": "Maori",
+            "incorrect_answers": [
+                "Vikings",
+                "Polynesians",
+                "Samoans"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the largest country in the world?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Canada",
+                "China",
+                "United States"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Where would you find the &quot;Spanish Steps&quot;?",
+            "correct_answer": "Rome, Italy",
+            "incorrect_answers": [
+                "Barcelona, Spain",
+                "Berlin, Germany",
+                "London, England"
             ]
         }
     ]

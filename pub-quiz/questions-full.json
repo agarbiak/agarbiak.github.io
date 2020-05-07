@@ -1202,6 +1202,174 @@
             ]
         },
         {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+            "correct_answer": "Brown",
+            "incorrect_answers": [
+                "Green",
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many spaces are there on a standard Monopoly board?",
+            "correct_answer": "40",
+            "incorrect_answers": [
+                "28",
+                "55",
+                "36"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many dice are used in the game of Yahtzee?",
+            "correct_answer": "Five",
+            "incorrect_answers": [
+                "Four",
+                "Six",
+                "Eight"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many pieces are there on the board at the start of a game of chess?",
+            "correct_answer": "32",
+            "incorrect_answers": [
+                "16",
+                "20",
+                "36"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
+            "correct_answer": "Free Parking",
+            "incorrect_answers": [
+                "Go to Jail",
+                "Jail",
+                "The Electric Company"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many dots are on a single die?",
+            "correct_answer": "21",
+            "incorrect_answers": [
+                "24",
+                "15",
+                "18"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+            "correct_answer": "Monopoly",
+            "incorrect_answers": [
+                "Pay Day",
+                "Cluedo",
+                "Coppit"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
+            "correct_answer": "Extreme Dungeons &amp; Dragons",
+            "incorrect_answers": [
+                "Advanced Dungeons &amp; Dragons",
+                "Dungeons &amp; Dragons 3.5th edition",
+                "Advanced Dungeons &amp; Dragons 2nd edition"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The board game Monopoly takes its street names from which real American city?",
+            "correct_answer": "Atlantic City, New Jersey",
+            "incorrect_answers": [
+                "Las Vegas, Nevada",
+                "Duluth, Minnesota",
+                "Charleston, South Carolina"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
+            "correct_answer": "1996",
+            "incorrect_answers": [
+                "2003",
+                "1999",
+                "1993"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the board game Twister, released to the public?",
+            "correct_answer": "April 1966",
+            "incorrect_answers": [
+                "September 1965",
+                "January 1969",
+                "February 1966"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
+            "correct_answer": "House",
+            "incorrect_answers": [
+                "Custom",
+                "Extra",
+                "Change"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+            "correct_answer": "20",
+            "incorrect_answers": [
+                "30",
+                "15",
+                "25"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city is the capital of the United States of America?",
+            "correct_answer": "Washington D.C",
+            "incorrect_answers": [
+                "Seattle",
+                "Albany",
+                "Los Angeles"
+            ]
+        },
+        {
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
@@ -1217,24 +1385,12 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of these is NOT an Australian state or territory?",
-            "correct_answer": "Alberta",
+            "question": "If soccer is called football in England, what is American football called in England?",
+            "correct_answer": "American football",
             "incorrect_answers": [
-                "New South Wales",
-                "Victoria",
-                "Queensland"
-            ]
-        },
-        {
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What colour is the circle on the Japanese flag?",
-            "correct_answer": "Red",
-            "incorrect_answers": [
-                "White",
-                "Yellow",
-                "Black"
+                "Combball",
+                "Handball",
+                "Touchdown"
             ]
         },
         {
@@ -1253,72 +1409,192 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following former Yugoslavian states is landlocked?",
-            "correct_answer": "Serbia",
+            "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+            "correct_answer": "Ohio",
             "incorrect_answers": [
-                "Bosnia and Herzegovina",
-                "Montenegro",
-                "Croatia"
+                "Florida",
+                "Idaho",
+                "New Mexico"
             ]
         },
         {
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which US state has the highest population?",
-            "correct_answer": "California",
+            "question": "Which of the following languages does NOT use the Latin alphabet?",
+            "correct_answer": "Georgian",
             "incorrect_answers": [
+                "Turkish",
+                "Swahili",
+                "Vietnamese"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+            "correct_answer": "Constaninople",
+            "incorrect_answers": [
+                "H&uuml;davendigar",
+                "S&ouml;ğ&uuml;t",
+                "Adrianople"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many countries does the United States share a land border with?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the official language of Costa Rica?",
+            "correct_answer": "Spanish",
+            "incorrect_answers": [
+                "English",
+                "Portuguese",
+                "Creole"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Kuwait",
+                "United Arab Emirates",
+                "Jordan"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is the name of the largest city in the US state Tennessee?",
+            "correct_answer": "Memphis",
+            "incorrect_answers": [
+                "Thebes",
+                "Alexandria",
+                "Luxor"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the nickname for the US state Delaware?",
+            "correct_answer": "The First State",
+            "incorrect_answers": [
+                "The Fiftieth State",
+                "The Second State",
+                "The Sixteenth State"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the peninsula containing Spain and Portugal?",
+            "correct_answer": "Iberian Peninsula",
+            "incorrect_answers": [
+                "European Peninsula",
+                "Peloponnesian Peninsula",
+                "Scandinavian Peninsula"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the capital of the US State of New York?",
+            "correct_answer": "Albany",
+            "incorrect_answers": [
+                "Buffalo",
                 "New York",
-                "Texas",
-                "Florida"
+                "Rochester"
             ]
         },
         {
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What country has a horizontal bicolor red and white flag?",
-            "correct_answer": "Monaco",
+            "question": "What is the Polish city known to Germans as Danzig?",
+            "correct_answer": "Gdańsk",
             "incorrect_answers": [
-                "Bahrain",
-                "Malta",
-                "Liechenstein"
+                "Warsaw",
+                "Zakopane",
+                "Poznań"
             ]
         },
         {
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The Space Needle is located in which city?",
-            "correct_answer": "Seattle",
+            "question": "How many stars are featured on New Zealand&#039;s flag?",
+            "correct_answer": "4",
             "incorrect_answers": [
-                "Los Angles",
-                "Toronto",
-                "Vancouver"
+                "5",
+                "2",
+                "0"
             ]
         },
         {
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is Canada&#039;s smallest province?",
-            "correct_answer": "Prince Edward Island",
+            "question": "How many countries does Mexico border?",
+            "correct_answer": "3",
             "incorrect_answers": [
-                "New Brunswick",
-                "Nova Scotia",
-                "Yukon"
+                "2",
+                "4",
+                "1"
             ]
         },
         {
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the smallest country in the world?",
-            "correct_answer": "Vatican City",
+            "question": "What is the name of New Zealand&#039;s indigenous people?",
+            "correct_answer": "Maori",
             "incorrect_answers": [
-                "Maldives",
-                "Monaco",
-                "Malta"
+                "Vikings",
+                "Polynesians",
+                "Samoans"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the largest country in the world?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Canada",
+                "China",
+                "United States"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Where would you find the &quot;Spanish Steps&quot;?",
+            "correct_answer": "Rome, Italy",
+            "incorrect_answers": [
+                "Barcelona, Spain",
+                "Berlin, Germany",
+                "London, England"
             ]
         }
     ]

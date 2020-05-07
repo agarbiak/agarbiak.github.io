@@ -33,8 +33,50 @@
     background-color: #dc3545;
 }
 
-/* HUD */
+/* NAV BAR */
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
 
+.navbar-prefix {
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+#navbar-restart {
+    border: 0.1rem solid rgb(86, 165, 235, 0.25);
+    padding: 1.5rem 2.5rem;
+    background-color: #000000;
+    color: white;
+}
+
+#navbar-restart:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 0, 0, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+#navbar-exit {
+    border: 0.1rem solid rgb(86, 165, 235, 0.25);
+    padding: 1.5rem 2.5rem;
+    background-color: #000000;
+    color: white;
+}
+
+#navbar-exit:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 0, 0, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+
+/* HUD */
 #hud {
     display: flex;
     justify-content: space-between;
