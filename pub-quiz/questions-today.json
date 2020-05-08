@@ -1,978 +1,5 @@
 {
-    "response_code": 0,
     "results": [
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Carcassonne is based on which French town?",
-            "correct_answer": "Carcassonne",
-            "incorrect_answers": [
-                "Paris",
-                "Marseille",
-                "Clermont-Ferrand"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
-            "correct_answer": "Brown",
-            "incorrect_answers": [
-                "Green",
-                "Yellow",
-                "Blue"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many spaces are there on a standard Monopoly board?",
-            "correct_answer": "40",
-            "incorrect_answers": [
-                "28",
-                "55",
-                "36"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many dice are used in the game of Yahtzee?",
-            "correct_answer": "Five",
-            "incorrect_answers": [
-                "Four",
-                "Six",
-                "Eight"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many pieces are there on the board at the start of a game of chess?",
-            "correct_answer": "32",
-            "incorrect_answers": [
-                "16",
-                "20",
-                "36"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ",
-            "correct_answer": "Free Parking",
-            "incorrect_answers": [
-                "Go to Jail",
-                "Jail",
-                "The Electric Company"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many dots are on a single die?",
-            "correct_answer": "21",
-            "incorrect_answers": [
-                "24",
-                "15",
-                "18"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
-            "correct_answer": "Monopoly",
-            "incorrect_answers": [
-                "Pay Day",
-                "Cluedo",
-                "Coppit"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The board game Monopoly takes its street names from which real American city?",
-            "correct_answer": "Atlantic City, New Jersey",
-            "incorrect_answers": [
-                "Las Vegas, Nevada",
-                "Duluth, Minnesota",
-                "Charleston, South Carolina"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In which year was the pen and paper RPG &quot;Deadlands&quot; released?",
-            "correct_answer": "1996",
-            "incorrect_answers": [
-                "2003",
-                "1999",
-                "1993"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When was the board game Twister, released to the public?",
-            "correct_answer": "April 1966",
-            "incorrect_answers": [
-                "September 1965",
-                "January 1969",
-                "February 1966"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?",
-            "correct_answer": "House",
-            "incorrect_answers": [
-                "Custom",
-                "Extra",
-                "Change"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
-            "correct_answer": "20",
-            "incorrect_answers": [
-                "30",
-                "15",
-                "25"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
-            "correct_answer": "Vanessa Kensington",
-            "incorrect_answers": [
-                "Pam Bouvier",
-                "Mary Goodnight",
-                "Wai Lin"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following movies was not based on a novel by Stephen King? ",
-            "correct_answer": "The Thing",
-            "incorrect_answers": [
-                "Carrie",
-                "Misery",
-                "The Green Mile"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which movie released in 2016 features Superman and Batman fighting?",
-            "correct_answer": "Batman v Superman: Dawn of Justice",
-            "incorrect_answers": [
-                "Batman v Superman: Superapocalypse",
-                "Batman v Superman: Black of Knight",
-                "Batman v Superman: Knightfall"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
-            "correct_answer": "Harry Potter",
-            "incorrect_answers": [
-                "Ted",
-                "Spy Kids",
-                "Pirates of the Caribbean "
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
-            "correct_answer": "Michael Keaton",
-            "incorrect_answers": [
-                "George Clooney",
-                "Val Kilmer",
-                "Adam West"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
-            "correct_answer": "Wilson",
-            "incorrect_answers": [
-                "Friday",
-                "Jones",
-                "Billy"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
-            "correct_answer": "Steven Spielberg",
-            "incorrect_answers": [
-                "Stanley Kubrick",
-                "James Cameron",
-                "Tim Burton"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the highest grossing film of all time (without adjusting for inflation)?",
-            "correct_answer": "Avengers: Endgame",
-            "incorrect_answers": [
-                "Jurassic World",
-                "Avatar",
-                "Titanic"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?",
-            "correct_answer": "Tommy Lee Jones",
-            "incorrect_answers": [
-                "Harrison Ford",
-                "Harvey Keitel",
-                "Martin Landau"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
-            "correct_answer": "Uma Thurman",
-            "incorrect_answers": [
-                "Kathy Griffin",
-                "Pam Grier",
-                "Bridget Fonda"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who directed the movies &quot;Pulp Fiction&quot; and &quot;Reservoir Dogs&quot;?",
-            "correct_answer": "Quentin Tarantino",
-            "incorrect_answers": [
-                "Martin Scorcese",
-                "Steven Spielberg",
-                "James Cameron"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who directed the 2015 movie &quot;The Revenant&quot;?",
-            "correct_answer": "Alejandro G. I&ntilde;&aacute;rritu",
-            "incorrect_answers": [
-                "Christopher Nolan",
-                "David Fincher",
-                "Wes Anderson"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
-            "correct_answer": "Gale",
-            "incorrect_answers": [
-                "Perkins",
-                "Day",
-                "Parker"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
-            "correct_answer": "Apollo 13",
-            "incorrect_answers": [
-                "The Right Stuff",
-                "Capricorn One",
-                "Marooned"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
-            "correct_answer": "Top Gun",
-            "incorrect_answers": [
-                "Days of Thunder",
-                "The Color of Money",
-                "Cocktail"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
-            "correct_answer": "BB-8",
-            "incorrect_answers": [
-                "BB-3",
-                "AA-A",
-                "R2-D2"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these actors is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
-            "correct_answer": "Scarlett Johansson",
-            "incorrect_answers": [
-                "Jared Leto",
-                "Will Smith",
-                "Margot Robbie"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these movies did Jeff Bridges not star in?",
-            "correct_answer": "The Hateful Eight",
-            "incorrect_answers": [
-                "Tron: Legacy",
-                "The Giver",
-                "True Grit"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who plays Alice in the Resident Evil movies?",
-            "correct_answer": "Milla Jovovich",
-            "incorrect_answers": [
-                "Madison Derpe",
-                "Milla Johnson",
-                "Kim Demp"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the oldest Disney film?",
-            "correct_answer": "Snow White and the Seven Dwarfs",
-            "incorrect_answers": [
-                "Pinocchio",
-                "Dumbo",
-                "Fantasia"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
-            "correct_answer": "Between Episode 3 and 4",
-            "incorrect_answers": [
-                "After Episode 6",
-                "Before Episode 1",
-                "Between Episode 4 and 5"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
-            "correct_answer": "Aloysius O&#039;Hare",
-            "incorrect_answers": [
-                "Ted Wiggins",
-                "The Once-Ler",
-                "Grammy Norma"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
-            "correct_answer": "Boomstick",
-            "incorrect_answers": [
-                "Bloomstick",
-                "Blastbranch",
-                "2-Pump Chump"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who plays the character of Po in the Kung Fu Panda movies?",
-            "correct_answer": "Jack Black",
-            "incorrect_answers": [
-                "Mirana Jonnes",
-                "McConahey Ramses",
-                "Jim Petersson"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
-            "correct_answer": "Polynesian",
-            "incorrect_answers": [
-                "Native American",
-                "Japanese",
-                "Nordic"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
-            "correct_answer": "Groovy.",
-            "incorrect_answers": [
-                "Gnarly.",
-                "Perfect.",
-                "Nice."
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Where does the original Friday The 13th movie take place?",
-            "correct_answer": "Camp Crystal Lake",
-            "incorrect_answers": [
-                "Packanack",
-                "Higgins Haven",
-                "Camp Forest Green"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
-            "correct_answer": "Casablanca",
-            "incorrect_answers": [
-                "The Maltese Falcon",
-                "The Treasure of the Sierra Madre",
-                "Citizen Kane"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these Movies was NOT released in 1996?",
-            "correct_answer": "Gladiator",
-            "incorrect_answers": [
-                "Independence Day",
-                "The Rock",
-                "Mission: Impossible"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
-            "correct_answer": "Gordon Shumway",
-            "incorrect_answers": [
-                "Gordon Milipp",
-                "Gordon Foster",
-                "Gordon von Gam"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who played Agent Fox Mulder in the TV sci-fi drama &quot;The X-Files&quot;?",
-            "correct_answer": "David Duchovny",
-            "incorrect_answers": [
-                "Gillian Anderson",
-                "Robert Patrick",
-                "Mitch Pileggi"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the original Star Trek TV series, what was Captain James T. Kirk&#039;s middle name?",
-            "correct_answer": "Tiberius",
-            "incorrect_answers": [
-                "Trevor",
-                "Travis",
-                "Tyrone"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Grant Gustin plays which superhero on the CW show of the same name?",
-            "correct_answer": "The Flash",
-            "incorrect_answers": [
-                "The Arrow",
-                "Black Canary",
-                "Daredevil"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
-            "correct_answer": "Eggo Waffles",
-            "incorrect_answers": [
-                "Toast",
-                "Captain Crunch",
-                "Bacon and Eggs"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
-            "correct_answer": "RiDGiD STUDiOS",
-            "incorrect_answers": [
-                "Dan Bell",
-                "Billy Familia",
-                "VeganGainz"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many seasons did &quot;Stargate SG-1&quot; have?",
-            "correct_answer": "10",
-            "incorrect_answers": [
-                "3",
-                "7",
-                "12"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What country is Cory in the House set in?",
-            "correct_answer": "USA",
-            "incorrect_answers": [
-                "Canada",
-                "Venezuala",
-                "England"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In Game of Thrones, what is Littlefinger&#039;s real name?",
-            "correct_answer": "Petyr Baelish",
-            "incorrect_answers": [
-                "Podrick Payne",
-                "Lancel Lannister",
-                "Torrhen Karstark"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
-            "correct_answer": "An Unearthly Child",
-            "incorrect_answers": [
-                "The Daleks",
-                "The Aztecs",
-                "The Edge of Destruction"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the real name of the famous spanish humorist, El Risitas?",
-            "correct_answer": "Juan Joya Borga",
-            "incorrect_answers": [
-                "Gabriel Garcia Marquez",
-                "Jesus Quintero",
-                "Ernesto Guevara"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of the main character in &quot;The Flash&quot; TV series?",
-            "correct_answer": "Barry Allen",
-            "incorrect_answers": [
-                "Oliver Queen",
-                "Bart Allen",
-                "Bruce Wayne"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In season one of the Netflix&#039;s &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
-            "correct_answer": "House Majority Whip",
-            "incorrect_answers": [
-                "Attorney General",
-                "President",
-                "Chief of Staff"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
-            "correct_answer": "The Governor",
-            "incorrect_answers": [
-                "Negan",
-                "Rick Grimes",
-                "Daryl Dixon"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
-            "correct_answer": "Eddie the Mean Old Yeti",
-            "incorrect_answers": [
-                "Kiddy Kong",
-                "Diddy Kong",
-                "King K. Rool"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
-            "correct_answer": "5",
-            "incorrect_answers": [
-                "10",
-                "2",
-                "7"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
-            "correct_answer": "Richard &quot;Dick&quot; Whitman",
-            "incorrect_answers": [
-                "Donald Draper",
-                "John Ashbury",
-                "Michael &quot;Mikey&quot; Wilhelm"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who was the first ever actor to play &quot;The Doctor&quot; on &quot;Doctor Who&quot;?",
-            "correct_answer": "William Hartnell",
-            "incorrect_answers": [
-                "David Tennant",
-                "Peter Capaldi",
-                "Tom Baker"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
-            "correct_answer": "Seinfeld",
-            "incorrect_answers": [
-                "Frasier",
-                "Becker",
-                "Friends"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
-            "correct_answer": "Drew",
-            "incorrect_answers": [
-                "Jerome",
-                "Greg",
-                "Joe"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was the name of the witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
-            "correct_answer": "Sabrina",
-            "incorrect_answers": [
-                "Hermione",
-                "Dorothy",
-                "Dahlia"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
-            "correct_answer": "Pennsylvania",
-            "incorrect_answers": [
-                "Florida",
-                "California",
-                "New Jersey"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
-            "correct_answer": "Finders Keepers",
-            "incorrect_answers": [
-                "Double Dare",
-                "Nickelodeon Guts",
-                "Nick Arcade"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
-            "correct_answer": "Rick &amp; Morty",
-            "incorrect_answers": [
-                "Family Guy",
-                "South Park",
-                "American Dad"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the cartoon &#039;SpongeBob SquarePants&#039;, what did the acronym E.V.I.L stand for?",
-            "correct_answer": "Every Villain Is Lemons",
-            "incorrect_answers": [
-                "Every Villain Is Lemonade",
-                "Every Villain Is Limes",
-                "Each Villain Is Lemonade"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who was the only god from Greece who did not get a name change in Rome?",
-            "correct_answer": "Apollo",
-            "incorrect_answers": [
-                "Demeter",
-                "Zeus",
-                "Athena"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The ancient Roman god of war was commonly known as which of the following?",
-            "correct_answer": "Mars",
-            "incorrect_answers": [
-                "Jupiter",
-                "Juno",
-                "Ares"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
-            "correct_answer": "Jason",
-            "incorrect_answers": [
-                "Castor",
-                "Daedalus",
-                "Odysseus"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "This Greek god&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
-            "correct_answer": "Eris",
-            "incorrect_answers": [
-                "Charon",
-                "Ceres",
-                "Dysnomia"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who was the King of Gods in Ancient Greek mythology?",
-            "correct_answer": "Zeus",
-            "incorrect_answers": [
-                "Apollo",
-                "Hermes",
-                "Poseidon"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which Greek god was known as the god of healing, the sun and light, poetry, and more?",
-            "correct_answer": "Apollo",
-            "incorrect_answers": [
-                "Aphrodite",
-                "Artemis",
-                "Athena"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The greek god Poseidon was the god of what?",
-            "correct_answer": "The Sea",
-            "incorrect_answers": [
-                "War",
-                "Sun",
-                "Fire"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
-            "correct_answer": "Orpheus",
-            "incorrect_answers": [
-                "Hercules",
-                "Perseus",
-                "Daedalus"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In Greek mythology, who is the god of wine?",
-            "correct_answer": "Dionysus",
-            "incorrect_answers": [
-                "Hephaestus",
-                "Demeter",
-                "Apollo"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In most traditions, who was the wife of Zeus?",
-            "correct_answer": "Hera",
-            "incorrect_answers": [
-                "Aphrodite",
-                "Athena",
-                "Hestia"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these mythological creatures is said to be half-man and half-horse?",
-            "correct_answer": "Centaur",
-            "incorrect_answers": [
-                "Minotaur",
-                "Pegasus",
-                "Gorgon"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What mythology did the god &quot;Apollo&quot; come from?",
-            "correct_answer": "Greek and Roman",
-            "incorrect_answers": [
-                "Roman and Spanish",
-                "Greek and Chinese",
-                "Greek, Roman and Norse"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What mytological creatures have women&#039;s faces and vultures&#039; bodies?",
-            "correct_answer": "Harpies",
-            "incorrect_answers": [
-                "Mermaids",
-                "Nymph",
-                "Lilith"
-            ]
-        },
-        {
-            "category": "Mythology",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek god of what?",
-            "correct_answer": "Victory",
-            "incorrect_answers": [
-                "Courage",
-                "Strength",
-                "Honor"
-            ]
-        },
         {
             "category": "Geography",
             "type": "multiple",
@@ -995,30 +22,6 @@
                 "Bull",
                 "Horse",
                 "Dog"
-            ]
-        },
-        {
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "If soccer is called football in England, what is American football called in England?",
-            "correct_answer": "American football",
-            "incorrect_answers": [
-                "Combball",
-                "Handball",
-                "Touchdown"
-            ]
-        },
-        {
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
-            "correct_answer": "Samoyedic",
-            "incorrect_answers": [
-                "Hungarian",
-                "Finnish",
-                "Estonian"
             ]
         },
         {
@@ -1193,18 +196,6 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the largest country in the world?",
-            "correct_answer": "Russia",
-            "incorrect_answers": [
-                "Canada",
-                "China",
-                "United States"
-            ]
-        },
-        {
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "Where would you find the &quot;Spanish Steps&quot;?",
             "correct_answer": "Rome, Italy",
             "incorrect_answers": [
@@ -1214,16 +205,493 @@
             ]
         },
         {
+            "meta": "Audio",
+            "metaSrc": "Arrested_Development.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Arrested Development",
+            "incorrect_answers": [
+                "Curb Your Enthusiasm",
+                "Modern Family",
+                "Community"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Blackadder.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Blackadder",
+            "incorrect_answers": [
+                "Black Books",
+                "Upstart Crow",
+                "The Vicar of Dibley"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Breaking_Bad.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Breaking Bad",
+            "incorrect_answers": [
+                "Sons of Anarchy",
+                "The Wire",
+                "Prison Break"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Brooklyn_Nine-Nine.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Brooklyn Nine-Nine",
+            "incorrect_answers": [
+                "Parks and Recreation",
+                "The Good Place",
+                "Superstore"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Chernobyl.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Chernobyl",
+            "incorrect_answers": [
+                "Watchmen",
+                "Titanic",
+                "Black Mirror"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Colombo.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Colombo",
+            "incorrect_answers": [
+                "Quincy",
+                "Ironside",
+                "Diagnosis Murder"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Countdown.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Countdown",
+            "incorrect_answers": [
+                "The Weakest Link",
+                "Eggheads",
+                "Pointless"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Dark.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Dark",
+            "incorrect_answers": [
+                "Disappeared",
+                "The OA",
+                "Mindhunter"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Dexter.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Dexter",
+            "incorrect_answers": [
+                "Ballers",
+                "CSI: Miami",
+                "Miami Vice"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Fawlty_Towers.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Fawlty Towers",
+            "incorrect_answers": [
+                "The Good Life",
+                "One Foot in the Grave",
+                "Father Ted"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Friends.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Friends",
+            "incorrect_answers": [
+                "Will &amp; Grace",
+                "Seinfeld",
+                "Episodes"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Game_of_Thrones.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Game of Thrones",
+            "incorrect_answers": [
+                "Once Upon a Time",
+                "True Blood",
+                "Supernatural"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Jonathan_Creek.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Jonathan Creek",
+            "incorrect_answers": [
+                "Taggart",
+                "Silent Witness",
+                "Midsomer Murders"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Lucifer.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Lucifer",
+            "incorrect_answers": [
+                "Money Heist",
+                "Arrow",
+                "Good Omens"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Mastermind.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Mastermind",
+            "incorrect_answers": [
+                "Eggheads",
+                "The Chase",
+                "Catchphrase"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Only_Fools_and_Horses.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Only Fools and Horses",
+            "incorrect_answers": [
+                "One Foot in the Grave",
+                "Last of the Summer Wine",
+                "A Touch of Frost"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Parks_and_Rec.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Parks and Recreation",
+            "incorrect_answers": [
+                "30 Rock",
+                "Community",
+                "Modern Family"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Peep_Show.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Peep Show",
+            "incorrect_answers": [
+                "The Inbetweeners",
+                "The Thick of It",
+                "The IT Crowd"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Poirot.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Poirot",
+            "incorrect_answers": [
+                "Inspector Morse",
+                "Prime Suspect",
+                "Midsomer Murders"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Rick_and_Morty.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Rick and Morty",
+            "incorrect_answers": [
+                "Archer",
+                "Final Space",
+                "Futurama"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "The_Crown.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "The Crown",
+            "incorrect_answers": [
+                "The Royals",
+                "The Windsors",
+                "The Queen"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "The_Witcher.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "The Witcher",
+            "incorrect_answers": [
+                "Arrow",
+                "Xena&#58; Warrior Princess",
+                "The Last Kingdom"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "Tiger_King.mp3",
+            "category": "TV",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the TV show",
+            "correct_answer": "Tiger King",
+            "incorrect_answers": [
+                "Making a Murderer",
+                "Killer Inside&#58; The Mind of Aaron Hernandez",
+                "The Confession Tapes"
+            ]
+        },
+        {
             "meta": "Picture",
+            "metaSrc": "mona_lisa.png",
             "category": "Art",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who painted this?",
-            "correct_answer": "Rome, Italy",
+            "question": "What painting is this?",
+            "correct_answer": "Mona Lisa",
             "incorrect_answers": [
-                "Barcelona, Spain",
-                "Berlin, Germany",
-                "London, England"
+                "The Starry Night",
+                "The Scream",
+                "The Night Watch"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "girl_with_a_pearl_earring.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Girl With A Pearl Earring",
+            "incorrect_answers": [
+                "The Arnolfini Portrait",
+                "The Grand Odalisque",
+                "Olympia"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "la_nascita_di_venere.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Birth Of Venus",
+            "incorrect_answers": [
+                "The Triumph Of Galatea",
+                "Primavera",
+                "Olympia"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "la_ronda_de_noche.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Night Watch",
+            "incorrect_answers": [
+                "The Arnolfini Portrait",
+                "Stag Night At Sharkeys",
+                "The Ambassadors"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "the_fall_of_the_damned.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Fall Of The Damned",
+            "incorrect_answers": [
+                "The Last Judgment",
+                "The Punishment of the Thieves",
+                "Casting The Damned Into Hell"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "flaming_june.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "Flaming June",
+            "incorrect_answers": [
+                "Lady in orange",
+                "The Sleeping Lady",
+                "Portrait of Susanna"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "starry_night.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Starry Night",
+            "incorrect_answers": [
+                "Starry Night Over the Rhône",
+                "The Night Sky",
+                "Light of the Night Sky"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "the_scream.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Scream",
+            "incorrect_answers": [
+                "The Shriek",
+                "The Screech",
+                "The Storm"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "the_kiss.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Kiss",
+            "incorrect_answers": [
+                "Two Lovers",
+                "Beethoven Frieze",
+                "Psyche Revived by Cupid&#039;s Kiss"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "arnolfini_portrait.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "The Arnolfini Portrait",
+            "incorrect_answers": [
+                "Portrait of Giovanni Arnolfini",
+                "Portrait of Jan De Leeuw",
+                "The Jan De Leeuw Portrait"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "impression_sunrise.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "Impression Sunrise",
+            "incorrect_answers": [
+                "The Beautiful Sunrise",
+                "The Morning Sunrise",
+                "Good Morning Sunrise"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "metaSrc": "las_meninas.png",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What painting is this?",
+            "correct_answer": "Las Meninas",
+            "incorrect_answers": [
+                "El Triunfo de Baco",
+                "Vieja Friendo Huevos",
+                "Portrait of the Infanta Maria Theresa"
             ]
         }
     ]

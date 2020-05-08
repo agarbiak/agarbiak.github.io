@@ -80,6 +80,7 @@
                            <span class="col-item-title">The Creation Of Adam</span>
                         </a>
                     </div>
+                    
                     <div class="col col-25">
                         <a class="col-item" href="/catalog/pierre-auguste-renoir-luncheon-of-the-boating-party-oil-painting-reproduction-5243/" title="Famous Art: Pierre-Auguste Renoir - Luncheon Of The Boating Party Oil Painting Reproduction">
                             <span class="col-item-img">

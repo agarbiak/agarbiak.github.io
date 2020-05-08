@@ -27,10 +27,12 @@
 
 .correct {
     background-color: #28a745;
+    box-shadow: none;
 }
 
 .incorrect {
     background-color: #dc3545;
+    box-shadow: none;
 }
 
 /* NAV BAR */
