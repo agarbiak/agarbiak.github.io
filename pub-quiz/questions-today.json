@@ -101,18 +101,6 @@
             "category": "Entertainment: Board Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which one of these is not a real game in the Dungeons &amp; Dragons series?",
-            "correct_answer": "Extreme Dungeons &amp; Dragons",
-            "incorrect_answers": [
-                "Advanced Dungeons &amp; Dragons",
-                "Dungeons &amp; Dragons 3.5th edition",
-                "Advanced Dungeons &amp; Dragons 2nd edition"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "The board game Monopoly takes its street names from which real American city?",
             "correct_answer": "Atlantic City, New Jersey",
             "incorrect_answers": [
@@ -293,7 +281,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?",
+            "question": "Who directed the movies &quot;Pulp Fiction&quot; and &quot;Reservoir Dogs&quot;?",
             "correct_answer": "Quentin Tarantino",
             "incorrect_answers": [
                 "Martin Scorcese",
@@ -365,7 +353,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+            "question": "Which of these actors is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
             "correct_answer": "Scarlett Johansson",
             "incorrect_answers": [
                 "Jared Leto",
@@ -606,7 +594,7 @@
             "type": "multiple",
             "difficulty": "easy",
             "question": "What country is Cory in the House set in?",
-            "correct_answer": "The United States of America",
+            "correct_answer": "USA",
             "incorrect_answers": [
                 "Canada",
                 "Venezuala",
@@ -665,19 +653,7 @@
             "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which show is known for the songs &quot;You are a Pirate&quot;, &quot;Cooking by the Book&quot; and &quot;We Are Number One&quot;?",
-            "correct_answer": "LazyTown",
-            "incorrect_answers": [
-                "Sofia the First",
-                "DuckTales",
-                "Tom and Jerry"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
+            "question": "In season one of the Netflix&#039;s &quot;House of Cards&quot;, what government position does Frank Underwood hold?",
             "correct_answer": "House Majority Whip",
             "incorrect_answers": [
                 "Attorney General",
@@ -773,7 +749,7 @@
             "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
+            "question": "What was the name of the witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?",
             "correct_answer": "Sabrina",
             "incorrect_answers": [
                 "Hermione",
@@ -869,7 +845,7 @@
             "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+            "question": "This Greek god&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
             "correct_answer": "Eris",
             "incorrect_answers": [
                 "Charon",
@@ -893,7 +869,7 @@
             "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+            "question": "Which Greek god was known as the god of healing, the sun and light, poetry, and more?",
             "correct_answer": "Apollo",
             "incorrect_answers": [
                 "Aphrodite",
@@ -989,7 +965,7 @@
             "category": "Mythology",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?",
+            "question": "The Nike apparel and footwear brand takes it&#039;s name from the Greek god of what?",
             "correct_answer": "Victory",
             "incorrect_answers": [
                 "Courage",
@@ -1230,6 +1206,19 @@
             "type": "multiple",
             "difficulty": "easy",
             "question": "Where would you find the &quot;Spanish Steps&quot;?",
+            "correct_answer": "Rome, Italy",
+            "incorrect_answers": [
+                "Barcelona, Spain",
+                "Berlin, Germany",
+                "London, England"
+            ]
+        },
+        {
+            "meta": "Picture",
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who painted this?",
             "correct_answer": "Rome, Italy",
             "incorrect_answers": [
                 "Barcelona, Spain",
