@@ -29,18 +29,6 @@
             "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
-            "correct_answer": "RiDGiD STUDiOS",
-            "incorrect_answers": [
-                "Dan Bell",
-                "Billy Familia",
-                "VeganGainz"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
             "correct_answer": "Amazon",
             "incorrect_answers": [

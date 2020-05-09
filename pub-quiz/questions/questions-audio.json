@@ -335,6 +335,244 @@
                 "True Detective",
                 "Blindspot"
             ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "american_pyscho.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "American Pyscho",
+            "incorrect_answers": [
+                "The Texas Chainsaw Massacre",
+                "A Nightmare on Elm Street",
+                "Fight Club"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "ben_hur.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "Ben-Hur",
+            "incorrect_answers": [
+                "The Ten Commandments",
+                "Lawrence of Arabia",
+                "Spartacus"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "goldfinger.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name this Bond film",
+            "correct_answer": "Goldfinger",
+            "incorrect_answers": [
+                "Thunderball",
+                "Diamonds Are Forever",
+                "Live and Let Die"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "gone_with_the_wind.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "Gone with the Wind",
+            "incorrect_answers": [
+                "Ben-Hur",
+                "Casablanca",
+                "Citizen Kane"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "goodfellas.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the actor behind this famous improv",
+            "correct_answer": "Joe Pesci",
+            "incorrect_answers": [
+                "Danny DeVito",
+                "Tommy DeVito",
+                "Steve Buscemi"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "it.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is this dancing clown's name?",
+            "correct_answer": "Pennywise",
+            "incorrect_answers": [
+                "It",
+                "Robert Gray",
+                "Sergeant Terry Jeffords"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "john_wick.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the man they are referring to?",
+            "correct_answer": "John Wick",
+            "incorrect_answers": [
+                "Keanu Reeves",
+                "Neo",
+                "Mr. Anderson"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "knives_out.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "Knives Out",
+            "incorrect_answers": [
+                "Clue",
+                "Uncut Gems",
+                "The Gentlemen"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "nightcrawler.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the actor playing the interviewer",
+            "correct_answer": "Jake Gyllenhaal",
+            "incorrect_answers": [
+                "Riz Ahmed",
+                "Jake Gyllenhall",
+                "Jake Gillenhall"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "pulp_fiction.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Where did they get the burger from?",
+            "correct_answer": "Big Kahuna",
+            "incorrect_answers": [
+                "Burger King",
+                "McDonalds",
+                "Los Pollos Hermanos"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "scarface.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which actor features in this clip?",
+            "correct_answer": "Steven Bauer",
+            "incorrect_answers": [
+                "Al Pachino",
+                "Mark Margolis",
+                "Robert Loggia"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "silence_of_the_lambs.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "Silence of the Lambs",
+            "incorrect_answers": [
+                "Manhunter",
+                "Hannibal",
+                "Red Dragon"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "snow_white.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "Snow White",
+            "incorrect_answers": [
+                "Fantasia",
+                "Cinderella",
+                "Dumbo"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "talladega_nights.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Name the film",
+            "correct_answer": "Talladega Nights",
+            "incorrect_answers": [
+                "Step Brothers",
+                "The Other Guys",
+                "Blades of Glory"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "the_big_lebowski.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who plays The Dude in this film?",
+            "correct_answer": "Jeff Bridges",
+            "incorrect_answers": [
+                "John Goodman",
+                "Steve Buscemi",
+                "John Turturro"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "the_big_short.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the real person that Steve Carell is representing?",
+            "correct_answer": "Steve Eisman",
+            "incorrect_answers": [
+                "Mark Baum",
+                "Michael Burry",
+                "Jarred Vannett"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "the_matrix.mp3",
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is demanding a phone call?",
+            "correct_answer": "Mr. Anderson",
+            "incorrect_answers": [
+                "Mr. Harrison",
+                "Mr. Walker",
+                "Mr. Emerson"
+            ]
         }
     ]
 }

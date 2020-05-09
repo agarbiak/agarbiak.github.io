@@ -1,5 +1,5 @@
 :root {
-    background-color: #ecf5ff;
+    background-color: #383e4e;
     font-size: 62.5%;
   }
   
@@ -8,7 +8,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: rgb(255, 255, 255);
   }
   
   h1,
@@ -20,7 +20,7 @@
   
   h1 {
     font-size: 4rem;
-    color: #56a5eb;
+    color: rgb(255, 255, 255);
     margin-bottom: 4rem;
   }
   
@@ -39,6 +39,10 @@
     font-size: 2.5rem;
     font-weight: 400;
     margin-bottom: 1.5rem;
+  }
+
+  .information {
+    font-size: 1.2rem;
   }
 
   #finalScoreLabel {
@@ -99,16 +103,20 @@
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
+    border: 0.1rem solid transparent;
+    border-color: #fff;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: #56a5eb;
-    background-color: white;
+    color: #ffffff;
+    background: rgba(0, 0, 0, 0.5);
   }
   
   .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    border-color: #5c6378;
+    color: #fff;
+    background-color: #5c6378;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
@@ -132,10 +140,11 @@
     width: 20rem;
     padding: 1.5rem;
     font-size: 1.8rem;
+    color: black;
     border: none;
     box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
   }
 
   input::placeholder {
-    color: #aaa;
+    color: rgb(145, 145, 145);
   }

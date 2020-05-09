@@ -3,20 +3,26 @@
     margin-bottom: 0.5rem;
     width: 100%;
     font-size: 1.8rem;
-    border: 0.1rem solid rgb(86, 165, 235, 0.25);
-    background-color: white;
+    border: 0.1rem solid transparent;
+    border-color: #fff;
+    color: #ffffff;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    border-color: #5c6378;
+    color: #fff;
+    background-color: #5c6378;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
 
 .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #56a5eb;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-color: #fff;
     color: white;
 }
 
@@ -35,6 +41,11 @@
     box-shadow: none;
 }
 
+/* .remove-effect {
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.5);
+} */
+
 /* NAV BAR */
 #navbar {
     display: flex;
@@ -50,29 +61,37 @@
 }
 
 #navbar-restart {
-    border: 0.1rem solid rgb(86, 165, 235, 0.25);
     padding: 1.25rem 2rem;
-    background-color: #000000;
-    color: white;
+    border: 0.1rem solid transparent;
+    border-color: #fff;
+    color: #ffffff;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 #navbar-restart:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 0, 0, 0.5);
+    border-color: #5c6378;
+    color: #fff;
+    background-color: #5c6378;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
 
 #navbar-exit {
-    border: 0.1rem solid rgb(86, 165, 235, 0.25);
-    padding: 1.5rem 2.5rem;
-    background-color: #000000;
-    color: white;
+    padding: 1.25rem 2rem;
+    border: 0.1rem solid transparent;
+    border-color: #fff;
+    color: #ffffff;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 #navbar-exit:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(0, 0, 0, 0.5);
+    border-color: #5c6378;
+    color: #fff;
+    background-color: #5c6378;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
