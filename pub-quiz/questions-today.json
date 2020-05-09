@@ -16,18 +16,6 @@
             "category": "Entertainment: Video Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In &quot;Undertale&quot;, how many main endings are there?",
-            "correct_answer": "3",
-            "incorrect_answers": [
-                "2",
-                "5",
-                "13"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
             "correct_answer": "Kiefer Sutherland",
             "incorrect_answers": [
@@ -289,18 +277,6 @@
             ]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
-            "correct_answer": "Gordon Shumway",
-            "incorrect_answers": [
-                "Gordon Milipp",
-                "Gordon Foster",
-                "Gordon von Gam"
-            ]
-        },
-        {
             "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
@@ -333,7 +309,7 @@
             "incorrect_answers": [
                 "Netflix",
                 "BBC",
-                "CCTV"
+                "HBO"
             ]
         },
         {
@@ -364,24 +340,12 @@
             "category": "Entertainment: Television",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+            "question": "In Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
             "correct_answer": "Blue Sky",
             "incorrect_answers": [
                 "Baby Blue",
                 "Rock Candy",
                 "Pure Glass"
-            ]
-        },
-        {
-            "category": "Entertainment: Television",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In &quot;Star Trek: Voyager&quot;, which episode did Voyager establish real-time communication with Starfleet Headquarters?",
-            "correct_answer": "Pathfinder",
-            "incorrect_answers": [
-                "Message In A Bottle",
-                "Someone To Watch Over Me",
-                "Counterpoint"
             ]
         },
         {
