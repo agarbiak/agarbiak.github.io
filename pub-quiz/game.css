@@ -115,21 +115,22 @@
 #progressBar {
     width: 20rem;
     height: 4rem;
-    border: 0.3rem solid #56a5eb;
+    border: 0.3rem solid #96caf7;
     margin-top: 1.4rem;
 }
 
 #progressBarFull {
     height: 3.4rem;
-    background-color: #56a5eb;
+    background-color: #96caf7;
     width: 0%;
 }
 
 /* LOADER */
 #loader {
-    border: 1.6rem solid white;
+    border: 1.6rem solid transparent;
+    border-color: rgba(0, 0, 0, 0.5);
     border-radius: 50%;
-    border-top: 1.6rem solid #56a5eb;
+    border-top: 1.6rem solid #96caf7;
     width: 12rem;
     height: 12rem;
     animation: spin 2s linear infinite;
