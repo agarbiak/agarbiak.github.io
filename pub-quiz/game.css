@@ -41,11 +41,6 @@
     box-shadow: none;
 }
 
-/* .remove-effect {
-    box-shadow: none;
-    background-color: rgba(0, 0, 0, 0.5);
-} */
-
 /* NAV BAR */
 #navbar {
     display: flex;

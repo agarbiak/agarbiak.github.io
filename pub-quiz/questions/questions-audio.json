@@ -573,6 +573,62 @@
                 "Mr. Walker",
                 "Mr. Emerson"
             ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "hasta_la_vista.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did the catchphrase &quot;Hasta la Vista&quot; originate from?",
+            "correct_answer": "Terminator 2: Judgment Day",
+            "incorrect_answers": [
+                "Terminator",
+                "Terminator 3: Rise of the Machines",
+                "Terminator Genisys"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "ill_be_back.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did the catchphrase &quot;I'll be back&quot; originate from?",
+            "correct_answer": "Terminator",
+            "incorrect_answers": [
+                "Terminator 2: Judgment Day",
+                "Terminator 3: Rise of the Machines",
+                "Terminator Genisys"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "commando.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie kill Sully?",
+            "correct_answer": "Commando",
+            "incorrect_answers": [
+                "True Lies",
+                "Eraser",
+                "End of Days"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "commando.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie kill Sully?",
+            "correct_answer": "Commando",
+            "incorrect_answers": [
+                "True Lies",
+                "Eraser",
+                "End of Days"
+            ]
         }
     ]
 }

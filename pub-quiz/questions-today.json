@@ -1,601 +1,654 @@
 {
     "results": [
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
-            "correct_answer": "5",
-            "incorrect_answers": [
-                "4",
-                "3",
-                "6"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie weighed over 100kg (230 lbs) during competition",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
-            "correct_answer": "Kiefer Sutherland",
-            "incorrect_answers": [
-                "David Hayter",
-                "Norman Reedus",
-                "Hideo Kojima"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie is over 2 metres tall",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What ingredient is NOT used to craft a cake in Minecraft?",
-            "correct_answer": "Bread",
-            "incorrect_answers": [
-                "Wheat",
-                "Milk",
-                "Egg"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie won Mr Olympia seven times",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many Chaos Emeralds are there in the &quot;Sonic the Hedgehog&quot; universe?",
-            "correct_answer": "7",
-            "incorrect_answers": [
-                "6",
-                "8",
-                "14"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie's first film was called Conan the Barbarian",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
-            "correct_answer": "18",
-            "incorrect_answers": [
-                "13",
-                "16",
-                "15"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie won Mr Universe before Mr Olympia",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What year was the game &quot;Overwatch&quot; revealed?",
-            "correct_answer": "2014",
-            "incorrect_answers": [
-                "2015",
-                "2011",
-                "2008"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie won a Golden Globe for his performance in The Terminator",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who created the 2011 Video Game &quot;Minecraft&quot;?",
-            "correct_answer": "Markus Persson",
-            "incorrect_answers": [
-                "Jens Bergensten",
-                "Daniel Rosenfeld",
-                "Carl Manneh"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has acted in over 50 films",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was the original name of Crash Bandicoot?",
-            "correct_answer": "Willie Wombat",
-            "incorrect_answers": [
-                "Coco Bandicoot",
-                "Marvelous Mole",
-                "Wally Wombat"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Total Recall was the last film released in the 80s for Arnie",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In Undertale, what&#039;s the prize for answering correctly?",
-            "correct_answer": "More questions",
-            "incorrect_answers": [
-                "New car",
-                "Mercy",
-                "Money"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "One of Arnie's nicknames is the Governator",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the Half-Life series, Gordon Freeman&#039;s signature weapon is a:",
-            "correct_answer": "Crowbar",
-            "incorrect_answers": [
-                "Sledgehammer",
-                "Fiber Wire",
-                "Katana"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "The Running Man is set in a dystopian &quot;future&quot;, being before 2020",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the videogame Bully, what is the protagonist&#039;s last name?",
-            "correct_answer": "Hopkins",
-            "incorrect_answers": [
-                "Smith",
-                "Kowalski",
-                "Crabblesnitch"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie's father voluntarily joined the Nazi Party",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In what year was the first &quot;Mass Effect&quot; game released?",
-            "correct_answer": "2007",
-            "incorrect_answers": [
-                "2008",
-                "2009",
-                "2010"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Before switching to bodybuilding, Arnie was a national boxing champion",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Lanky, Funky, and Chunky are all characters featured in which series owned by Nintendo?",
-            "correct_answer": "Donkey Kong",
-            "incorrect_answers": [
-                "Mario",
-                "Kirby",
-                "Zelda"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie said that the pump is as satisfying as having sex with a woman",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
-            "correct_answer": "Microsoft",
-            "incorrect_answers": [
-                "Apple",
-                "Google",
-                "Yahoo"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has been cast in all the Terminator films",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
-            "correct_answer": "Labrador Retriever",
-            "incorrect_answers": [
-                "Golden Retriever",
-                "Dalmatian",
-                "Shiba Inu"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie used to visualise himself as a living sculpture",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
-            "correct_answer": "Wilson",
-            "incorrect_answers": [
-                "Friday",
-                "Jones",
-                "Billy"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie served as a Governor for over 10 years",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
-            "correct_answer": "Uma Thurman",
-            "incorrect_answers": [
-                "Kathy Griffin",
-                "Pam Grier",
-                "Bridget Fonda"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie became a Democratic governor in 2003",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?",
-            "correct_answer": "Bruce Lee",
-            "incorrect_answers": [
-                "Jackie Chan",
-                "Jet Li",
-                " Yun-Fat Chow"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has acted as a Kindergarten teacher",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
-            "correct_answer": "Highlander",
-            "incorrect_answers": [
-                "Flash Gordon",
-                "Labyrinth",
-                "Howard the Duck"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie had a supporting role in the film Top Gun",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
         },
         {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
-            "correct_answer": "My Neighbor Totoro",
-            "incorrect_answers": [
-                "Hop",
-                "Rise of the Guardians",
-                "Alice in Wonderland"
-            ]
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has won a Golden Globe Award",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
         },
         {
-            "category": "Entertainment: Film",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
-            "correct_answer": "Smash Mouth",
-            "incorrect_answers": [
-                "Bowling for Soup",
-                "Sum 41",
-                "Linkin Park"
-            ]
+            "question": "When was Arnie born?",
+            "correct_answer": "1947",
+            "incorrect_answers": ["1952", "1957", "1962"]
         },
         {
-            "category": "Entertainment: Film",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who plays the character of Po in the Kung Fu Panda movies?",
-            "correct_answer": "Jack Black",
-            "incorrect_answers": [
-                "Mirana Jonnes",
-                "McConahey Ramses",
-                "Jim Petersson"
-            ]
+            "question": "Where was Arnie born?",
+            "correct_answer": "Austria",
+            "incorrect_answers": ["Germany", "Hungary", "Czech Republic"]
         },
         {
-            "category": "Entertainment: Film",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
-            "correct_answer": "Isla Nublar",
-            "incorrect_answers": [
-                "Isla Sorna",
-                "Isla Muerta",
-                "Isla Pena"
-            ]
+            "question": "What age was Arnie when he won his first My Olympia?",
+            "correct_answer": "23",
+            "incorrect_answers": ["21", "25", "27"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "In which British seaside town was the BBC sitcom &quot;Fawlty Towers&quot; set?",
-            "correct_answer": "Torquay",
-            "incorrect_answers": [
-                "Blackpool",
-                "Bournemouth",
-                "Great Yarmouth"
-            ]
+            "question": "What age was Arnie when he won his last My Olympia?",
+            "correct_answer": "33",
+            "incorrect_answers": ["31", "35", "37"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
-            "correct_answer": "Eleven",
-            "incorrect_answers": [
-                "Mike",
-                "Lucas",
-                "Karen"
-            ]
+            "question": "What was the name of Arnie's 2012 autobiography?",
+            "correct_answer": "Total Recall",
+            "incorrect_answers": ["Raw Deal", "True Lies", "Last Action Hero"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
-            "correct_answer": "Amazon",
-            "incorrect_answers": [
-                "Netflix",
-                "BBC",
-                "HBO"
-            ]
+            "question": "What is Arnie's middle name?",
+            "correct_answer": "Alois",
+            "incorrect_answers": ["Tobias", "Lukas", "Jakob"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
-            "correct_answer": "Pencilvester",
-            "incorrect_answers": [
-                "Beth Smith",
-                "Summer Smith",
-                "Mr. Poopy Butthole"
-            ]
+            "question": "Which President did Arnie serve whilst Chairman of the President's Council on Physical Fitness and Sports?",
+            "correct_answer": "George H. W. Bush",
+            "incorrect_answers": ["Barack Obama", "Donald Trump", "Ronald Reagan"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
-            "correct_answer": "Dean",
-            "incorrect_answers": [
-                "Dave",
-                "Steve",
-                "Mike"
-            ]
+            "question": "Which division did Arnie join during his Military Service?",
+            "correct_answer": "Tank",
+            "incorrect_answers": ["Infantry", "Airborne", "Navy"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "In Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
-            "correct_answer": "Blue Sky",
-            "incorrect_answers": [
-                "Baby Blue",
-                "Rock Candy",
-                "Pure Glass"
-            ]
+            "question": "Who did Arnie marry in 1986?",
+            "correct_answer": "Maria Shriver",
+            "incorrect_answers": ["Maria Sharapova", "Maria Menounos", "Maria Bello"]
         },
         {
-            "category": "Entertainment: Television",
+            "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
-            "correct_answer": "Drew",
+            "question": "Arnie's ex-wife is connected to which political family?",
+            "correct_answer": "Kennedy",
+            "incorrect_answers": ["Bush", "Clinton", "Roosevelt"]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "hasta_la_vista.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did the catchphrase &quot;Hasta la Vista&quot; originate from?",
+            "correct_answer": "Terminator 2: Judgment Day",
             "incorrect_answers": [
-                "Jerome",
-                "Greg",
-                "Joe"
+                "Terminator",
+                "Terminator 3: Rise of the Machines",
+                "Terminator Genisys"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "american_pyscho.mp3",
+            "metaSrc": "ill_be_back.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "American Pyscho",
+            "question": "Which film did the catchphrase &quot;I'll be back&quot; originate from?",
+            "correct_answer": "Terminator",
             "incorrect_answers": [
-                "The Texas Chainsaw Massacre",
-                "A Nightmare on Elm Street",
-                "Fight Club"
+                "Terminator 2: Judgment Day",
+                "Terminator 3: Rise of the Machines",
+                "Terminator: Dark Fate"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "ben_hur.mp3",
+            "metaSrc": "commando.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "Ben-Hur",
+            "question": "Which film did Arnie kill Sully?",
+            "correct_answer": "Commando",
             "incorrect_answers": [
-                "The Ten Commandments",
-                "Lawrence of Arabia",
-                "Spartacus"
+                "True Lies",
+                "Eraser",
+                "End of Days"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "goldfinger.mp3",
+            "metaSrc": "i_need_your_clothes.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name this Bond film",
-            "correct_answer": "Goldfinger",
+            "question": "Which film did Arnie get these clothes?",
+            "correct_answer": "Terminator 2: Judgment Day",
             "incorrect_answers": [
-                "Thunderball",
-                "Diamonds Are Forever",
-                "Live and Let Die"
+                "Terminator",
+                "Terminator 3: Rise of the Machines",
+                "Terminator: Dark Fate"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "gone_with_the_wind.mp3",
+            "metaSrc": "talk_to_the_hand.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "Gone with the Wind",
+            "question": "Which film did Arnie ask to speak to the hand?",
+            "correct_answer": "Terminator 3: Rise of the Machines",
             "incorrect_answers": [
-                "Ben-Hur",
-                "Casablanca",
-                "Citizen Kane"
+                "Terminator",
+                "Terminator 2: Judgment Day",
+                "Terminator: Dark Fate"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "goodfellas.mp3",
+            "metaSrc": "hey_lighthead.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the actor behind this famous improv",
-            "correct_answer": "Joe Pesci",
-            "incorrect_answers": [
-                "Danny DeVito",
-                "Tommy DeVito",
-                "Steve Buscemi"
+            "question": "Which Arnie film featured a &quot;Christmas Tree&quot;?",
+            "correct_answer": "The Running Man",
+            "incorrect_answers": ["True Lies", "Raw Deal", "Red Heat"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "it.mp3",
+            "metaSrc": "arsehole_on_tv.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is this dancing clown's name?",
-            "correct_answer": "Pennywise",
-            "incorrect_answers": [
-                "It",
-                "Robert Gray",
-                "Sergeant Terry Jeffords"
+            "question": "Which film features the &quot;arsehole on TV&quot; that Arnie is referring to?",
+            "correct_answer": "The Running Man",
+            "incorrect_answers": ["True Lies", "Raw Deal", "Red Heat"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "john_wick.mp3",
+            "metaSrc": "arsehole_on_tv.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who is the man they are referring to?",
-            "correct_answer": "John Wick",
-            "incorrect_answers": [
-                "Keanu Reeves",
-                "Neo",
-                "Mr. Anderson"
+            "question": "Which film did Arnie ask for there to be room for his fist?",
+            "correct_answer": "The Running Man",
+            "incorrect_answers": ["True Lies", "Raw Deal", "Red Heat"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "knives_out.mp3",
+            "metaSrc": "what_you_been_feeding_this_thing.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "Knives Out",
-            "incorrect_answers": [
-                "Clue",
-                "Uncut Gems",
-                "The Gentlemen"
+            "question": "What was Arnie's response to what he'd been feeding &quot;this thing&quot;?",
+            "correct_answer": "Blondes",
+            "incorrect_answers": ["Brunettes", "Protein", "Dog Food"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "nightcrawler.mp3",
+            "metaSrc": "consider_that_a_divorce.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the actor playing the interviewer",
-            "correct_answer": "Jake Gyllenhaal",
-            "incorrect_answers": [
-                "Riz Ahmed",
-                "Jake Gyllenhall",
-                "Jake Gillenhall"
+            "question": "What film did Arnie have such a violent divorce?",
+            "correct_answer": "Total Recall",
+            "incorrect_answers": ["Raw Deal", "True Lies", "Last Action Hero"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "pulp_fiction.mp3",
+            "metaSrc": "see_you_at_the_party.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Where did they get the burger from?",
-            "correct_answer": "Big Kahuna",
-            "incorrect_answers": [
-                "Burger King",
-                "McDonalds",
-                "Los Pollos Hermanos"
+            "question": "Which film was Arnie going to see Richter?",
+            "correct_answer": "Total Recall",
+            "incorrect_answers": ["True Lies", "Raw Deal", "Red Heat"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "scarface.mp3",
+            "metaSrc": "you_are_fired.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which actor features in this clip?",
-            "correct_answer": "Steven Bauer",
-            "incorrect_answers": [
-                "Al Pachino",
-                "Mark Margolis",
-                "Robert Loggia"
+            "question": "Which film did Arnie fire someone so vigorously?",
+            "correct_answer": "True Lies",
+            "incorrect_answers": ["Celebrity Apprentice", "The Last Stand", "Last Action Hero"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "silence_of_the_lambs.mp3",
+            "metaSrc": "may_i_see_your_invitation.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "Silence of the Lambs",
-            "incorrect_answers": [
-                "Manhunter",
-                "Hannibal",
-                "Red Dragon"
+            "question": "What happened when Arnie was asked to show his invitation?",
+            "correct_answer": "Blows up building",
+            "incorrect_answers": ["Shows a fake invitation card", "Shows his invitation card", "Runs away"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "snow_white.mp3",
+            "metaSrc": "the_pavement_was_his_enemy.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "Snow White",
-            "incorrect_answers": [
-                "Fantasia",
-                "Cinderella",
-                "Dumbo"
+            "question": "What film did Arnie say the pavent was his enemy?",
+            "correct_answer": "Twins",
+            "incorrect_answers": ["Junior", "Triplets", "Last Action Hero"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "talladega_nights.mp3",
+            "metaSrc": "cocainum.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Name the film",
-            "correct_answer": "Talladega Nights",
-            "incorrect_answers": [
-                "Step Brothers",
-                "The Other Guys",
-                "Blades of Glory"
+            "question": "What film did Arnie discover cocaine?",
+            "correct_answer": "Red Heat",
+            "incorrect_answers": ["Red Sonja", "Collateral Damage", "Conan the Barbarian"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "the_big_lebowski.mp3",
+            "metaSrc": "not_drink_and_bake.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who plays The Dude in this film?",
-            "correct_answer": "Jeff Bridges",
-            "incorrect_answers": [
-                "John Goodman",
-                "Steve Buscemi",
-                "John Turturro"
+            "question": "What film did Arnie say you should never drink and bake?",
+            "correct_answer": "Raw Deal",
+            "incorrect_answers": ["Collateral Damage", "Sabotage", "Escape Plan"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "the_big_short.mp3",
+            "metaSrc": "ugly_motherfucker.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who is the real person that Steve Carell is representing?",
-            "correct_answer": "Steve Eisman",
-            "incorrect_answers": [
-                "Mark Baum",
-                "Michael Burry",
-                "Jarred Vannett"
+            "question": "What film led to Arnie describing the alien creature so crassly?",
+            "correct_answer": "Predator",
+            "incorrect_answers": ["Alien", "Aliens", "Prometheus"
             ]
         },
         {
             "meta": "Audio",
-            "metaSrc": "the_matrix.mp3",
+            "metaSrc": "come_on_kill_me.mp3",
             "category": "Film",
+            "specialism": "Arnie",
             "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who is demanding a phone call?",
-            "correct_answer": "Mr. Anderson",
-            "incorrect_answers": [
-                "Mr. Harrison",
-                "Mr. Walker",
-                "Mr. Emerson"
+            "question": "What film led Arnie to be asked to be killed?",
+            "correct_answer": "Predator",
+            "incorrect_answers": ["Red Sonja", "Conan the Destroyer", "Eraser"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "to_be_or_not_to_be.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film had Arnie quote the famous Shakespeare line &quot;To be, or not to be&quot;?",
+            "correct_answer": "Predator",
+            "incorrect_answers": ["Kindergarten Cop", "Junior", "Hamlet"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "you_killed_my_father.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which Arnie film had his father killed?",
+            "correct_answer": "Last Action Hero",
+            "incorrect_answers": ["Kindergarten Cop", "Junior", "The Princess Bride"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "rubber_baby_buggy_bumpers.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which Arnie film had him say &quot;Rubber Baby Buggy Bumpers&quot;?",
+            "correct_answer": "Last Action Hero",
+            "incorrect_answers": ["Kindergarten Cop", "Junior", "Raw Deal"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "no_more_bathroom.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "What film had Arnie declare there was no bathroom?",
+            "correct_answer": "Kindergarten Cop",
+            "incorrect_answers": ["Last Action Hero", "Junior", "Raw Deal"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "going_to_ask_you_questions.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "What film had Arnie demand immediate answers to his questions?",
+            "correct_answer": "Kindergarten Cop",
+            "incorrect_answers": ["Raw Deal", "The Expendables", "The Villain"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "i_am_pregnant.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie become pregnant?",
+            "correct_answer": "Junior",
+            "incorrect_answers": ["Twins", "Triplets", "Last Action Hero"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "i_am_pregnant.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie ask for the cookie to be put down?",
+            "correct_answer": "Jingle All The Way",
+            "incorrect_answers": ["Kindergarten Cop", "Last Action Hero", "Raw Deal"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "you_are_luggage.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie say &quot;you're luggage&quot;?",
+            "correct_answer": "Eraser",
+            "incorrect_answers": ["Collateral Damage", "Sabotage", "Escape Plan"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "you_are_a_choir_boy.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie declare that the other person was a &quot;choir boy&quot;?",
+            "correct_answer": "End of Days",
+            "incorrect_answers": ["Kindergarten Cop", "Last Action Hero", "Eraser"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "only_pain.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie get asked if nothing hurts him?",
+            "correct_answer": "Conan the Destroyer",
+            "incorrect_answers": ["Red Sonja", "Conan the Barbarian", "The Beastmaster"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "crush_your_enemies.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie state you should &quot;crush your enemies&quot;?",
+            "correct_answer": "Conan the Barbarian",
+            "incorrect_answers": ["Red Sonja", "Conan the Destroyer", "The Beastmaster"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "grant_me_revenge.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie ask for him to be granted revenge?",
+            "correct_answer": "Conan the Barbarian",
+            "incorrect_answers": ["Red Sonja", "Conan the Destroyer", "The Beastmaster"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "my_friend_he_is_dead_tired.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie have a &quot;dead tired&quot; friend?",
+            "correct_answer": "Commando",
+            "incorrect_answers": ["Collateral Damage", "Sabotage", "Red Sonja"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "green_beret_for_breakfast.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie declare he eats Green Berets for breakfast?",
+            "correct_answer": "Commando",
+            "incorrect_answers": ["The Last Stand", "Escape Plan", "The 6th Day"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "leave_anything_for_us.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie note he only left dead bodies?",
+            "correct_answer": "Commando",
+            "incorrect_answers": ["The Running Man", "Total Recall", "True Lies"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "alright_everyone_chill.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film did Arnie ask everyone to chill?",
+            "correct_answer": "Batman &amp; Robin",
+            "incorrect_answers": ["Terminator 2: Judgment Day", "The Villain", "Last Action Hero"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "allow_me_to_break_the_ice.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film had Arnie break the ice?",
+            "correct_answer": "Batman &amp; Robin",
+            "incorrect_answers": ["Terminator 2: Judgment Day", "Batman Returns", "Batman Forever"
+            ]
+        },
+        {
+            "meta": "Audio",
+            "metaSrc": "the_ice_man.mp3",
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which film featured Arnie as the &quot;ice man&quot;?",
+            "correct_answer": "Batman &amp; Robin",
+            "incorrect_answers": ["Terminator 2: Judgment Day", "Batman Returns", "Batman Forever"
             ]
         }
     ]

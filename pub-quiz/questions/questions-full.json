@@ -1584,6 +1584,246 @@
                 "Berlin, Germany",
                 "London, England"
             ]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie weighed over 100kg (230 lbs) during competition",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie is over 2 metres tall",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie won Mr Olympia seven times",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie's first film was called Conan the Barbarian",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie won Mr Universe before Mr Olympia",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie won a Golden Globe for his performance in The Terminator",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has acted in over 50 films",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Total Recall was the last film released in the 80s for Arnie",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "One of Arnie's nicknames is the Governator",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "The Running Man is set in a dystopian &quot;future&quot;, being before 2020",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie's father voluntarily joined the Nazi Party",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Before switching to bodybuilding, Arnie was a national boxing champion",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie said that the pump is as satisfying as having sex with a woman",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has been cast in all the Terminator films",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie used to visualise himself as a living sculpture",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie served as a Governor for over 10 years",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie became a Democratic governor in 2003",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has acted as a Kindergarten teacher",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie had a supporting role in the film Top Gun",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "truth",
+            "question": "Arnie has won a Golden Globe Award",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "When was Arnie born?",
+            "correct_answer": "1947",
+            "incorrect_answers": ["1952", "1957", "1962"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Where was Arnie born?",
+            "correct_answer": "Austria",
+            "incorrect_answers": ["Germany", "Hungary", "Czech Republic"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "What age was Arnie when he won his <strong>first</strong> My Olympia?",
+            "correct_answer": "23",
+            "incorrect_answers": ["21", "25", "27"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "What age was Arnie when he won his <strong>last</strong> My Olympia?",
+            "correct_answer": "33",
+            "incorrect_answers": ["31", "35", "37"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "What was the name of Arnie's 2012 autobiography?",
+            "correct_answer": "Total Recall",
+            "incorrect_answers": ["Raw Deal", "True Lies", "Last Action Hero"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "What is Arnie's middle name?",
+            "correct_answer": "Alois",
+            "incorrect_answers": ["Tobias", "Lukas", "Jakob"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which President did Arnie serve whilst Chairman of the President's Council on Physical Fitness and Sports?",
+            "correct_answer": "George H. W. Bush",
+            "incorrect_answers": ["Barack Obama", "Donald Trump", "Ronald Reagan"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Which division did Arnie join during his Military Service?",
+            "correct_answer": "Tank",
+            "incorrect_answers": ["Infantry", "Airborne", "Navy"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Who did Arnie marry in 1986?",
+            "correct_answer": "Maria Shriver",
+            "incorrect_answers": ["Maria Sharapova", "Maria Menounos", "Maria Bello"]
+        },
+        {
+            "category": "Film",
+            "specialism": "Arnie",
+            "type": "multiple",
+            "question": "Arnie's ex-wife is connected to which political family?",
+            "correct_answer": "Kennedy",
+            "incorrect_answers": ["Bush", "Clinton", "Roosevelt"]
         }
     ]
 }

@@ -1,3 +1,4 @@
+// Grab DOM elements
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
 const progressText = document.getElementById("progressText");
@@ -7,6 +8,12 @@ const loader = document.getElementById("loader");
 const game = document.getElementById("game");
 const pictureType = document.getElementById("pictureType");
 const audioType = document.getElementById("audioType");
+// const mapType = document.getElementById("mapType");
+const truthType = document.getElementsByClassName("jsTruthType");
+
+//CONSTANTS
+const CORRECT_BONUS = 1;
+const MAX_QUESTIONS = 20;
 
 let currentQuestion = {};
 let acceptingAnswers = false;
@@ -19,6 +26,9 @@ let imgSource = "/pub-quiz/img/";
 
 var audioElement = document.createElement('audio');
 let audioSource = "/pub-quiz/audio/";
+
+// var mapElement = document.createElement('map');
+// let mapSource = "/pub-quiz/map/";
 
 let questions = [];
 
@@ -33,7 +43,8 @@ fetch(
            const formattedQuestion = {
                question: loadedQuestion.question,
                metaType: loadedQuestion.meta,
-               metaSrc: loadedQuestion.metaSrc
+               metaSrc: loadedQuestion.metaSrc,
+               questionType: loadedQuestion.type
            };
            const answerChoices = [...loadedQuestion.incorrect_answers];
            formattedQuestion.answer = Math.floor(Math.random()*3) + 1;
@@ -41,8 +52,7 @@ fetch(
 
            answerChoices.forEach((choice, index) => {
                formattedQuestion["choice" + (index+1)] = choice;
-           })
-        //    console.log(formattedQuestion);   
+           })   
            return formattedQuestion;
        })
        startGame();
@@ -51,18 +61,14 @@ fetch(
         console.error(err);
     });
 
-//CONSTANTS
-const CORRECT_BONUS = 1;
-const MAX_QUESTIONS = 20;
-
 startGame = () => {
     questionCounter = 0;
     score = 0;
     availableQuestions = [...questions];
+    hasTouch();
     getNewQuestion();
     game.classList.remove("hidden");
     loader.classList.add("hidden");
-    hasTouch();
 };
 
 getNewQuestion = () => {
@@ -79,6 +85,24 @@ getNewQuestion = () => {
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionIndex];
     question.innerHTML = currentQuestion.question;
+
+    //Set truth type question
+    if(currentQuestion.questionType === "truth"){
+        // Hide containers C and D
+        // truthType.forEach(truthElement => {
+        //     truthElement.classList.add("hidden");
+        // });
+        Array.from(truthType).forEach(elem => {
+            elem.classList.add("hidden");
+            elem.classList.remove("choice-container");
+        });
+    } else {
+        // Display all containers
+        Array.from(truthType).forEach(elem => {
+            elem.classList.remove("hidden");
+            elem.classList.add("choice-container");
+        });
+    }
 
     //Set picture type question
     if(currentQuestion.metaType === "Picture"){
