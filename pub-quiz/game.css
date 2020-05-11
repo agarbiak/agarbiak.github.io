@@ -7,16 +7,7 @@
     border-color: #fff;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.5);
-}
-
-.choice-container:hover {
-    cursor: pointer;
-    border-color: #5c6378;
-    color: #fff;
-    background-color: #5c6378;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
-    transform: translateY(-0.1rem);
-    transition: transform 150ms;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 1px rgba(0,0,0,.075);
 }
 
 .choice-prefix {
@@ -61,17 +52,9 @@
     border-color: #fff;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 1px rgba(0,0,0,.075);
 }
 
-#navbar-restart:hover {
-    cursor: pointer;
-    border-color: #5c6378;
-    color: #fff;
-    background-color: #5c6378;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
-    transform: translateY(-0.1rem);
-    transition: transform 150ms;
-}
 
 #navbar-exit {
     padding: 1.25rem 2rem;
@@ -79,18 +62,8 @@
     border-color: #fff;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 1px rgba(0,0,0,.075);
 }
-
-#navbar-exit:hover {
-    cursor: pointer;
-    border-color: #5c6378;
-    color: #fff;
-    background-color: #5c6378;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
-    transform: translateY(-0.1rem);
-    transition: transform 150ms;
-}
-
 
 /* HUD */
 #hud {
@@ -138,4 +111,40 @@
     100% {
         transform: rotate(360deg);
     }
+}
+
+/* DESKTOP EXPERIENCE STYLING
+Uses @media hover information:
+https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover */
+@media (hover: hover) {
+    .choice-container:not(.no-hover):hover {
+        cursor: pointer;
+        border-color: #5c6378;
+        color: #fff;
+        background-color: #5c6378;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
+        transform: translateY(-0.1rem);
+        transition: transform 150ms;
+    }
+
+    #navbar-restart:not(.no-hover):hover {
+        cursor: pointer;
+        border-color: #5c6378;
+        color: #fff;
+        background-color: #5c6378;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
+        transform: translateY(-0.1rem);
+        transition: transform 150ms;
+    }
+
+    #navbar-exit:not(.no-hover):hover {
+        cursor: pointer;
+        border-color: #5c6378;
+        color: #fff;
+        background-color: #5c6378;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(100, 100, 100, 0.5);
+        transform: translateY(-0.1rem);
+        transition: transform 150ms;
+    }
+
 }

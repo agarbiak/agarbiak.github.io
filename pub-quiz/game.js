@@ -32,6 +32,17 @@ let audioSource = "/pub-quiz/audio/";
 
 let questions = [];
 
+function showProps(obj, objName) {
+    var result = ``;
+    for (var i in obj) {
+      // obj.hasOwnProperty() is used to filter out properties from the object's prototype chain
+      if (obj.hasOwnProperty(i)) {
+        result += `${objName}.${i} = ${obj[i]}\n`;
+      }
+    }
+    return result;
+  }
+
 fetch(
     "/pub-quiz/questions-today.json"
     )
@@ -47,12 +58,18 @@ fetch(
                questionType: loadedQuestion.type
            };
            const answerChoices = [...loadedQuestion.incorrect_answers];
-           formattedQuestion.answer = Math.floor(Math.random()*3) + 1;
+
+           formattedQuestion.answer = Math.floor(Math.random()*4) + 1;
+            if (formattedQuestion.questionType === "truth") {
+                formattedQuestion.answer = Math.floor(Math.random()*2) + 1;
+            }
+
            answerChoices.splice(formattedQuestion.answer - 1, 0, loadedQuestion.correct_answer);
 
            answerChoices.forEach((choice, index) => {
                formattedQuestion["choice" + (index+1)] = choice;
-           })   
+           })
+           
            return formattedQuestion;
        })
        startGame();
@@ -65,7 +82,7 @@ startGame = () => {
     questionCounter = 0;
     score = 0;
     availableQuestions = [...questions];
-    hasTouch();
+    // console.log(questions);
     getNewQuestion();
     game.classList.remove("hidden");
     loader.classList.add("hidden");
@@ -89,9 +106,6 @@ getNewQuestion = () => {
     //Set truth type question
     if(currentQuestion.questionType === "truth"){
         // Hide containers C and D
-        // truthType.forEach(truthElement => {
-        //     truthElement.classList.add("hidden");
-        // });
         Array.from(truthType).forEach(elem => {
             elem.classList.add("hidden");
             elem.classList.remove("choice-container");
@@ -126,6 +140,8 @@ getNewQuestion = () => {
         pictureType.classList.add("hidden");
         audioType.classList.add("hidden");
     }
+
+    // console.log("Current Q Answer is: " + currentQuestion.answer);
     choices.forEach(choice => {
         const number = choice.dataset["number"];
         choice.innerHTML = currentQuestion["choice" + number];
@@ -156,9 +172,11 @@ choices.forEach(choice => {
         }
 
         selectedChoice.parentElement.classList.add(classToApply);
+        selectedChoice.parentElement.classList.add("no-hover");
 
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
+            selectedChoice.parentElement.classList.remove("no-hover");
             getNewQuestion();
         }, 500);
     });
@@ -167,32 +185,4 @@ choices.forEach(choice => {
 incrementScore = num => {
     score += num;
     scoreText.innerText = score;
-}
-
-// Remove hover styles using JavaScript
-// https://stackoverflow.com/questions/23885255/how-to-remove-ignore-hover-css-style-on-touch-devices
-// Limitation: Stylesheet must be locally hosted
-function hasTouch() {
-    return 'ontouchstart' in document.documentElement
-           || navigator.maxTouchPoints > 0
-           || navigator.msMaxTouchPoints > 0;
-}
-
-if (hasTouch()) { // remove all the :hover stylesheets
-    try { // prevent exception on browsers not supporting DOM styleSheets properly
-        for (var si in document.styleSheets) {
-            var styleSheet = document.styleSheets[si];
-            if (!styleSheet.rules) continue;
-
-            for (var ri = styleSheet.rules.length - 1; ri >= 0; ri--) {
-                if (!styleSheet.rules[ri].selectorText) continue;
-
-                if (styleSheet.rules[ri].selectorText.match(':hover')) {
-                    styleSheet.deleteRule(ri);
-                }
-            }
-        }
-    } catch (err) {
-        console.error(err);
-    }
 }

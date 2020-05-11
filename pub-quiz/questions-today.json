@@ -1,6 +1,8 @@
 {
     "results": [
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_flex.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -9,6 +11,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_conan2.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -17,6 +21,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_universe.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -25,6 +31,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_conan.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -33,6 +41,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_universe.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -41,6 +51,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_terminator.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -49,6 +61,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_true_lies.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -57,6 +71,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_total_recall.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -73,6 +89,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_running_man.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -89,6 +107,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_tank_top.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -97,6 +117,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_left_arm.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -105,6 +127,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_terminator.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -113,6 +137,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_right_arm.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -121,6 +147,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_cover.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -129,6 +157,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_cover.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -145,6 +175,8 @@
             "incorrect_answers": ["False"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_true_lies.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -153,6 +185,8 @@
             "incorrect_answers": ["True"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "gloden_globe_trophy.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
@@ -177,6 +211,8 @@
             "incorrect_answers": ["Germany", "Hungary", "Czech Republic"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_right_arm.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -185,6 +221,8 @@
             "incorrect_answers": ["21", "25", "27"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_left_arm.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -193,6 +231,8 @@
             "incorrect_answers": ["31", "35", "37"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_total_recall.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -217,6 +257,8 @@
             "incorrect_answers": ["Barack Obama", "Donald Trump", "Ronald Reagan"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_military.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -225,6 +267,8 @@
             "incorrect_answers": ["Infantry", "Airborne", "Navy"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_ex_wife.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -233,6 +277,8 @@
             "incorrect_answers": ["Maria Sharapova", "Maria Menounos", "Maria Bello"]
         },
         {
+            "meta": "Picture",
+            "metaSrc": "arnie_ex_wife.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -302,7 +348,7 @@
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
-            "question": "Which film did Arnie ask to speak to the hand?",
+            "question": "Which film did Arnie ask to talk to the hand?",
             "correct_answer": "Terminator 3: Rise of the Machines",
             "incorrect_answers": [
                 "Terminator",
@@ -460,7 +506,7 @@
             "specialism": "Arnie",
             "type": "multiple",
             "question": "Which film had Arnie quote the famous Shakespeare line &quot;To be, or not to be&quot;?",
-            "correct_answer": "Predator",
+            "correct_answer": "Last Action Hero",
             "incorrect_answers": ["Kindergarten Cop", "Junior", "Hamlet"
             ]
         },
@@ -521,7 +567,7 @@
         },
         {
             "meta": "Audio",
-            "metaSrc": "i_am_pregnant.mp3",
+            "metaSrc": "put_that_cookie_down.mp3",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
@@ -613,7 +659,7 @@
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
-            "question": "Which film did Arnie note he only left dead bodies?",
+            "question": "Which film did Arnie note he only left bodies?",
             "correct_answer": "Commando",
             "incorrect_answers": ["The Running Man", "Total Recall", "True Lies"
             ]

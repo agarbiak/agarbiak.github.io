@@ -160,6 +160,20 @@ ctx.fillRect(10, 10, 150, 100);
 
 &lt;a href=&#34;https://www.sporcle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sporcle&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Day 4 (to 6) - 10 May, 2020&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Project fatigue setting in. Skipping the &lt;code&gt;JavaScript&lt;/code&gt; tutorials may have been a bad idea. Developing new features myself is proving that I don&amp;rsquo;t know what I am doing and requires a painful amount of debugging. The cost? I have to imagine I will end up with spaghetti code if I continue with this development strategy.&lt;/p&gt;
+&lt;p&gt;Here are a couple of concepts I am struggling with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spread operator&lt;/li&gt;
+&lt;li&gt;Whether the variable creates an object versus an array - objects do not have length properties so I have had trouble iterating over the elements (actually properties) within an object.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am enjoying using the Chrome developer tools, particularly:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;console.log()&lt;/code&gt; functionality&lt;/li&gt;
+&lt;li&gt;Device toolbar - noting how the website will display on different devices (including iOS devices)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
