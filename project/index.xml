@@ -21,16 +21,9 @@
 
 &lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Today&amp;rsquo;s quiz - 20 questions across the following categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;TV&lt;/li&gt;
-&lt;li&gt;Films&lt;/li&gt;
-&lt;li&gt;Board Games&lt;/li&gt;
-&lt;li&gt;Mythology&lt;/li&gt;
-&lt;li&gt;Geography&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The quiz is periodically updated - check &amp;ldquo;last updated&amp;rdquo; field above to give an indication.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://agarbiak.github.io/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Quiz questions are currently being generated via the 
+&lt;p&gt;Certain quiz questions may be pulled via the 
 
 &lt;a href=&#34;https://opentdb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Trivia Database API&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;

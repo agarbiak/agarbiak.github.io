@@ -450,7 +450,7 @@
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
-            "question": "What film did Arnie say the pavent was his enemy?",
+            "question": "What film did Arnie say the pavement was his enemy?",
             "correct_answer": "Twins",
             "incorrect_answers": ["Junior", "Triplets", "Last Action Hero"
             ]
