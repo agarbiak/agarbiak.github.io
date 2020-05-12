@@ -81,28 +81,12 @@
             "incorrect_answers": ["True"]
         },
         {
-            "category": "Film",
-            "specialism": "Arnie",
-            "type": "truth",
-            "question": "One of Arnie's nicknames is the Governator",
-            "correct_answer": "True",
-            "incorrect_answers": ["False"]
-        },
-        {
             "meta": "Picture",
             "metaSrc": "arnie_running_man.png",
             "category": "Film",
             "specialism": "Arnie",
             "type": "truth",
             "question": "The Running Man is set in a dystopian &quot;future&quot;, being before 2020",
-            "correct_answer": "True",
-            "incorrect_answers": ["False"]
-        },
-        {
-            "category": "Film",
-            "specialism": "Arnie",
-            "type": "truth",
-            "question": "Arnie's father voluntarily joined the Nazi Party",
             "correct_answer": "True",
             "incorrect_answers": ["False"]
         },
@@ -249,14 +233,6 @@
             "incorrect_answers": ["Tobias", "Lukas", "Jakob"]
         },
         {
-            "category": "Film",
-            "specialism": "Arnie",
-            "type": "multiple",
-            "question": "Which President did Arnie serve whilst Chairman of the President's Council on Physical Fitness and Sports?",
-            "correct_answer": "George H. W. Bush",
-            "incorrect_answers": ["Barack Obama", "Donald Trump", "Ronald Reagan"]
-        },
-        {
             "meta": "Picture",
             "metaSrc": "arnie_military.png",
             "category": "Film",
@@ -380,7 +356,7 @@
         },
         {
             "meta": "Audio",
-            "metaSrc": "arsehole_on_tv.mp3",
+            "metaSrc": "i_live_to_see_you_eat_that_contract.mp3",
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",

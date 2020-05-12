@@ -73,7 +73,7 @@
 
 &lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;The quiz is periodically updated - check &amp;ldquo;last updated&amp;rdquo; field above to give an indication.&lt;/p&gt;
+&lt;p&gt;The quiz is periodically updated - check the &amp;ldquo;last updated&amp;rdquo; field above.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://agarbiak.github.io/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Certain quiz questions may be pulled via the 
 
@@ -127,11 +127,11 @@ Marketing, I suppose.
 &lt;p&gt;The current (envisaged) status of the project:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Learn some &lt;code&gt;JavaScript&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Develop pub quiz design&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Develop pub quiz design&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Create some pub quiz assets&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Capture metadata on pub quiz assets&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Launch alpha application&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Debug the horrible mess of an alpha application&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Capture metadata on pub quiz assets&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Launch alpha application&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Debug the horrible mess of an alpha application&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Deploy beta application for external testing to select users&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Crush the ridiculous bugs in the beta application to refine&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Launch the first release product&lt;/li&gt;
@@ -244,6 +244,15 @@ ctx.fillRect(10, 10, 150, 100);
 &lt;li&gt;&lt;code&gt;console.log()&lt;/code&gt; functionality&lt;/li&gt;
 &lt;li&gt;Device toolbar - noting how the website will display on different devices (including iOS devices)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Day 7 - 12 May, 2020&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Implemented some cosmetic fixes - highlighting the correct answer with a silly little &lt;code&gt;CSS&lt;/code&gt; animation.
+So, is the pub quiz code any good? It works. Too many &lt;code&gt;if&lt;/code&gt; statements for my liking and the use of a nested &lt;code&gt;setTimeout()&lt;/code&gt; function call. Not great. Not terrible.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s next? I intend to add more functionality but over a longer time period.  Additionally, I think it will be fun to write out more tailored pub quiz questions - this takes quite a bit of time (source material and writing up the questions &amp;amp; answers).
+For the time being I want to get back into 
+
+&lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;Blender&lt;/a&gt; - perhaps I can create some neon pub quiz image assets? 😏&lt;/p&gt;
 </description>
     </item>
     
