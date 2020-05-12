@@ -216,7 +216,7 @@
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
-            "question": "What age was Arnie when he won his first My Olympia?",
+            "question": "What age was Arnie when he won his first Mr Olympia?",
             "correct_answer": "23",
             "incorrect_answers": ["21", "25", "27"]
         },
@@ -226,7 +226,7 @@
             "category": "Film",
             "specialism": "Arnie",
             "type": "multiple",
-            "question": "What age was Arnie when he won his last My Olympia?",
+            "question": "What age was Arnie when he won his last Mr Olympia?",
             "correct_answer": "33",
             "incorrect_answers": ["31", "35", "37"]
         },

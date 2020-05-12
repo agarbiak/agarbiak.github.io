@@ -32,6 +32,28 @@
     box-shadow: none;
 }
 
+/* Adapted from https://codepen.io/chris22smith/pen/RZogMa  */
+.answer {
+    animation:slide 2s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, #28a745 75%, #000000 25%);
+    bottom:0;
+    left:-50%;
+    opacity: 1;
+    right:-50%;
+    top:0;
+    z-index:-1;
+}
+
+@keyframes slide {
+    0% {
+      transform:translateX(-15%);
+    }
+    100% {
+      transform:translateX(15%);
+    }
+}
+
+
 /* NAV BAR */
 #navbar {
     display: flex;

@@ -59,7 +59,7 @@ fetch(
            };
            const answerChoices = [...loadedQuestion.incorrect_answers];
 
-           formattedQuestion.answer = Math.floor(Math.random()*4) + 1;
+           formattedQuestion.answer = Math.floor(Math.random()*3) + 1;
             if (formattedQuestion.questionType === "truth") {
                 formattedQuestion.answer = Math.floor(Math.random()*2) + 1;
             }
@@ -95,8 +95,9 @@ getNewQuestion = () => {
         return window.location.assign("/pub-quiz/end.html");
     }
     questionCounter++;
+    
+    //update the progress bars
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
-    //update the progress bar
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
@@ -173,12 +174,25 @@ choices.forEach(choice => {
 
         selectedChoice.parentElement.classList.add(classToApply);
         selectedChoice.parentElement.classList.add("no-hover");
-
+        
         setTimeout(() => {
+
             selectedChoice.parentElement.classList.remove(classToApply);
-            selectedChoice.parentElement.classList.remove("no-hover");
-            getNewQuestion();
+
+            if(classToApply === "incorrect") {
+                choices[currentQuestion.answer - 1].classList.add("answer");
+                
+                setTimeout(() => {
+                    choices[currentQuestion.answer - 1].classList.remove("answer")
+                    getNewQuestion();
+                }, 2000);
+            } else {
+                selectedChoice.parentElement.classList.remove("no-hover");
+                getNewQuestion();
+            }            
+
         }, 500);
+
     });
 })
 
