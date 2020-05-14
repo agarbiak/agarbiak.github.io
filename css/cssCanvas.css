@@ -1,0 +1,9 @@
+/*  Dwitter Shim by Frank Force 2020
+    License Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. */
+canvas {
+    background: #FFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

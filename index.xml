@@ -5,12 +5,52 @@
     <link>https://agarbiak.github.io/</link>
       <atom:link href="https://agarbiak.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Garbiak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 03 May 2020 22:23:25 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Thu, 14 May 2020 18:51:44 +0100</lastBuildDate>
     <image>
       <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Alexander Garbiak</title>
       <link>https://agarbiak.github.io/</link>
     </image>
+    
+    <item>
+      <title>Web Development Fun</title>
+      <link>https://agarbiak.github.io/post/web-development-fun/</link>
+      <pubDate>Thu, 14 May 2020 18:51:44 +0100</pubDate>
+      <guid>https://agarbiak.github.io/post/web-development-fun/</guid>
+      <description>&lt;p&gt;As part of developing out the pub quiz application I stumbled upon a number of pretty cool websites / applications. The above image was created using &lt;code&gt;JavaScript&lt;/code&gt; with one function call.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Mobile users:&lt;/strong&gt; this post will display better in &lt;em&gt;landscape&lt;/em&gt; mode.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;codepen&#34;&gt;Codepen&lt;/h2&gt;
+&lt;p&gt;
+
+&lt;a href=&#34;https://codepen.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codepen&lt;/a&gt; is for front-end web development testing.&lt;/p&gt;
+&lt;p&gt;Check out this awesome &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt; animation, the core &lt;code&gt;JavaScript&lt;/code&gt; function is limited to 140 characters!&lt;/p&gt;
+&lt;iframe src=&#34;https://agarbiak.github.io/html/cssCanvas.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Beats the usual boring loading screens (a spinner)!&lt;/p&gt;
+&lt;h2 id=&#34;dwitter&#34;&gt;Dwitter&lt;/h2&gt;
+&lt;p&gt;The challenge to keep core &lt;code&gt;JavaScript&lt;/code&gt; driven animations at a maximum function call length of 140 characters appears to be the driver of 
+
+&lt;a href=&#34;https://www.dwitter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dwitter&lt;/a&gt;. It&amp;rsquo;s impressive how much can be accomplished with a simple &lt;code&gt;HTML&lt;/code&gt; &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; element and a few lines of &lt;code&gt;JavaScript&lt;/code&gt; code:&lt;/p&gt;
+&lt;iframe src=&#34;https://agarbiak.github.io/html/dwitter.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;dark-mode&#34;&gt;Dark mode&lt;/h2&gt;
+&lt;p&gt;I have a habit of venturing down rabbit holes. Somehow I found the above styling after looking through how to implement a dark theme (and the ability to switch between colour themes).
+For reference, 
+
+&lt;a href=&#34;https://web.dev/prefers-color-scheme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this article&lt;/a&gt; seems the most comprehensive tutorial on this matter.&lt;/p&gt;
+&lt;h2 id=&#34;other-random-tidbits&#34;&gt;Other random tidbits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Colour share generator: &lt;a href=&#34;https://javisperez.github.io/tailwindcolorshades/#/&#34;&gt;https://javisperez.github.io/tailwindcolorshades/#/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CSS animations (like PowerPoint animations): &lt;a href=&#34;https://animate.style/&#34;&gt;https://animate.style/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;final-appreciation-of-good-digital-art-from-css-and-javascript&#34;&gt;Final appreciation of good digital art from &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;The feature image was created via &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt; too - same idea, 140 characters or less of the core function &lt;code&gt;u(t)&lt;/code&gt; specified in the 
+
+&lt;a href=&#34;https://www.dwitter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dwitter&lt;/a&gt; competition.&lt;/p&gt;
+&lt;iframe src=&#34;https://agarbiak.github.io/html/fractal.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Ten music albums</title>
