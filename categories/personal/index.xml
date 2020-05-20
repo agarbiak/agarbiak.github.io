@@ -5,12 +5,83 @@
     <link>https://agarbiak.github.io/categories/personal/</link>
       <atom:link href="https://agarbiak.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Thu, 14 May 2020 18:51:44 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Wed, 20 May 2020 22:33:31 +0100</lastBuildDate>
     <image>
       <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Personal</title>
       <link>https://agarbiak.github.io/categories/personal/</link>
     </image>
+    
+    <item>
+      <title>Ideas for June 2020</title>
+      <link>https://agarbiak.github.io/post/ideas-for-june-2020/</link>
+      <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
+      <guid>https://agarbiak.github.io/post/ideas-for-june-2020/</guid>
+      <description>&lt;h1 id=&#34;summary-of-ideas&#34;&gt;Summary of ideas&lt;/h1&gt;
+&lt;p&gt;Working on a few things &amp;hellip; thought about what development&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; I could work on next:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;code&gt;.csv&lt;/code&gt; parser&lt;/li&gt;
+&lt;li&gt;A share option investment review web page, working title &amp;ldquo;&lt;em&gt;Are we in the money?&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Some &lt;code&gt;JavaScript&lt;/code&gt; to download all files from a selected SharePoint site&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All output will be posted as an open source solution on 
+
+&lt;a href=&#34;https://github.com/agarbiak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; with a MIT license (essentially attribution is required in your source code if you use it).&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-csv-parser&#34;&gt;The &lt;code&gt;.csv&lt;/code&gt; parser&lt;/h2&gt;
+&lt;p&gt;My idea is to perform some simple parsing checks on a potential &lt;code&gt;.csv&lt;/code&gt; file that needs to meet a set criteria.
+Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date field - needs to be in the form &lt;code&gt;yyyy-mm-dd&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;Business unit code field - needs to have a length of 5 characters, so:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;LON00&lt;/code&gt; is acceptable, even though the entry in the database is stored as LON, whereas&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;LON&lt;/code&gt; would fail and therefore would be parsed as &lt;code&gt;LON00&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Amount field - needs to be in the form &lt;code&gt;xxxxxx.xx&lt;/code&gt;, i.e.:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;£10.00&lt;/code&gt; would fail due to the inclusion of a currency symbol character and therefore would be parsed as &lt;code&gt;10.00&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1,234,567.00&lt;/code&gt; would fail due to the inclusion of a comma separating the thousands and therefore would be parsed as &lt;code&gt;1234567.00&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1000&lt;/code&gt; would fail due to the omission of the two decimal points and therefore would be parsed as &lt;code&gt;1000.00&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1.000,55&lt;/code&gt; would fail due to the usage of European numeric format (decimals are used as thousand separators, commas are used for decimal points) - this would be parsed as &lt;code&gt;1000.55&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This idea would alleviate the onerous requirement on the end user to match an arbitary specification. Instead the code would transform the &lt;code&gt;.csv&lt;/code&gt; into the required format for processing in another process or storage in a database.&lt;/p&gt;
+&lt;h2 id=&#34;-are-we-in-the-money-&#34;&gt;💰 Are we in the money? 🤑&lt;/h2&gt;
+&lt;p&gt;This will be a share saving scheme performance review web application which will show:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Current share price, $\mathbf{S}_{t}$&lt;/li&gt;
+&lt;li&gt;Strike price, $\mathbf{K}_{t=0}$&lt;/li&gt;
+&lt;li&gt;Grant date, $\mathbf{t}=0$&lt;/li&gt;
+&lt;li&gt;Vesting date, $\mathbf{T}$, giving days until vested of $\mathbf{T}-\mathbf{t}$&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Are we in the money?&lt;/em&gt; Yes or no - simple function call &lt;em&gt;Max&lt;/em&gt;$(0, \mathbf{S}_{t} - \mathbf{K})$&lt;/li&gt;
+&lt;li&gt;Absolute (£) and relative (%) return based on current share price&lt;/li&gt;
+&lt;li&gt;Annualised return based on time $t$ between the current date $t$ and grant date $0$&lt;/li&gt;
+&lt;li&gt;Outperformance versus broad index, perhaps &lt;code&gt;FTSE 100&lt;/code&gt; or &lt;code&gt;S&amp;amp;P 500&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Use some Brownian motion to predict the share price at time $\mathbf{T}$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;downloading-all-files-from-sharepoint-using-javascript&#34;&gt;Downloading all files from SharePoint using &lt;code&gt;JavaScript&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;A simple (&lt;em&gt;I hope&lt;/em&gt;) &lt;code&gt;JavaScript&lt;/code&gt; file that will download all files from a selected SharePoint directory into a user-specified network directory.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s the need for this? The SharePoint site I use only allows a user to individually click on a file, click the context menu (to activate the drop down options), before finally being able to click on download. That&amp;rsquo;s &lt;strong&gt;three&lt;/strong&gt; clicks on top of mouse cursor movement. Not too bad for one file, what about doing this for 100 files?&lt;/p&gt;
+&lt;p&gt;So this simple application will create some efficiency. Of course because I don&amp;rsquo;t know how to code &lt;code&gt;JavaScript&lt;/code&gt; it will take me longer to write this than manually clicking and pointing 300 times ($3$ clicks x $100$ files).&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Feel free to interchange the word &amp;ldquo;&lt;em&gt;development&lt;/em&gt;&amp;rdquo; with coding, programming, whatever term you want. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Please note this statement is &lt;strong&gt;not&lt;/strong&gt; to be construed as legal advice and is strictly my interpretation (my 
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=pWdd6_ZxX8c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opinion&lt;/a&gt;). Consult a legal expert for your own use case. As a short primer on this complex topic, I suggest visiting 
+
+&lt;a href=&#34;https://choosealicense.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;choose a license&lt;/a&gt;. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
     <item>
       <title>Web Development Fun</title>
@@ -27,7 +98,7 @@
 &lt;p&gt;
 
 &lt;a href=&#34;https://codepen.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codepen&lt;/a&gt; is for front-end web development testing.&lt;/p&gt;
-&lt;p&gt;Check out this awesome &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt; animation, the core &lt;code&gt;JavaScript&lt;/code&gt; function is limited to 140 characters!&lt;/p&gt;
+&lt;p&gt;Check out this awesome &lt;code&gt;JavaScript&lt;/code&gt; animation, the core &lt;code&gt;JavaScript&lt;/code&gt; function is limited to 140 characters!&lt;/p&gt;
 &lt;iframe src=&#34;https://agarbiak.github.io/html/cssCanvas.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Beats the usual boring loading screens (a spinner)!&lt;/p&gt;
 &lt;h2 id=&#34;dwitter&#34;&gt;Dwitter&lt;/h2&gt;
@@ -42,7 +113,7 @@ For reference,
 &lt;a href=&#34;https://web.dev/prefers-color-scheme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this article&lt;/a&gt; seems the most comprehensive tutorial on this matter.&lt;/p&gt;
 &lt;h2 id=&#34;other-random-tidbits&#34;&gt;Other random tidbits&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Colour share generator: &lt;a href=&#34;https://javisperez.github.io/tailwindcolorshades/#/&#34;&gt;https://javisperez.github.io/tailwindcolorshades/#/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Colour shade generator: &lt;a href=&#34;https://javisperez.github.io/tailwindcolorshades/#/&#34;&gt;https://javisperez.github.io/tailwindcolorshades/#/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;CSS animations (like PowerPoint animations): &lt;a href=&#34;https://animate.style/&#34;&gt;https://animate.style/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;final-appreciation-of-good-digital-art-from-css-and-javascript&#34;&gt;Final appreciation of good digital art from &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt;&lt;/h2&gt;
