@@ -31,8 +31,13 @@
 &lt;p&gt;My idea is to perform some simple parsing checks on a potential &lt;code&gt;.csv&lt;/code&gt; file that needs to meet a set criteria.
 Examples:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Date field - needs to be in the form &lt;code&gt;yyyy-mm-dd&lt;/code&gt;,&lt;/li&gt;
-&lt;li&gt;Business unit code field - needs to have a length of 5 characters, so:
+&lt;li&gt;Date field - needs to be in the form &lt;code&gt;yyyy-mm-dd&lt;/code&gt;, so:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;23/05/2020&lt;/code&gt; as user entry by default would fail, and thus would be parsed as &lt;code&gt;2020-05-23&lt;/code&gt;, additionally&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;43974&lt;/code&gt; (which is Excel&amp;rsquo;s serial numeric representation&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; of the date 23rd May 2020) would fail, and again be parsed as &lt;code&gt;2020-05-23&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Location code field - needs to have a length of 5 characters, so:
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;LON00&lt;/code&gt; is acceptable, even though the entry in the database is stored as LON, whereas&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;LON&lt;/code&gt; would fail and therefore would be parsed as &lt;code&gt;LON00&lt;/code&gt;&lt;/li&gt;
@@ -47,7 +52,7 @@ Examples:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This idea would alleviate the onerous requirement on the end user to match an arbitary specification. Instead the code would transform the &lt;code&gt;.csv&lt;/code&gt; into the required format for processing in another process or storage in a database.&lt;/p&gt;
+&lt;p&gt;This idea would alleviate the onerous requirement on the end user to match an arbitrary specification. Instead the code would transform the &lt;code&gt;.csv&lt;/code&gt; into the required format for processing in another process or storage in a database.&lt;/p&gt;
 &lt;h2 id=&#34;-are-we-in-the-money-&#34;&gt;💰 Are we in the money? 🤑&lt;/h2&gt;
 &lt;p&gt;This will be a share saving scheme performance review web application which will show:&lt;/p&gt;
 &lt;ul&gt;
@@ -78,13 +83,16 @@ Examples:&lt;/p&gt;
 
 &lt;a href=&#34;https://choosealicense.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;choose a license&lt;/a&gt;. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Look up Excel&amp;rsquo;s &lt;code&gt;DATAVALUE&lt;/code&gt; function for more information on how Excel stores dates &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 </description>
     </item>
     
     <item>
-      <title>Web Development Fun</title>
+      <title>Web development fun</title>
       <link>https://agarbiak.github.io/post/web-development-fun/</link>
       <pubDate>Thu, 14 May 2020 18:51:44 +0100</pubDate>
       <guid>https://agarbiak.github.io/post/web-development-fun/</guid>

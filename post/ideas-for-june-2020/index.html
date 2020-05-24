@@ -276,7 +276,7 @@
     
       <meta property="article:published_time" content="2020-05-20T22:33:31&#43;01:00">
     
-    <meta property="article:modified_time" content="2020-05-20T23:35:52&#43;01:00">
+    <meta property="article:modified_time" content="2020-05-25T00:13:44&#43;01:00">
   
 
   
@@ -307,7 +307,7 @@
   "headline": "Ideas for June 2020",
   
   "datePublished": "2020-05-20T22:33:31+01:00",
-  "dateModified": "2020-05-20T23:35:52+01:00",
+  "dateModified": "2020-05-25T00:13:44+01:00",
   
   "author": {
     "@type": "Person",
@@ -677,7 +677,7 @@
           Last updated on
       
     
-    20 May, 2020
+    25 May, 2020
   </span>
   
 
@@ -740,8 +740,13 @@
 <p>My idea is to perform some simple parsing checks on a potential <code>.csv</code> file that needs to meet a set criteria.
 Examples:</p>
 <ul>
-<li>Date field - needs to be in the form <code>yyyy-mm-dd</code>,</li>
-<li>Business unit code field - needs to have a length of 5 characters, so:
+<li>Date field - needs to be in the form <code>yyyy-mm-dd</code>, so:
+<ul>
+<li><code>23/05/2020</code> as user entry by default would fail, and thus would be parsed as <code>2020-05-23</code>, additionally</li>
+<li><code>43974</code> (which is Excel&rsquo;s serial numeric representation<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> of the date 23rd May 2020) would fail, and again be parsed as <code>2020-05-23</code></li>
+</ul>
+</li>
+<li>Location code field - needs to have a length of 5 characters, so:
 <ul>
 <li><code>LON00</code> is acceptable, even though the entry in the database is stored as LON, whereas</li>
 <li><code>LON</code> would fail and therefore would be parsed as <code>LON00</code></li>
@@ -756,7 +761,7 @@ Examples:</p>
 </ul>
 </li>
 </ul>
-<p>This idea would alleviate the onerous requirement on the end user to match an arbitary specification. Instead the code would transform the <code>.csv</code> into the required format for processing in another process or storage in a database.</p>
+<p>This idea would alleviate the onerous requirement on the end user to match an arbitrary specification. Instead the code would transform the <code>.csv</code> into the required format for processing in another process or storage in a database.</p>
 <h2 id="-are-we-in-the-money-">💰 Are we in the money? 🤑</h2>
 <p>This will be a share saving scheme performance review web application which will show:</p>
 <ul>
@@ -786,6 +791,9 @@ Examples:</p>
 <a href="https://www.youtube.com/watch?v=pWdd6_ZxX8c" target="_blank" rel="noopener">opinion</a>). Consult a legal expert for your own use case. As a short primer on this complex topic, I suggest visiting 
 
 <a href="https://choosealicense.com/" target="_blank" rel="noopener">choose a license</a>. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Look up Excel&rsquo;s <code>DATAVALUE</code> function for more information on how Excel stores dates <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
@@ -918,7 +926,7 @@ Examples:</p>
   <div class="media author-card content-widget-hr">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu6e1d2b35ad2dd39a8fe63b961921acb6_495411_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hub89c811a25f2ef3695bb6eaac1b49529_1333856_270x270_fill_lanczos_center_2.png" alt="Avatar">
     
 
     <div class="media-body">
@@ -980,7 +988,7 @@ Examples:</p>
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/post/web-development-fun/">Web Development Fun</a></li>
+      <li><a href="/post/web-development-fun/">Web development fun</a></li>
       
       <li><a href="/post/pub-quiz-idea/">The Garbiak Pub Quiz</a></li>
       
