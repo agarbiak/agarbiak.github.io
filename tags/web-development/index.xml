@@ -17,7 +17,13 @@
       <link>https://agarbiak.github.io/post/ideas-for-june-2020/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
       <guid>https://agarbiak.github.io/post/ideas-for-june-2020/</guid>
-      <description>&lt;h1 id=&#34;summary-of-ideas&#34;&gt;Summary of ideas&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;update&#34;&gt;Update&lt;/h1&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    So I&amp;rsquo;ve been distracted over the last weekend of May with &lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Blender&lt;/a&gt; again. The feature image was created using Blender&amp;rsquo;s sculpting workflow and some nice shading techniques to create the sclera cornea and iris. I&amp;rsquo;ll be adding some more Blender renders over this month.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;summary-of-ideas&#34;&gt;Summary of ideas&lt;/h1&gt;
 &lt;p&gt;Working on a few things &amp;hellip; thought about what development&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; I could work on next:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;A &lt;code&gt;.csv&lt;/code&gt; parser&lt;/li&gt;
