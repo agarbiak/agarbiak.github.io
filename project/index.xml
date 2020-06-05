@@ -39,7 +39,117 @@
 &lt;p&gt;This page is a showcase of the Blender renders I&amp;rsquo;ve completed. The background to this is 
 
 &lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
-&lt;h3 id=&#34;current-work-may-2020&#34;&gt;Current work (May 2020)&lt;/h3&gt;
+&lt;h3 id=&#34;current-work-june-2020---week-1&#34;&gt;Current work (June 2020 - Week 1)&lt;/h3&gt;
+&lt;p&gt;Finally decided to go back to basics and follow along with some beginner&amp;rsquo;s level tutorials. The one that has become a bit of meme amongst the Blender community, the &amp;ldquo;&lt;em&gt;Hello World&lt;/em&gt;&amp;rdquo; of renders, the donut. For those aspiring to start working with Blender I highly recommend Blender Guru&amp;rsquo;s 
+
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial series&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are my creations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;June 4, 2020 - Donut&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Probably my best work so far. Icing is a little off with the wrapping around the donut. Probably can be fixed with some simple sculpting on the mesh. The displacement at the bottom of the donut may be too much - this will be a little tricky to fix as the displacement is achieved using a noise texture.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 3, 2020 - Teddy Bear&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I suck with the sculpting tools in Blender. I want to blame the tools (I&amp;rsquo;m using a mouse rather than a pressure sensitive stylus) but really it&amp;rsquo;s because I&amp;rsquo;m rubbish. The main issue with this is the proportions are all wrong. The flooring texture (meant to be a nice wood floor) has been stretched so I ought have fiddled with the xyz scaling. The UV unwrapping for the teddy fabric is pretty awful because of bad topology. Other issues: too strong displacement has meant the nose texture has disappeared as well as the eyes sunk into the face. Finally I tried to create some nylon hair but it may be hidden within the displacement again.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1920&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 1 and 2, 2020 - Neon Sign&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Main element that looks off here is the overpowering neon light against a brick texture backdrop. Again, I&amp;rsquo;ve messed up the power of the displacement - the bricks are popping out too much.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;prior-month-work-may-2020&#34;&gt;Prior month work (May 2020)&lt;/h3&gt;
 &lt;p&gt;Currently working on character modelling, I&amp;rsquo;ve started simple, modelling the human eye:
 
 
