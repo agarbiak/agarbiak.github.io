@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web development | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/tags/web-development/</link>
-      <atom:link href="https://agarbiak.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/tags/web-development/</link>
+      <atom:link href="https://alexgarbiak.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Web development</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Wed, 20 May 2020 22:33:31 +0100</lastBuildDate>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Web development</title>
-      <link>https://agarbiak.github.io/tags/web-development/</link>
+      <link>https://alexgarbiak.com/tags/web-development/</link>
     </image>
     
     <item>
       <title>Ideas for June 2020</title>
-      <link>https://agarbiak.github.io/post/ideas-for-june-2020/</link>
+      <link>https://alexgarbiak.com/post/ideas-for-june-2020/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/ideas-for-june-2020/</guid>
+      <guid>https://alexgarbiak.com/post/ideas-for-june-2020/</guid>
       <description>&lt;h1 id=&#34;update&#34;&gt;Update&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    So I&amp;rsquo;ve been distracted over the last weekend of May with &lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Blender&lt;/a&gt; again. The feature image was created using Blender&amp;rsquo;s sculpting workflow and some nice shading techniques to create the sclera cornea and iris. I&amp;rsquo;ll be adding some more Blender renders over this month.
+    So I&amp;rsquo;ve been distracted over the last weekend of May with &lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;Blender&lt;/a&gt; again. The feature image was created using Blender&amp;rsquo;s sculpting workflow and some nice shading techniques to create the sclera cornea and iris. I&amp;rsquo;ll be adding some more Blender renders over this month. This has taken up much more time than anticipated so I&amp;rsquo;m currently putting on hold the below development work.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;summary-of-ideas&#34;&gt;Summary of ideas&lt;/h1&gt;
@@ -99,9 +99,9 @@ Examples:&lt;/p&gt;
     
     <item>
       <title>Web development fun</title>
-      <link>https://agarbiak.github.io/post/web-development-fun/</link>
+      <link>https://alexgarbiak.com/post/web-development-fun/</link>
       <pubDate>Thu, 14 May 2020 18:51:44 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/web-development-fun/</guid>
+      <guid>https://alexgarbiak.com/post/web-development-fun/</guid>
       <description>&lt;p&gt;As part of developing out the pub quiz application I stumbled upon a number of pretty cool websites / applications. The above image was created using &lt;code&gt;JavaScript&lt;/code&gt; with one function call.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -113,13 +113,13 @@ Examples:&lt;/p&gt;
 
 &lt;a href=&#34;https://codepen.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codepen&lt;/a&gt; is for front-end web development testing.&lt;/p&gt;
 &lt;p&gt;Check out this awesome &lt;code&gt;JavaScript&lt;/code&gt; animation, the core &lt;code&gt;JavaScript&lt;/code&gt; function is limited to 140 characters!&lt;/p&gt;
-&lt;iframe src=&#34;https://agarbiak.github.io/html/cssCanvas.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://alexgarbiak.com/html/cssCanvas.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Beats the usual boring loading screens (a spinner)!&lt;/p&gt;
 &lt;h2 id=&#34;dwitter&#34;&gt;Dwitter&lt;/h2&gt;
 &lt;p&gt;The challenge to keep core &lt;code&gt;JavaScript&lt;/code&gt; driven animations at a maximum function call length of 140 characters appears to be the driver of 
 
 &lt;a href=&#34;https://www.dwitter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dwitter&lt;/a&gt;. It&amp;rsquo;s impressive how much can be accomplished with a simple &lt;code&gt;HTML&lt;/code&gt; &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; element and a few lines of &lt;code&gt;JavaScript&lt;/code&gt; code:&lt;/p&gt;
-&lt;iframe src=&#34;https://agarbiak.github.io/html/dwitter.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://alexgarbiak.com/html/dwitter.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;dark-mode&#34;&gt;Dark mode&lt;/h2&gt;
 &lt;p&gt;I have a habit of venturing down rabbit holes. Somehow I found the above styling after looking through how to implement a dark theme (and the ability to switch between colour themes).
 For reference, 
@@ -134,14 +134,14 @@ For reference,
 &lt;p&gt;The feature image was created via &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt; too - same idea, 140 characters or less of the core function &lt;code&gt;u(t)&lt;/code&gt; specified in the 
 
 &lt;a href=&#34;https://www.dwitter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dwitter&lt;/a&gt; competition.&lt;/p&gt;
-&lt;iframe src=&#34;https://agarbiak.github.io/html/fractal.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
+&lt;iframe src=&#34;https://alexgarbiak.com/html/fractal.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>The Garbiak Pub Quiz</title>
-      <link>https://agarbiak.github.io/post/pub-quiz-idea/</link>
+      <link>https://alexgarbiak.com/post/pub-quiz-idea/</link>
       <pubDate>Sun, 26 Apr 2020 11:40:14 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/pub-quiz-idea/</guid>
+      <guid>https://alexgarbiak.com/post/pub-quiz-idea/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;A random idea popped into my head that it would be fun to try to create a pub quiz app. Pre-made quizzes are fun (with 
 
@@ -170,7 +170,7 @@ Marketing, I suppose.
 
 &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;premature optimisation&lt;/a&gt;, my usual mistake (as originally pointed 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/building-this-site/&#34;&gt;here&lt;/a&gt;). For now my argument is fair use which YouTube summarises 
+&lt;a href=&#34;https://alexgarbiak.com/post/building-this-site/&#34;&gt;here&lt;/a&gt;). For now my argument is fair use which YouTube summarises 
 
 &lt;a href=&#34;https://www.youtube.com/about/copyright/fair-use/#yt-copyright-four-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; albeit from a US legal standpoint. The sound assets are short clips (vast majority less than 15 seconds long) and my website is free to use.&lt;/li&gt;
 &lt;li&gt;GitHub capacity - this website is hosted on GitHub as I&amp;rsquo;m too cheap to pay for my own hosting (although it would be nice to have my own URL). I wonder what the bandwidth that GitHub offers before they quietly ask me for some money to upgrade to a paid plan? Again, I will ignore this for now to avoid 
@@ -245,7 +245,7 @@ ctx.fillRect(10, 10, 150, 100);
 &lt;canvas id=&#34;demoCanvas&#34; width=&#34;170&#34; height=&#34;120&#34; style=&#34;border:1px solid #000000;&#34;&gt;
     A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external javascript file.
 &lt;/canvas&gt;
-&lt;script src=&#34;https://agarbiak.github.io/js/democanvas.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://alexgarbiak.com/js/democanvas.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;Basic but you have to start &lt;strong&gt;somewhere&lt;/strong&gt;. 😄&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Day 3 - 06 May, 2020&lt;/p&gt;
@@ -307,15 +307,15 @@ So, is the pub quiz code any good? It works. Too many &lt;code&gt;if&lt;/code&gt
 &lt;p&gt;What&amp;rsquo;s next? I intend to add more functionality but over a longer time period.  Additionally, I think it will be fun to write out more tailored pub quiz questions - this takes quite a bit of time (source material and writing up the questions &amp;amp; answers).
 For the time being I want to get back into 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;Blender&lt;/a&gt; - perhaps I can create some neon pub quiz image assets? 😏&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/pub-quiz-idea/&#34;&gt;Blender&lt;/a&gt; - perhaps I can create some neon pub quiz image assets? 😏&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How I built this website</title>
-      <link>https://agarbiak.github.io/post/building-this-site/</link>
+      <link>https://alexgarbiak.com/post/building-this-site/</link>
       <pubDate>Fri, 31 Jan 2020 23:12:01 +0000</pubDate>
-      <guid>https://agarbiak.github.io/post/building-this-site/</guid>
+      <guid>https://alexgarbiak.com/post/building-this-site/</guid>
       <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     This post is not yet complete and perhaps never will be. I suffer from &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last updated date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
@@ -347,7 +347,7 @@ For the time being I want to get back into
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; theme).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Perhaps an additional motiviation was that I enjoy learning new things and this seemed like a good challenge. This website was created in 2020. Around the same time I started to mess around with Blender - see 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;this post&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;this post&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;I had previously only tried to build a website a couple of times before:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Dabbling with 
@@ -409,6 +409,15 @@ For the time being I want to get back into
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Changes to layout and theming is performed at the root directory, not within the theme folder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;url-registration&#34;&gt;URL registration&lt;/h2&gt;
+&lt;p&gt;Unfortunately &lt;em&gt;garbiak.com&lt;/em&gt; was taken so I opted to register alexgarbiak.com as my custom URL. I am using 
+
+&lt;a href=&#34;https://domains.google/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Domains&lt;/a&gt; as the registrar of the domain. To link up the hosted content (on GitHub) with the URL I added a CNAME. Pretty straightforward with an annual fee payable of £10, seems reasonable. Some benefits of Google&amp;rsquo;s service:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Access to Google&amp;rsquo;s DNS servers (fast and reliable you&amp;rsquo;d hope),&lt;/li&gt;
+&lt;li&gt;Privacy (WHOIS), and&lt;/li&gt;
+&lt;li&gt;100 alias email addresses&lt;/li&gt;
 &lt;/ul&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;

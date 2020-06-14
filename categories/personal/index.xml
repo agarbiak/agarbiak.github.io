@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/categories/personal/</link>
-      <atom:link href="https://agarbiak.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/categories/personal/</link>
+      <atom:link href="https://alexgarbiak.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Wed, 20 May 2020 22:33:31 +0100</lastBuildDate>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Personal</title>
-      <link>https://agarbiak.github.io/categories/personal/</link>
+      <link>https://alexgarbiak.com/categories/personal/</link>
     </image>
     
     <item>
       <title>Ideas for June 2020</title>
-      <link>https://agarbiak.github.io/post/ideas-for-june-2020/</link>
+      <link>https://alexgarbiak.com/post/ideas-for-june-2020/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/ideas-for-june-2020/</guid>
+      <guid>https://alexgarbiak.com/post/ideas-for-june-2020/</guid>
       <description>&lt;h1 id=&#34;update&#34;&gt;Update&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    So I&amp;rsquo;ve been distracted over the last weekend of May with &lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Blender&lt;/a&gt; again. The feature image was created using Blender&amp;rsquo;s sculpting workflow and some nice shading techniques to create the sclera cornea and iris. I&amp;rsquo;ll be adding some more Blender renders over this month.
+    So I&amp;rsquo;ve been distracted over the last weekend of May with &lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;Blender&lt;/a&gt; again. The feature image was created using Blender&amp;rsquo;s sculpting workflow and some nice shading techniques to create the sclera cornea and iris. I&amp;rsquo;ll be adding some more Blender renders over this month. This has taken up much more time than anticipated so I&amp;rsquo;m currently putting on hold the below development work.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;summary-of-ideas&#34;&gt;Summary of ideas&lt;/h1&gt;
@@ -99,9 +99,9 @@ Examples:&lt;/p&gt;
     
     <item>
       <title>Web development fun</title>
-      <link>https://agarbiak.github.io/post/web-development-fun/</link>
+      <link>https://alexgarbiak.com/post/web-development-fun/</link>
       <pubDate>Thu, 14 May 2020 18:51:44 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/web-development-fun/</guid>
+      <guid>https://alexgarbiak.com/post/web-development-fun/</guid>
       <description>&lt;p&gt;As part of developing out the pub quiz application I stumbled upon a number of pretty cool websites / applications. The above image was created using &lt;code&gt;JavaScript&lt;/code&gt; with one function call.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -113,13 +113,13 @@ Examples:&lt;/p&gt;
 
 &lt;a href=&#34;https://codepen.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Codepen&lt;/a&gt; is for front-end web development testing.&lt;/p&gt;
 &lt;p&gt;Check out this awesome &lt;code&gt;JavaScript&lt;/code&gt; animation, the core &lt;code&gt;JavaScript&lt;/code&gt; function is limited to 140 characters!&lt;/p&gt;
-&lt;iframe src=&#34;https://agarbiak.github.io/html/cssCanvas.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://alexgarbiak.com/html/cssCanvas.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Beats the usual boring loading screens (a spinner)!&lt;/p&gt;
 &lt;h2 id=&#34;dwitter&#34;&gt;Dwitter&lt;/h2&gt;
 &lt;p&gt;The challenge to keep core &lt;code&gt;JavaScript&lt;/code&gt; driven animations at a maximum function call length of 140 characters appears to be the driver of 
 
 &lt;a href=&#34;https://www.dwitter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dwitter&lt;/a&gt;. It&amp;rsquo;s impressive how much can be accomplished with a simple &lt;code&gt;HTML&lt;/code&gt; &lt;code&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; element and a few lines of &lt;code&gt;JavaScript&lt;/code&gt; code:&lt;/p&gt;
-&lt;iframe src=&#34;https://agarbiak.github.io/html/dwitter.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://alexgarbiak.com/html/dwitter.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;dark-mode&#34;&gt;Dark mode&lt;/h2&gt;
 &lt;p&gt;I have a habit of venturing down rabbit holes. Somehow I found the above styling after looking through how to implement a dark theme (and the ability to switch between colour themes).
 For reference, 
@@ -134,56 +134,56 @@ For reference,
 &lt;p&gt;The feature image was created via &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JavaScript&lt;/code&gt; too - same idea, 140 characters or less of the core function &lt;code&gt;u(t)&lt;/code&gt; specified in the 
 
 &lt;a href=&#34;https://www.dwitter.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dwitter&lt;/a&gt; competition.&lt;/p&gt;
-&lt;iframe src=&#34;https://agarbiak.github.io/html/fractal.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
+&lt;iframe src=&#34;https://alexgarbiak.com/html/fractal.html&#34; width=&#34;100%&#34; height=&#34;500&#34; scrolling=&#34;no&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Ten music albums</title>
-      <link>https://agarbiak.github.io/post/music-albums-influence/</link>
+      <link>https://alexgarbiak.com/post/music-albums-influence/</link>
       <pubDate>Sun, 03 May 2020 22:23:25 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/music-albums-influence/</guid>
+      <guid>https://alexgarbiak.com/post/music-albums-influence/</guid>
       <description>&lt;p&gt;Over on Facebook I&amp;rsquo;ve been nominated by my good friend Ashley Carter to choose ten albums that have greatly influenced my taste in music. One album per day, ten consecutive days. No reviews, no explanations, just the cover shot.&lt;/p&gt;
 &lt;p&gt;So here are the ten as I am too lazy to post consecutively on Facebook:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Pendulum - Hold Your Colour
-&lt;img src=&#34;https://agarbiak.github.io/img/Pendulum-HoldYourColour.jpg&#34; alt=&#34;Pendulum - Hold Your Colour&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/Pendulum-HoldYourColour.jpg&#34; alt=&#34;Pendulum - Hold Your Colour&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Massive Attack - Mezzanine
-&lt;img src=&#34;https://agarbiak.github.io/img/MassiveAttack-Mezzanine.jpg&#34; alt=&#34;Massive Attack - Mezzanine&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/MassiveAttack-Mezzanine.jpg&#34; alt=&#34;Massive Attack - Mezzanine&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Tiësto - In Search of Sunrise 7 (Asia)
-&lt;img src=&#34;https://agarbiak.github.io/img/Tiesto-InSearchOfSunrise7Asia.jpg&#34; alt=&#34;Tiesto - In Search of Sunrise 7 (Asia)&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/Tiesto-InSearchOfSunrise7Asia.jpg&#34; alt=&#34;Tiesto - In Search of Sunrise 7 (Asia)&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Vangelis - Blade Runner Soundtrack
-&lt;img src=&#34;https://agarbiak.github.io/img/Vangelis-BladeRunner.jpg&#34; alt=&#34;Vangelis - Blade Runner Soundtrack&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/Vangelis-BladeRunner.jpg&#34; alt=&#34;Vangelis - Blade Runner Soundtrack&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Hybrid - Wider Angle
-&lt;img src=&#34;https://agarbiak.github.io/img/Hybrid-WiderAngle.jpg&#34; alt=&#34;Hybrid - Wider Angle&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/Hybrid-WiderAngle.jpg&#34; alt=&#34;Hybrid - Wider Angle&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;MC Solaar - Cinquième As
-&lt;img src=&#34;https://agarbiak.github.io/img/MCSolaar-CinquiemeAs.jpg&#34; alt=&#34;MC Solaar - Cinquieme as&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/MCSolaar-CinquiemeAs.jpg&#34; alt=&#34;MC Solaar - Cinquieme as&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Bensley - Muskoka
-&lt;img src=&#34;https://agarbiak.github.io/img/Bensley-Muskoka.jpg&#34; alt=&#34;Bensley - Muskoka&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/Bensley-Muskoka.jpg&#34; alt=&#34;Bensley - Muskoka&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Rage Against The Machine - Rage Against The Machine
-&lt;img src=&#34;https://agarbiak.github.io/img/RageAgainstTheMachine-RageAgainstTheMachine.jpg&#34; alt=&#34;Rage Against The Machine - Rage Against The Machine&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/RageAgainstTheMachine-RageAgainstTheMachine.jpg&#34; alt=&#34;Rage Against The Machine - Rage Against The Machine&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The Prodigy - The Fat of the Land
-&lt;img src=&#34;https://agarbiak.github.io/img/Prodigy-TheFatOfTheLand.jpg&#34; alt=&#34;The Prodigy - The Fat of the Land&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/Prodigy-TheFatOfTheLand.jpg&#34; alt=&#34;The Prodigy - The Fat of the Land&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;London Eleckricity - Syncopated City
-&lt;img src=&#34;https://agarbiak.github.io/img/LondonEleckricity-SyncopatedCity.jpg&#34; alt=&#34;Massive Attack - Mezzanine&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://alexgarbiak.com/img/LondonEleckricity-SyncopatedCity.jpg&#34; alt=&#34;Massive Attack - Mezzanine&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -191,15 +191,15 @@ For reference,
     
     <item>
       <title>The Garbiak Pub Quiz</title>
-      <link>https://agarbiak.github.io/project/pub-quiz/</link>
+      <link>https://alexgarbiak.com/project/pub-quiz/</link>
       <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
-      <guid>https://agarbiak.github.io/project/pub-quiz/</guid>
+      <guid>https://alexgarbiak.com/project/pub-quiz/</guid>
       <description>&lt;p&gt;Currently under development - please read my blog 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;The quiz is periodically updated - check the &amp;ldquo;last updated&amp;rdquo; field above.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://agarbiak.github.io/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alexgarbiak.com/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Certain quiz questions may be pulled via the 
 
 &lt;a href=&#34;https://opentdb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Trivia Database API&lt;/a&gt;&lt;/p&gt;
@@ -209,9 +209,9 @@ For reference,
     
     <item>
       <title>The Garbiak Pub Quiz</title>
-      <link>https://agarbiak.github.io/post/pub-quiz-idea/</link>
+      <link>https://alexgarbiak.com/post/pub-quiz-idea/</link>
       <pubDate>Sun, 26 Apr 2020 11:40:14 +0100</pubDate>
-      <guid>https://agarbiak.github.io/post/pub-quiz-idea/</guid>
+      <guid>https://alexgarbiak.com/post/pub-quiz-idea/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;A random idea popped into my head that it would be fun to try to create a pub quiz app. Pre-made quizzes are fun (with 
 
@@ -240,7 +240,7 @@ Marketing, I suppose.
 
 &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;premature optimisation&lt;/a&gt;, my usual mistake (as originally pointed 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/building-this-site/&#34;&gt;here&lt;/a&gt;). For now my argument is fair use which YouTube summarises 
+&lt;a href=&#34;https://alexgarbiak.com/post/building-this-site/&#34;&gt;here&lt;/a&gt;). For now my argument is fair use which YouTube summarises 
 
 &lt;a href=&#34;https://www.youtube.com/about/copyright/fair-use/#yt-copyright-four-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; albeit from a US legal standpoint. The sound assets are short clips (vast majority less than 15 seconds long) and my website is free to use.&lt;/li&gt;
 &lt;li&gt;GitHub capacity - this website is hosted on GitHub as I&amp;rsquo;m too cheap to pay for my own hosting (although it would be nice to have my own URL). I wonder what the bandwidth that GitHub offers before they quietly ask me for some money to upgrade to a paid plan? Again, I will ignore this for now to avoid 
@@ -315,7 +315,7 @@ ctx.fillRect(10, 10, 150, 100);
 &lt;canvas id=&#34;demoCanvas&#34; width=&#34;170&#34; height=&#34;120&#34; style=&#34;border:1px solid #000000;&#34;&gt;
     A HTML canvas with width 170 and height 120 with a small black border filled in with a blue rectangle by calling an external javascript file.
 &lt;/canvas&gt;
-&lt;script src=&#34;https://agarbiak.github.io/js/democanvas.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://alexgarbiak.com/js/democanvas.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;Basic but you have to start &lt;strong&gt;somewhere&lt;/strong&gt;. 😄&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Day 3 - 06 May, 2020&lt;/p&gt;
@@ -377,19 +377,59 @@ So, is the pub quiz code any good? It works. Too many &lt;code&gt;if&lt;/code&gt
 &lt;p&gt;What&amp;rsquo;s next? I intend to add more functionality but over a longer time period.  Additionally, I think it will be fun to write out more tailored pub quiz questions - this takes quite a bit of time (source material and writing up the questions &amp;amp; answers).
 For the time being I want to get back into 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;Blender&lt;/a&gt; - perhaps I can create some neon pub quiz image assets? 😏&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/pub-quiz-idea/&#34;&gt;Blender&lt;/a&gt; - perhaps I can create some neon pub quiz image assets? 😏&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Blender Renders</title>
-      <link>https://agarbiak.github.io/project/blender/</link>
+      <link>https://alexgarbiak.com/project/blender/</link>
       <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
-      <guid>https://agarbiak.github.io/project/blender/</guid>
+      <guid>https://alexgarbiak.com/project/blender/</guid>
       <description>&lt;h2 id=&#34;portfolio-of-renders-ive-created-from-blender&#34;&gt;Portfolio of renders I&amp;rsquo;ve created from Blender&lt;/h2&gt;
 &lt;p&gt;This page is a showcase of the Blender renders I&amp;rsquo;ve completed. The background to this is 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
+&lt;h3 id=&#34;current-work-june-2020---week-2&#34;&gt;Current work (June 2020 - Week 2)&lt;/h3&gt;
+
+&lt;p&gt;I am on 
+
+&lt;a href=&#34;https://www.youtube.com/channel/UCmjaEhArJiBnwyjl-xYvJdw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;! &lt;em&gt;&amp;ldquo;Why?&amp;quot;&lt;/em&gt; Easier faciliation of outputing Blender renders, particularly for video files (MPEG 4, encoded using the H.264 codec) which can grow in file size very quickly.&lt;/p&gt;
+&lt;p&gt;This week has been mostly working on an entire video composition from start to finish:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opening credits - The Matrix type effect is acheived using shading nodes only! This is entirely based on the work of 
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=4D4o-_3PwII&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt;, truly awesome - generated using math (and a font set from 
+
+&lt;a href=&#34;https://www.dafont.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dafont.com&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Modelling the chess pieces - helps to have good reference images but these can be hard to trace. In the video I show the reference image I used. It&amp;rsquo;s hard to tell but it&amp;rsquo;s not strictly a side projection (there is some slight rotation). You can get some sense of sharp edges from the lighting effects on the reference image. The knight was the hardest piece to model.&lt;/li&gt;
+&lt;li&gt;Shading the objects - kept this simple and used the default 
+
+&lt;a href=&#34;https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/principled.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principled BSDF&lt;/a&gt; node.&lt;/li&gt;
+&lt;li&gt;World lighting - again kept this simple and used one of Blender&amp;rsquo;s default HDRI from within the material preview viewport shading.&lt;/li&gt;
+&lt;li&gt;Finding a Chess Game to play out - I chose 
+
+&lt;a href=&#34;https://www.chessgames.com/perl/chessgame?gid=1011478&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kasparov&amp;rsquo;s Immortal&lt;/a&gt; game, it sounded cool and is highly rated in the Chess world.&lt;/li&gt;
+&lt;li&gt;Animating the chess game - I soon realised this was going to be tedious. Blender allows you to write custom Python scripts which would make this process much more efficient. A few edge cases need to be considered though:
+&lt;ul&gt;
+&lt;li&gt;Pieces moving over each other (such as the Knight&amp;rsquo;s L shaped move - I opted for a quick z-axis lift)&lt;/li&gt;
+&lt;li&gt;Piece taking another piece - here I opted for a &lt;em&gt;vanishing&lt;/em&gt; act achieved using a z-axis fall&lt;/li&gt;
+&lt;li&gt;Pawn upgrade - not shown in this sample video&lt;/li&gt;
+&lt;li&gt;King checkmate - again not shown in thie sample video
+The other critical element is the camera placement and movement - I kept this simple, it&amp;rsquo;s not great and is a bit boring to be honest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finding some suitable music to go with the video images. I wanted to explore some copyright free music (simplistically works pre-1922 are in Public Domain) but you still have to be careful. Performances of Public Domains work are copyrighted to the performer. So my YouTube video was demonetized (I am not eligble for the YouTube partner program yet anywhere). I went with 
+
+&lt;a href=&#34;https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1?si=9MxoAm1iQdGkbec26rHaKg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erik Satie&amp;rsquo;s Gnossienne No. 1&lt;/a&gt;, performed by Alena Cherny.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There is a lot of work left to do hence the title of a concept piece:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Perhaps the most major blunder is the incorrect composition of the chessboard! The white Rook (position h1) should start on a white square. &lt;em&gt;&amp;ldquo;Why not re-render?&amp;quot;&lt;/em&gt; you may ask. The reason is partially laziness, partially to move onto a new project and partially due to rendering times (roughly 30 minutes using the Eevee rendering engine).&lt;/li&gt;
+&lt;li&gt;I ran out of time to complete the Chess Notation section (bottom right of the chess game animation) although I did find a nice Chess font from 
+
+&lt;a href=&#34;https://www.dafont.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dafont.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;current-work-june-2020---week-1&#34;&gt;Current work (June 2020 - Week 1)&lt;/h3&gt;
 &lt;p&gt;Finally decided to go back to basics and follow along with some beginner&amp;rsquo;s level tutorials. The one that has become a bit of meme amongst the Blender community, the &amp;ldquo;&lt;em&gt;Hello World&lt;/em&gt;&amp;rdquo; of renders, the donut. For those aspiring to start working with Blender I highly recommend Blender Guru&amp;rsquo;s 
 
@@ -420,10 +460,10 @@ For the time being I want to get back into
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -455,10 +495,10 @@ For the time being I want to get back into
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1920&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1920&#34;&gt;
 &lt;/a&gt;
 
 
@@ -490,10 +530,10 @@ For the time being I want to get back into
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -563,10 +603,10 @@ For the time being I want to get back into
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -596,7 +636,7 @@ For the time being I want to get back into
 &lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;Introduction to Mocap using 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Mixamo&lt;/a&gt;, Adobe&amp;rsquo;s free rigging tool:
+&lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;Mixamo&lt;/a&gt;, Adobe&amp;rsquo;s free rigging tool:
 
 
 
@@ -696,9 +736,9 @@ For the time being I want to get back into
     
     <item>
       <title>Blender - Open Source Computer Graphics</title>
-      <link>https://agarbiak.github.io/post/blender/</link>
+      <link>https://alexgarbiak.com/post/blender/</link>
       <pubDate>Sun, 01 Mar 2020 12:46:19 +0000</pubDate>
-      <guid>https://agarbiak.github.io/post/blender/</guid>
+      <guid>https://alexgarbiak.com/post/blender/</guid>
       <description>&lt;p&gt;Perhaps it was the blessings of the YouTube algorithm, but for whatever reason I wanted to do some animation.
 I&amp;rsquo;ve never worked on computer graphics before but having now spent a week or so messing around in Blender, I have found it a lot of fun. I have learnt a few things along the way already:&lt;/p&gt;
 &lt;ol&gt;
@@ -743,9 +783,9 @@ The artwork by this CG artist is awesome, and the style is something I&amp;rsquo
     
     <item>
       <title>How I built this website</title>
-      <link>https://agarbiak.github.io/post/building-this-site/</link>
+      <link>https://alexgarbiak.com/post/building-this-site/</link>
       <pubDate>Fri, 31 Jan 2020 23:12:01 +0000</pubDate>
-      <guid>https://agarbiak.github.io/post/building-this-site/</guid>
+      <guid>https://alexgarbiak.com/post/building-this-site/</guid>
       <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     This post is not yet complete and perhaps never will be. I suffer from &lt;a href=&#34;https://stackify.com/premature-optimization-evil/&#34;&gt;premature optimisation&lt;/a&gt; and so I have posted this as-is. To prove this point - consider the last updated date and look at the &lt;a href=&#34;https://github.com/agarbiak/agarbiak.github.io&#34;&gt;Github repo&lt;/a&gt; for a history of this page.
@@ -777,7 +817,7 @@ The artwork by this CG artist is awesome, and the style is something I&amp;rsquo
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; theme).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Perhaps an additional motiviation was that I enjoy learning new things and this seemed like a good challenge. This website was created in 2020. Around the same time I started to mess around with Blender - see 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;this post&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;this post&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;I had previously only tried to build a website a couple of times before:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Dabbling with 
@@ -839,6 +879,15 @@ The artwork by this CG artist is awesome, and the style is something I&amp;rsquo
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Changes to layout and theming is performed at the root directory, not within the theme folder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;url-registration&#34;&gt;URL registration&lt;/h2&gt;
+&lt;p&gt;Unfortunately &lt;em&gt;garbiak.com&lt;/em&gt; was taken so I opted to register alexgarbiak.com as my custom URL. I am using 
+
+&lt;a href=&#34;https://domains.google/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Domains&lt;/a&gt; as the registrar of the domain. To link up the hosted content (on GitHub) with the URL I added a CNAME. Pretty straightforward with an annual fee payable of £10, seems reasonable. Some benefits of Google&amp;rsquo;s service:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Access to Google&amp;rsquo;s DNS servers (fast and reliable you&amp;rsquo;d hope),&lt;/li&gt;
+&lt;li&gt;Privacy (WHOIS), and&lt;/li&gt;
+&lt;li&gt;100 alias email addresses&lt;/li&gt;
 &lt;/ul&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;

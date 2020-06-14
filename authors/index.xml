@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/authors/</link>
-      <atom:link href="https://agarbiak.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/authors/</link>
+      <atom:link href="https://alexgarbiak.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
-      <link>https://agarbiak.github.io/authors/</link>
+      <link>https://alexgarbiak.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://agarbiak.github.io/authors/admin/</link>
+      <link>https://alexgarbiak.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://agarbiak.github.io/authors/admin/</guid>
+      <guid>https://alexgarbiak.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a senior actuarial analyst at Hiscox. I currently work within the group reserving team focusing on US liability classes of business. Outside of this role, I am interested in software development, which in the work context would generally imply using &lt;code&gt;R&lt;/code&gt; or &lt;code&gt;SQL&lt;/code&gt;. As a challenge (or perhaps for a distraction) I decided to build this website, partially to archive some personal thoughts as well as using this as an opportunity to develop some new skills. It also serves as a 
 
-&lt;a href=&#34;https://agarbiak.github.io/project/blender/&#34;&gt;showcase&lt;/a&gt; for some of my terrible creations.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/project/blender/&#34;&gt;showcase&lt;/a&gt; for some of my terrible creations.&lt;/p&gt;
 &lt;p&gt;This is my personal website and is not associated with Hiscox. As such all views and opinions expressed are my own and do not reflect those of my employer.&lt;/p&gt;
 </description>
     </item>

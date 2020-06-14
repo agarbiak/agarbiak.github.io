@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/tags/</link>
-      <atom:link href="https://agarbiak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/tags/</link>
+      <atom:link href="https://alexgarbiak.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Wed, 20 May 2020 22:33:31 +0100</lastBuildDate>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Tags</title>
-      <link>https://agarbiak.github.io/tags/</link>
+      <link>https://alexgarbiak.com/tags/</link>
     </image>
     
     <item>
       <title>Blender</title>
-      <link>https://agarbiak.github.io/tags/blender/</link>
+      <link>https://alexgarbiak.com/tags/blender/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
-      <guid>https://agarbiak.github.io/tags/blender/</guid>
+      <guid>https://alexgarbiak.com/tags/blender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web development</title>
-      <link>https://agarbiak.github.io/tags/web-development/</link>
+      <link>https://alexgarbiak.com/tags/web-development/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
-      <guid>https://agarbiak.github.io/tags/web-development/</guid>
+      <guid>https://alexgarbiak.com/tags/web-development/</guid>
       <description></description>
     </item>
     

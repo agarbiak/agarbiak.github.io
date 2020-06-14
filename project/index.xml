@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/project/</link>
-      <atom:link href="https://agarbiak.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/project/</link>
+      <atom:link href="https://alexgarbiak.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Sun, 26 Apr 2020 13:54:43 +0100</lastBuildDate>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
-      <link>https://agarbiak.github.io/project/</link>
+      <link>https://alexgarbiak.com/project/</link>
     </image>
     
     <item>
       <title>The Garbiak Pub Quiz</title>
-      <link>https://agarbiak.github.io/project/pub-quiz/</link>
+      <link>https://alexgarbiak.com/project/pub-quiz/</link>
       <pubDate>Sun, 26 Apr 2020 13:54:43 +0100</pubDate>
-      <guid>https://agarbiak.github.io/project/pub-quiz/</guid>
+      <guid>https://alexgarbiak.com/project/pub-quiz/</guid>
       <description>&lt;p&gt;Currently under development - please read my blog 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/pub-quiz-idea/&#34;&gt;post&lt;/a&gt; about this.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;The quiz is periodically updated - check the &amp;ldquo;last updated&amp;rdquo; field above.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://agarbiak.github.io/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alexgarbiak.com/pub-quiz/start.html&#34; class=&#34;quiz-launcher&#34;&gt;Load the Garbiak Quiz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Certain quiz questions may be pulled via the 
 
 &lt;a href=&#34;https://opentdb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Trivia Database API&lt;/a&gt;&lt;/p&gt;
@@ -32,13 +32,53 @@
     
     <item>
       <title>Blender Renders</title>
-      <link>https://agarbiak.github.io/project/blender/</link>
+      <link>https://alexgarbiak.com/project/blender/</link>
       <pubDate>Sat, 14 Mar 2020 16:18:53 +0000</pubDate>
-      <guid>https://agarbiak.github.io/project/blender/</guid>
+      <guid>https://alexgarbiak.com/project/blender/</guid>
       <description>&lt;h2 id=&#34;portfolio-of-renders-ive-created-from-blender&#34;&gt;Portfolio of renders I&amp;rsquo;ve created from Blender&lt;/h2&gt;
 &lt;p&gt;This page is a showcase of the Blender renders I&amp;rsquo;ve completed. The background to this is 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
+&lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
+&lt;h3 id=&#34;current-work-june-2020---week-2&#34;&gt;Current work (June 2020 - Week 2)&lt;/h3&gt;
+
+&lt;p&gt;I am on 
+
+&lt;a href=&#34;https://www.youtube.com/channel/UCmjaEhArJiBnwyjl-xYvJdw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;! &lt;em&gt;&amp;ldquo;Why?&amp;quot;&lt;/em&gt; Easier faciliation of outputing Blender renders, particularly for video files (MPEG 4, encoded using the H.264 codec) which can grow in file size very quickly.&lt;/p&gt;
+&lt;p&gt;This week has been mostly working on an entire video composition from start to finish:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opening credits - The Matrix type effect is acheived using shading nodes only! This is entirely based on the work of 
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=4D4o-_3PwII&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGMatter&lt;/a&gt;, truly awesome - generated using math (and a font set from 
+
+&lt;a href=&#34;https://www.dafont.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dafont.com&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Modelling the chess pieces - helps to have good reference images but these can be hard to trace. In the video I show the reference image I used. It&amp;rsquo;s hard to tell but it&amp;rsquo;s not strictly a side projection (there is some slight rotation). You can get some sense of sharp edges from the lighting effects on the reference image. The knight was the hardest piece to model.&lt;/li&gt;
+&lt;li&gt;Shading the objects - kept this simple and used the default 
+
+&lt;a href=&#34;https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/principled.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principled BSDF&lt;/a&gt; node.&lt;/li&gt;
+&lt;li&gt;World lighting - again kept this simple and used one of Blender&amp;rsquo;s default HDRI from within the material preview viewport shading.&lt;/li&gt;
+&lt;li&gt;Finding a Chess Game to play out - I chose 
+
+&lt;a href=&#34;https://www.chessgames.com/perl/chessgame?gid=1011478&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kasparov&amp;rsquo;s Immortal&lt;/a&gt; game, it sounded cool and is highly rated in the Chess world.&lt;/li&gt;
+&lt;li&gt;Animating the chess game - I soon realised this was going to be tedious. Blender allows you to write custom Python scripts which would make this process much more efficient. A few edge cases need to be considered though:
+&lt;ul&gt;
+&lt;li&gt;Pieces moving over each other (such as the Knight&amp;rsquo;s L shaped move - I opted for a quick z-axis lift)&lt;/li&gt;
+&lt;li&gt;Piece taking another piece - here I opted for a &lt;em&gt;vanishing&lt;/em&gt; act achieved using a z-axis fall&lt;/li&gt;
+&lt;li&gt;Pawn upgrade - not shown in this sample video&lt;/li&gt;
+&lt;li&gt;King checkmate - again not shown in thie sample video
+The other critical element is the camera placement and movement - I kept this simple, it&amp;rsquo;s not great and is a bit boring to be honest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finding some suitable music to go with the video images. I wanted to explore some copyright free music (simplistically works pre-1922 are in Public Domain) but you still have to be careful. Performances of Public Domains work are copyrighted to the performer. So my YouTube video was demonetized (I am not eligble for the YouTube partner program yet anywhere). I went with 
+
+&lt;a href=&#34;https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1?si=9MxoAm1iQdGkbec26rHaKg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erik Satie&amp;rsquo;s Gnossienne No. 1&lt;/a&gt;, performed by Alena Cherny.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There is a lot of work left to do hence the title of a concept piece:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Perhaps the most major blunder is the incorrect composition of the chessboard! The white Rook (position h1) should start on a white square. &lt;em&gt;&amp;ldquo;Why not re-render?&amp;quot;&lt;/em&gt; you may ask. The reason is partially laziness, partially to move onto a new project and partially due to rendering times (roughly 30 minutes using the Eevee rendering engine).&lt;/li&gt;
+&lt;li&gt;I ran out of time to complete the Chess Notation section (bottom right of the chess game animation) although I did find a nice Chess font from 
+
+&lt;a href=&#34;https://www.dafont.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dafont.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;current-work-june-2020---week-1&#34;&gt;Current work (June 2020 - Week 1)&lt;/h3&gt;
 &lt;p&gt;Finally decided to go back to basics and follow along with some beginner&amp;rsquo;s level tutorials. The one that has become a bit of meme amongst the Blender community, the &amp;ldquo;&lt;em&gt;Hello World&lt;/em&gt;&amp;rdquo; of renders, the donut. For those aspiring to start working with Blender I highly recommend Blender Guru&amp;rsquo;s 
 
@@ -69,10 +109,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/Donut_hudde823af3953b85164b4fd30876cd429_2518320_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -104,10 +144,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1920&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/teddyBear_hu70b22714b536486419f8fc7a8b0854e4_3441033_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1920&#34;&gt;
 &lt;/a&gt;
 
 
@@ -139,10 +179,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/garbiakQuiz_hu9191ce2c7defde6f87d7adadbfcd3ae6_3051315_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -212,10 +252,10 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agarbiak.github.io/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://alexgarbiak.com/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://agarbiak.github.io/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1080&#34;&gt;
+  &lt;img data-src=&#34;https://alexgarbiak.com/project/blender/AG-Funko-Cycles3_hu5be7ab397cf3844e44a2231fdd865af2_1319467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1080&#34; height=&#34;1080&#34;&gt;
 &lt;/a&gt;
 
 
@@ -245,7 +285,7 @@
 &lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;Introduction to Mocap using 
 
-&lt;a href=&#34;https://agarbiak.github.io/post/blender/&#34;&gt;Mixamo&lt;/a&gt;, Adobe&amp;rsquo;s free rigging tool:
+&lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;Mixamo&lt;/a&gt;, Adobe&amp;rsquo;s free rigging tool:
 
 
 

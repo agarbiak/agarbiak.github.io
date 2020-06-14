@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/categories/</link>
-      <atom:link href="https://agarbiak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/categories/</link>
+      <atom:link href="https://alexgarbiak.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright><lastBuildDate>Wed, 20 May 2020 22:33:31 +0100</lastBuildDate>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://agarbiak.github.io/categories/</link>
+      <link>https://alexgarbiak.com/categories/</link>
     </image>
     
     <item>
       <title>Personal</title>
-      <link>https://agarbiak.github.io/categories/personal/</link>
+      <link>https://alexgarbiak.com/categories/personal/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
-      <guid>https://agarbiak.github.io/categories/personal/</guid>
+      <guid>https://alexgarbiak.com/categories/personal/</guid>
       <description></description>
     </item>
     

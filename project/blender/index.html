@@ -31,7 +31,7 @@
   <meta name="description" content="A portfolio of renders from Blender I&#39;ve created">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://agarbiak.github.io/project/blender/">
+  <link rel="alternate" hreflang="en-us" href="https://alexgarbiak.com/project/blender/">
 
   
 
@@ -251,7 +251,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hua7ca02a8c28c6e15133e16100d126bc4_14965_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua7ca02a8c28c6e15133e16100d126bc4_14965_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://agarbiak.github.io/project/blender/">
+  <link rel="canonical" href="https://alexgarbiak.com/project/blender/">
 
   
   
@@ -264,15 +264,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Alexander Garbiak">
-  <meta property="og:url" content="https://agarbiak.github.io/project/blender/">
+  <meta property="og:url" content="https://alexgarbiak.com/project/blender/">
   <meta property="og:title" content="Blender Renders | Alexander Garbiak">
-  <meta property="og:description" content="A portfolio of renders from Blender I&#39;ve created"><meta property="og:image" content="https://agarbiak.github.io/project/blender/featured.jpg">
-  <meta property="twitter:image" content="https://agarbiak.github.io/project/blender/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="A portfolio of renders from Blender I&#39;ve created"><meta property="og:image" content="https://alexgarbiak.com/project/blender/featured.jpg">
+  <meta property="twitter:image" content="https://alexgarbiak.com/project/blender/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-03-14T16:18:53&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-06-05T13:08:10&#43;01:00">
+    <meta property="article:modified_time" content="2020-06-14T21:41:16&#43;01:00">
   
 
   
@@ -296,16 +296,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://agarbiak.github.io/project/blender/"
+    "@id": "https://alexgarbiak.com/project/blender/"
   },
   "headline": "Blender Renders",
   
   "image": [
-    "https://agarbiak.github.io/project/blender/featured.jpg"
+    "https://alexgarbiak.com/project/blender/featured.jpg"
   ],
   
   "datePublished": "2020-03-14T16:18:53Z",
-  "dateModified": "2020-06-05T13:08:10+01:00",
+  "dateModified": "2020-06-14T21:41:16+01:00",
   
   "author": {
     "@type": "Person",
@@ -317,7 +317,7 @@
     "name": "Alexander Garbiak",
     "logo": {
       "@type": "ImageObject",
-      "url": "img/https://agarbiak.github.io/"
+      "url": "img/https://alexgarbiak.com/"
     }
   },
   "description": "A portfolio of renders from Blender I've created"
@@ -683,7 +683,7 @@
           Last updated on
       
     
-    5 Jun, 2020
+    14 Jun, 2020
   </span>
   
 
@@ -737,7 +737,47 @@
       <h2 id="portfolio-of-renders-ive-created-from-blender">Portfolio of renders I&rsquo;ve created from Blender</h2>
 <p>This page is a showcase of the Blender renders I&rsquo;ve completed. The background to this is 
 
-<a href="https://agarbiak.github.io/post/blender/">here.</a> Over time this project will evolve into something more substantial.</p>
+<a href="https://alexgarbiak.com/post/blender/">here.</a> Over time this project will evolve into something more substantial.</p>
+<h3 id="current-work-june-2020---week-2">Current work (June 2020 - Week 2)</h3>
+
+<p>I am on 
+
+<a href="https://www.youtube.com/channel/UCmjaEhArJiBnwyjl-xYvJdw" target="_blank" rel="noopener">YouTube</a>! <em>&ldquo;Why?&quot;</em> Easier faciliation of outputing Blender renders, particularly for video files (MPEG 4, encoded using the H.264 codec) which can grow in file size very quickly.</p>
+<p>This week has been mostly working on an entire video composition from start to finish:</p>
+<ul>
+<li>Opening credits - The Matrix type effect is acheived using shading nodes only! This is entirely based on the work of 
+
+<a href="https://www.youtube.com/watch?v=4D4o-_3PwII" target="_blank" rel="noopener">CGMatter</a>, truly awesome - generated using math (and a font set from 
+
+<a href="https://www.dafont.com/" target="_blank" rel="noopener">dafont.com</a>).</li>
+<li>Modelling the chess pieces - helps to have good reference images but these can be hard to trace. In the video I show the reference image I used. It&rsquo;s hard to tell but it&rsquo;s not strictly a side projection (there is some slight rotation). You can get some sense of sharp edges from the lighting effects on the reference image. The knight was the hardest piece to model.</li>
+<li>Shading the objects - kept this simple and used the default 
+
+<a href="https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/principled.html" target="_blank" rel="noopener">Principled BSDF</a> node.</li>
+<li>World lighting - again kept this simple and used one of Blender&rsquo;s default HDRI from within the material preview viewport shading.</li>
+<li>Finding a Chess Game to play out - I chose 
+
+<a href="https://www.chessgames.com/perl/chessgame?gid=1011478" target="_blank" rel="noopener">Kasparov&rsquo;s Immortal</a> game, it sounded cool and is highly rated in the Chess world.</li>
+<li>Animating the chess game - I soon realised this was going to be tedious. Blender allows you to write custom Python scripts which would make this process much more efficient. A few edge cases need to be considered though:
+<ul>
+<li>Pieces moving over each other (such as the Knight&rsquo;s L shaped move - I opted for a quick z-axis lift)</li>
+<li>Piece taking another piece - here I opted for a <em>vanishing</em> act achieved using a z-axis fall</li>
+<li>Pawn upgrade - not shown in this sample video</li>
+<li>King checkmate - again not shown in thie sample video
+The other critical element is the camera placement and movement - I kept this simple, it&rsquo;s not great and is a bit boring to be honest.</li>
+</ul>
+</li>
+<li>Finding some suitable music to go with the video images. I wanted to explore some copyright free music (simplistically works pre-1922 are in Public Domain) but you still have to be careful. Performances of Public Domains work are copyrighted to the performer. So my YouTube video was demonetized (I am not eligble for the YouTube partner program yet anywhere). I went with 
+
+<a href="https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1?si=9MxoAm1iQdGkbec26rHaKg" target="_blank" rel="noopener">Erik Satie&rsquo;s Gnossienne No. 1</a>, performed by Alena Cherny.</li>
+</ul>
+<p>There is a lot of work left to do hence the title of a concept piece:</p>
+<ul>
+<li>Perhaps the most major blunder is the incorrect composition of the chessboard! The white Rook (position h1) should start on a white square. <em>&ldquo;Why not re-render?&quot;</em> you may ask. The reason is partially laziness, partially to move onto a new project and partially due to rendering times (roughly 30 minutes using the Eevee rendering engine).</li>
+<li>I ran out of time to complete the Chess Notation section (bottom right of the chess game animation) although I did find a nice Chess font from 
+
+<a href="https://www.dafont.com/" target="_blank" rel="noopener">dafont.com</a>.</li>
+</ul>
 <h3 id="current-work-june-2020---week-1">Current work (June 2020 - Week 1)</h3>
 <p>Finally decided to go back to basics and follow along with some beginner&rsquo;s level tutorials. The one that has become a bit of meme amongst the Blender community, the &ldquo;<em>Hello World</em>&rdquo; of renders, the donut. For those aspiring to start working with Blender I highly recommend Blender Guru&rsquo;s 
 
@@ -944,7 +984,7 @@
 </video></p>
 <p>Introduction to Mocap using 
 
-<a href="https://agarbiak.github.io/post/blender/">Mixamo</a>, Adobe&rsquo;s free rigging tool:
+<a href="https://alexgarbiak.com/post/blender/">Mixamo</a>, Adobe&rsquo;s free rigging tool:
 
 
 
@@ -1067,7 +1107,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Blender%20Renders&amp;body=https://agarbiak.github.io/project/blender/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Blender%20Renders&amp;body=https://alexgarbiak.com/project/blender/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1080,7 +1120,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://agarbiak.github.io/project/blender/&amp;title=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://alexgarbiak.com/project/blender/&amp;title=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1093,7 +1133,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://agarbiak.github.io/project/blender/&amp;text=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://alexgarbiak.com/project/blender/&amp;text=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1106,7 +1146,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://agarbiak.github.io/project/blender/&amp;t=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://alexgarbiak.com/project/blender/&amp;t=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1119,7 +1159,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Blender%20Renders%20https://agarbiak.github.io/project/blender/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Blender%20Renders%20https://alexgarbiak.com/project/blender/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1132,7 +1172,7 @@
       
       
       <li>
-        <a href="https://reddit.com/submit?url=https://agarbiak.github.io/project/blender/&amp;title=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-reddit">
+        <a href="https://reddit.com/submit?url=https://alexgarbiak.com/project/blender/&amp;title=Blender%20Renders" target="_blank" rel="noopener" class="share-btn-reddit">
           <i class="fab fa-reddit-alien"></i>
         </a>
       </li>
@@ -1172,7 +1212,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://agarbiak.github.io/">Alexander Garbiak</a></h5>
+      <h5 class="card-title"><a href="https://alexgarbiak.com/">Alexander Garbiak</a></h5>
       <h6 class="card-subtitle">Senior Actuarial Analyst</h6>
       <p class="card-text">I work at <a href="https://www.hiscox.co.uk">Hiscox</a> as a senior actuarial analyst within the reserving team. All views and opinions expressed are my own and do not reflect those of my employer.</p>
       <ul class="network-icon" aria-hidden="true">

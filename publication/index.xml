@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Alexander Garbiak</title>
-    <link>https://agarbiak.github.io/publication/</link>
-      <atom:link href="https://agarbiak.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexgarbiak.com/publication/</link>
+      <atom:link href="https://alexgarbiak.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Alexander Garbiak</copyright>
     <image>
-      <url>https://agarbiak.github.io/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
+      <url>https://alexgarbiak.com/images/logo_hua7ca02a8c28c6e15133e16100d126bc4_14965_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
-      <link>https://agarbiak.github.io/publication/</link>
+      <link>https://alexgarbiak.com/publication/</link>
     </image>
     
   </channel>
