@@ -107,10 +107,14 @@ Examples:&lt;/p&gt;
 
 &lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;here.&lt;/a&gt; Over time this project will evolve into something more substantial.&lt;/p&gt;
 &lt;h3 id=&#34;current-work-june-2020---week-2&#34;&gt;Current work (June 2020 - Week 2)&lt;/h3&gt;
-
 &lt;p&gt;I am on 
 
-&lt;a href=&#34;https://www.youtube.com/channel/UCmjaEhArJiBnwyjl-xYvJdw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;! &lt;em&gt;&amp;ldquo;Why?&amp;quot;&lt;/em&gt; Easier faciliation of outputing Blender renders, particularly for video files (MPEG 4, encoded using the H.264 codec) which can grow in file size very quickly.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCmjaEhArJiBnwyjl-xYvJdw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;! &lt;em&gt;&amp;ldquo;Why would you do this?&amp;quot;&lt;/em&gt; Easier faciliation of outputing Blender renders, particularly for video files (MPEG 4, encoded using the H.264 codec) which can grow in file size very quickly.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/53oc5Vh7eN0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;This week has been mostly working on an entire video composition from start to finish:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Opening credits - The Matrix type effect is acheived using shading nodes only! This is entirely based on the work of 
@@ -138,6 +142,7 @@ The other critical element is the camera placement and movement - I kept this si
 &lt;li&gt;Finding some suitable music to go with the video images. I wanted to explore some copyright free music (simplistically works pre-1922 are in Public Domain) but you still have to be careful. Performances of Public Domains work are copyrighted to the performer. So my YouTube video was demonetized (I am not eligble for the YouTube partner program yet anywhere). I went with 
 
 &lt;a href=&#34;https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1?si=9MxoAm1iQdGkbec26rHaKg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erik Satie&amp;rsquo;s Gnossienne No. 1&lt;/a&gt;, performed by Alena Cherny.&lt;/li&gt;
+&lt;li&gt;Using Blender&amp;rsquo;s Video Editing workflow to composite the various video clips and the audio file together. Very simple use of a fade transition. Not used this workflow before, looks pretty cool!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There is a lot of work left to do hence the title of a concept piece:&lt;/p&gt;
 &lt;ul&gt;
