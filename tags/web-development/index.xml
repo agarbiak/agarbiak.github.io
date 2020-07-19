@@ -17,7 +17,13 @@
       <link>https://alexgarbiak.com/post/ideas-for-june-2020/</link>
       <pubDate>Wed, 20 May 2020 22:33:31 +0100</pubDate>
       <guid>https://alexgarbiak.com/post/ideas-for-june-2020/</guid>
-      <description>&lt;h1 id=&#34;update&#34;&gt;Update&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;final-update&#34;&gt;Final Update&lt;/h1&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Turns out I am enjoying playing around with &lt;a href=&#34;https://alexgarbiak.com/project/blender/&#34;&gt;Blender&lt;/a&gt; again. I didn&amp;rsquo;t work on any of my initial planned mini-projects beyond some further thoughts on a &lt;code&gt;.csv&lt;/code&gt; parser. Perhaps I archive these for another day. I&amp;rsquo;ve also been busy at work learning &lt;code&gt;T#&lt;/code&gt;, the proprietary programming language used in &lt;a href=&#34;https://www.rpc.co.uk/services/rpc-consulting/software/&#34;&gt;Tyche&lt;/a&gt; by RPC.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;update&#34;&gt;Update&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     So I&amp;rsquo;ve been distracted over the last weekend of May with &lt;a href=&#34;https://alexgarbiak.com/post/blender/&#34;&gt;Blender&lt;/a&gt; again. The feature image was created using Blender&amp;rsquo;s sculpting workflow and some nice shading techniques to create the sclera cornea and iris. I&amp;rsquo;ll be adding some more Blender renders over this month. This has taken up much more time than anticipated so I&amp;rsquo;m currently putting on hold the below development work.
